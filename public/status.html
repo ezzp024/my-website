@@ -8,61 +8,146 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
   <style>
-    .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 28px; }
-    .status-filter-btn {
-      padding: 7px 16px; border-radius: 20px; font-size: 13px; font-weight: 600;
-      cursor: pointer; border: 1px solid var(--border); color: var(--text2);
-      background: transparent; transition: var(--trans);
+    .status-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
     }
-    .status-filter-btn:hover { border-color: var(--purple); color: var(--purple2); }
-    .status-filter-btn.active { background: var(--purple); border-color: var(--purple); color: #fff; }
-    .status-filter-btn.updating.active { background: rgba(245,158,11,0.8); border-color: #f59e0b; }
-    .status-filter-btn.testing.active { background: rgba(59,130,246,0.8); border-color: #3b82f6; }
-    .status-filter-btn.online.active { background: rgba(16,185,129,0.8); border-color: #10b981; }
-    .status-filter-btn.offline.active { background: rgba(239,68,68,0.8); border-color: #ef4444; }
-
-    .iframe-status {
-      width: 100%; border: none; border-radius: var(--radius);
-      background: var(--card);
-    }
-    .source-info {
+    .brand-card {
       background: var(--card2);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 16px 20px;
-      font-size: 13px;
-      color: var(--text2);
-      margin-bottom: 24px;
+      padding: 20px;
+      cursor: pointer;
+      transition: var(--trans);
+      position: relative;
+      overflow: hidden;
+    }
+    .brand-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; height: 4px;
+    }
+    .brand-card.updating::before { background: linear-gradient(90deg, #f59e0b, #fbbf24); }
+    .brand-card.testing::before { background: linear-gradient(90deg, #3b82f6, #60a5fa); }
+    .brand-card.online::before { background: linear-gradient(90deg, #10b981, #34d399); }
+    .brand-card.offline::before { background: linear-gradient(90deg, #ef4444, #f87171); }
+    .brand-card.maintenance::before { background: linear-gradient(90deg, #8b5cf6, #a78bfa); }
+    .brand-card.error::before { background: linear-gradient(90deg, #64748b, #94a3b8); }
+    .brand-card:hover { border-color: var(--border2); transform: translateY(-2px); }
+    .brand-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+    .brand-name {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .brand-status-badge {
       display: flex;
       align-items: center;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 12px;
+      gap: 6px;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
     }
-    .source-url { font-family: monospace; color: var(--cyan); font-size: 12px; }
-    .countdown-ring {
-      width: 48px; height: 48px;
+    .brand-status-badge.updating { background: rgba(245,158,11,0.15); color: #fbbf24; }
+    .brand-status-badge.testing { background: rgba(59,130,246,0.15); color: #60a5fa; }
+    .brand-status-badge.online { background: rgba(16,185,129,0.15); color: #34d399; }
+    .brand-status-badge.offline { background: rgba(239,68,68,0.15); color: #f87171; }
+    .brand-status-badge.maintenance { background: rgba(139,92,246,0.15); color: #a78bfa; }
+    .brand-status-badge.error { background: rgba(100,116,139,0.15); color: #94a3b8; }
+    .status-dot {
+      width: 8px; height: 8px;
       border-radius: 50%;
-      border: 3px solid rgba(139,92,246,0.2);
-      border-top-color: var(--purple);
-      animation: spin 1s linear infinite;
-      flex-shrink: 0;
+      background: currentColor;
+      animation: pulse 2s infinite;
     }
-    .summary-row {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-      gap: 12px;
-      margin-bottom: 28px;
+    .product-count {
+      font-size: 13px;
+      color: var(--text3);
+      margin-top: 8px;
     }
-    .summary-card {
-      background: var(--card2);
+    .products-drawer {
+      position: fixed;
+      top: 0; right: -500px;
+      width: 450px; height: 100vh;
+      background: var(--bg2);
+      border-left: 1px solid var(--border);
+      z-index: 200;
+      transition: right 0.3s ease;
+      overflow-y: auto;
+      padding: 24px;
+    }
+    .products-drawer.open { right: 0; }
+    .drawer-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 199;
+      opacity: 0;
+      visibility: hidden;
+      transition: var(--trans);
+    }
+    .drawer-overlay.show { opacity: 1; visibility: visible; }
+    .drawer-close {
+      position: absolute;
+      top: 20px; right: 20px;
+      background: none;
+      border: none;
+      color: var(--text3);
+      font-size: 24px;
+      cursor: pointer;
+    }
+    .drawer-title {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 20px;
+      padding-right: 40px;
+    }
+    .product-item {
+      background: var(--card);
       border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 16px;
-      text-align: center;
+      border-radius: var(--radius2);
+      padding: 12px 16px;
+      margin-bottom: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
-    .summary-num { font-size: 28px; font-weight: 900; }
-    .summary-label { font-size: 11px; color: var(--text3); text-transform: uppercase; letter-spacing: 0.8px; margin-top: 4px; }
+    .product-item-name { font-size: 14px; font-weight: 500; }
+    .product-item-status {
+      font-size: 12px;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 12px;
+    }
+    .product-item-status.updating { background: rgba(245,158,11,0.15); color: #fbbf24; }
+    .product-item-status.testing { background: rgba(59,130,246,0.15); color: #60a5fa; }
+    .product-item-status.online { background: rgba(16,185,129,0.15); color: #34d399; }
+    .product-item-status.offline { background: rgba(239,68,68,0.15); color: #f87171; }
+    .product-item-status.maintenance { background: rgba(139,92,246,0.15); color: #a78bfa; }
+    .summary-bar {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+    }
+    .summary-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 16px;
+      background: var(--card2);
+      border-radius: var(--radius2);
+      border: 1px solid var(--border);
+    }
+    .summary-count { font-size: 20px; font-weight: 700; }
+    .summary-label { font-size: 12px; color: var(--text3); }
   </style>
 </head>
 <body>
@@ -71,8 +156,6 @@
 <div class="cursor-glow" id="cursorGlow"></div>
 
 <div style="display:flex; min-height:100vh; position:relative; z-index:1;">
-
-  <!-- Sidebar -->
   <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button>
   <nav class="sidebar" id="sidebar">
     <div class="sidebar-logo">
@@ -87,16 +170,13 @@
       <a class="nav-item" href="commands.html"><span class="nav-icon">⚡</span> Bot Commands</a>
       <div class="nav-section-label" style="margin-top:24px;">Quick Links</div>
       <a class="nav-item" href="https://support.cosmotickets.com/" target="_blank"><span class="nav-icon">🌐</span> Support Site</a>
-      <a class="nav-item" href="https://support.cosmotickets.com/status/" target="_blank"><span class="nav-icon">🔴</span> Status Page</a>
     </div>
     <div class="sidebar-footer">
       <a href="https://support.cosmotickets.com/" target="_blank"><span>🔗</span> support.cosmotickets.com</a>
     </div>
   </nav>
 
-  <!-- Main -->
   <main class="main">
-    <!-- Topbar -->
     <div class="topbar">
       <div class="page-title">📡 Live Status</div>
       <div class="topbar-actions">
@@ -108,296 +188,190 @@
       </div>
     </div>
 
-    <!-- Content -->
     <div class="status-page-wrap">
-
-      <!-- Source Info -->
       <div class="source-info">
         <div>
           <div style="font-weight:600;margin-bottom:4px;">Live data source</div>
-          <div class="source-url">https://support.cosmotickets.com/status/status.php?brand=all</div>
+          <div class="source-url">https://support.cosmotickets.com/status/</div>
         </div>
         <div style="text-align:right;">
           <div style="font-size:12px;color:var(--text3);">Last updated</div>
-          <div id="lastUpdated" style="font-size:13px;font-weight:600;color:var(--text2);">Loading...</div>
+          <div id="lastUpdated" style="font-size:13px;font-weight:600;color:var(--text2);">—</div>
         </div>
       </div>
 
-      <!-- Summary Row -->
-      <div class="summary-row" id="summaryRow">
-        <div class="summary-card">
-          <div class="summary-num" id="sumUpdating" style="color:#fbbf24;">—</div>
-          <div class="summary-label">🔄 Updating</div>
-        </div>
-        <div class="summary-card">
-          <div class="summary-num" id="sumTesting" style="color:#60a5fa;">—</div>
-          <div class="summary-label">🧪 Testing</div>
-        </div>
-        <div class="summary-card">
-          <div class="summary-num" id="sumOnline" style="color:#34d399;">—</div>
-          <div class="summary-label">✅ Online</div>
-        </div>
-        <div class="summary-card">
-          <div class="summary-num" id="sumOffline" style="color:#f87171;">—</div>
-          <div class="summary-label">❌ Offline</div>
-        </div>
-      </div>
+      <div class="summary-bar" id="summaryBar"></div>
 
-      <!-- Status Header -->
-      <div class="status-header">
-        <div>
-          <div class="status-h1">Product <span>Status</span></div>
-          <div style="font-size:14px;color:var(--text3);margin-top:4px;">Showing: Updating & Testing products only</div>
-        </div>
-      </div>
-
-      <!-- Filter Bar -->
-      <div class="filter-bar">
-        <button class="status-filter-btn active" data-f="active" onclick="setFilter('active',this)">🔄 Active Issues</button>
-        <button class="status-filter-btn updating" data-f="updating" onclick="setFilter('updating',this)">🟡 Updating</button>
-        <button class="status-filter-btn testing" data-f="testing" onclick="setFilter('testing',this)">🔵 Testing</button>
-        <button class="status-filter-btn online" data-f="online" onclick="setFilter('online',this)">🟢 Online</button>
-        <button class="status-filter-btn offline" data-f="offline" onclick="setFilter('offline',this)">🔴 Offline</button>
-        <button class="status-filter-btn" data-f="all" onclick="setFilter('all',this)">📋 All</button>
-      </div>
-
-      <!-- Status Grid -->
       <div class="status-grid" id="statusGrid">
         <div class="status-loading">
           <div class="countdown-ring"></div>
           <span>Loading live status...</span>
         </div>
       </div>
-
-      <!-- Fallback iframe -->
-      <div id="fallbackSection" style="display:none;margin-top:32px;">
-        <div class="section-label">Direct Status Page View</div>
-        <div style="background:var(--card2);border:1px solid var(--border);border-radius:var(--radius);padding:20px;font-size:14px;color:var(--text2);">
-          <p style="margin-bottom:12px;">For the full interactive status page, visit the source directly:</p>
-          <a class="btn btn-primary" href="https://support.cosmotickets.com/status/" target="_blank">Open Status Page →</a>
-          <p style="margin-top:12px;font-size:12px;color:var(--text3);">Password: <code style="background:rgba(0,0,0,0.3);padding:2px 6px;border-radius:4px;">support</code></p>
-        </div>
-      </div>
     </div>
   </main>
 </div>
 
+<div class="drawer-overlay" id="drawerOverlay" onclick="closeDrawer()"></div>
+<div class="products-drawer" id="productsDrawer">
+  <button class="drawer-close" onclick="closeDrawer()">×</button>
+  <div class="drawer-title" id="drawerTitle">Brand Products</div>
+  <div id="productsList"></div>
+</div>
+
 <script>
-// ===== CURSOR GLOW =====
 const glow = document.getElementById('cursorGlow');
 document.addEventListener('mousemove', e => { glow.style.left=e.clientX+'px'; glow.style.top=e.clientY+'px'; });
 function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
 
-// ===== STATE =====
-let allStatuses = [];
-let currentFilter = 'active';
 let countdown = 30;
 let countdownTimer;
+let allBrands = [];
 
-// ===== KNOWN PRODUCTS =====
-const KNOWN_PRODUCTS = [
-  'Cosmo (Naxo)','Cosmo Pro','Atlas','Forge','Astrozoom','Supreme',
-  'Kane','Liquid','ProAim','Cobra','Athena','Kraken Games','Kraken Spoofer',
-  'Inferno','Pulse','Hero Valorant','Hero OW2','Hero Delta Force',
-  'Hero FN/Rust/Apex','VOLT','VEX','Crown','Opal','Viper','Breeze','Vortex'
-];
+function getStatusClass(status) {
+  const s = status.toLowerCase();
+  if (s.includes('updat')) return 'updating';
+  if (s.includes('test')) return 'testing';
+  if (s.includes('offline') || s.includes('down')) return 'offline';
+  if (s.includes('maintenance')) return 'maintenance';
+  if (s.includes('online') || s.includes('operational')) return 'online';
+  return 'error';
+}
 
-// ===== FETCH STATUS =====
+function getStatusLabel(status) {
+  const s = status.toLowerCase();
+  if (s.includes('updat')) return 'Updating';
+  if (s.includes('test')) return 'Testing';
+  if (s.includes('offline') || s.includes('down')) return 'Offline';
+  if (s.includes('maintenance')) return 'Maintenance';
+  if (s.includes('online') || s.includes('operational')) return 'Online';
+  if (s.includes('error')) return 'Error';
+  return 'Unknown';
+}
+
 async function fetchStatus() {
   document.getElementById('statusGrid').innerHTML = `
     <div class="status-loading">
       <div class="countdown-ring"></div>
-      <span>Fetching live status from cosmotickets.com...</span>
+      <span>Fetching live status...</span>
     </div>`;
 
   try {
-    // Try our server proxy first
-    const resp = await fetch('/api/status?brand=all', { signal: AbortSignal.timeout(15000) });
+    const resp = await fetch('/api/status', { signal: AbortSignal.timeout(15000) });
     const data = await resp.json();
 
-    if (data.success && data.statuses && data.statuses.length > 0) {
-      parseAndRender(data);
-    } else if (data.rawHtml) {
-      // Try to parse raw HTML client-side
-      parseRawHtml(data.rawHtml);
+    if (data.success) {
+      allBrands = data.brands || [];
+      renderBrands();
+      renderSummary();
     } else {
-      // Fallback to demo data
-      showFallback();
+      showError(data.error || 'Failed to fetch status');
     }
   } catch(e) {
-    console.warn('Status fetch failed, showing fallback:', e.message);
-    showFallback();
+    showError(e.message);
   }
 
   document.getElementById('lastUpdated').textContent = new Date().toLocaleTimeString();
   resetCountdown();
 }
 
-function parseAndRender(data) {
-  // Server returned parsed statuses
-  const statuses = data.statuses || [];
-  processStatuses(statuses);
-}
-
-function parseRawHtml(html) {
-  // Client-side HTML parsing
-  const parser = new DOMParser();
-  const doc = parser.parseFromString(html, 'text/html');
-  const statuses = [];
-
-  // Look for common patterns
-  const rows = doc.querySelectorAll('tr, .product-row, .item, .status-item');
-  rows.forEach(row => {
-    const cells = row.querySelectorAll('td, .name, .status');
-    if (cells.length >= 2) {
-      const name = cells[0].textContent.trim();
-      const status = cells[1].textContent.trim().toLowerCase();
-      if (name && status) {
-        statuses.push({ raw: name + ' ' + status, name, status });
-      }
-    }
+function renderSummary() {
+  const counts = { updating: 0, testing: 0, online: 0, offline: 0, maintenance: 0 };
+  allBrands.forEach(b => {
+    const s = b.status.toLowerCase();
+    if (s.includes('updat')) counts.updating++;
+    else if (s.includes('test')) counts.testing++;
+    else if (s.includes('offline') || s.includes('down')) counts.offline++;
+    else if (s.includes('maintenance')) counts.maintenance++;
+    else if (s.includes('online') || s.includes('operational')) counts.online++;
   });
 
-  if (statuses.length === 0) {
-    // Generic text extraction
-    const text = doc.body ? doc.body.textContent : '';
-    KNOWN_PRODUCTS.forEach(prod => {
-      if (text.toLowerCase().includes(prod.toLowerCase())) {
-        const idx = text.toLowerCase().indexOf(prod.toLowerCase());
-        const context = text.substring(idx, idx + 60).toLowerCase();
-        let status = 'unknown';
-        if (context.includes('updat')) status = 'updating';
-        else if (context.includes('test')) status = 'testing';
-        else if (context.includes('online') || context.includes('operati')) status = 'online';
-        else if (context.includes('offline') || context.includes('down')) status = 'offline';
-        statuses.push({ name: prod, status });
-      }
-    });
-  }
-
-  processStatuses(statuses);
+  document.getElementById('summaryBar').innerHTML = `
+    <div class="summary-item" style="border-color: rgba(245,158,11,0.3);">
+      <span class="summary-count" style="color:#fbbf24;">${counts.updating}</span>
+      <span class="summary-label">Updating</span>
+    </div>
+    <div class="summary-item" style="border-color: rgba(59,130,246,0.3);">
+      <span class="summary-count" style="color:#60a5fa;">${counts.testing}</span>
+      <span class="summary-label">Testing</span>
+    </div>
+    <div class="summary-item" style="border-color: rgba(16,185,129,0.3);">
+      <span class="summary-count" style="color:#34d399;">${counts.online}</span>
+      <span class="summary-label">Online</span>
+    </div>
+    <div class="summary-item" style="border-color: rgba(239,68,68,0.3);">
+      <span class="summary-count" style="color:#f87171;">${counts.offline}</span>
+      <span class="summary-label">Offline</span>
+    </div>
+  `;
 }
 
-function processStatuses(raw) {
-  allStatuses = [];
-
-  raw.forEach(item => {
-    const text = (item.raw || (item.name + ' ' + item.status) || '').toLowerCase();
-    const nameRaw = item.name || item.raw || '';
-    let status = 'unknown';
-
-    if (item.status) {
-      status = item.status;
-    } else {
-      if (text.includes('updat')) status = 'updating';
-      else if (text.includes('test')) status = 'testing';
-      else if (text.includes('online') || text.includes('operati') || text.includes('working')) status = 'online';
-      else if (text.includes('offline') || text.includes('down') || text.includes('unavail')) status = 'offline';
-      else if (text.includes('maintenance')) status = 'maintenance';
-    }
-
-    if (nameRaw.length > 0 && nameRaw.length < 80) {
-      allStatuses.push({ name: nameRaw, status });
-    }
-  });
-
-  if (allStatuses.length === 0) {
-    showFallback();
-    return;
-  }
-
-  updateSummary();
-  renderGrid();
-}
-
-function showFallback() {
-  // Show the demo fallback with known products and note
-  allStatuses = KNOWN_PRODUCTS.map(name => ({ name, status: 'online' }));
-  document.getElementById('fallbackSection').style.display = 'block';
-  updateSummary();
-  // Show special message
-  document.getElementById('statusGrid').innerHTML = `
-    <div class="status-banner" style="grid-column:1/-1;background:rgba(245,158,11,0.08);border-color:rgba(245,158,11,0.25);color:#fbbf24;">
-      ⚠️ Could not authenticate with the status page. This may be due to server-side session restrictions.
-      <a href="https://support.cosmotickets.com/status/" target="_blank" style="margin-left:auto;white-space:nowrap;color:var(--cyan);text-decoration:underline;">Open live page →</a>
-    </div>`;
-}
-
-function updateSummary() {
-  const counts = { updating:0, testing:0, online:0, offline:0 };
-  allStatuses.forEach(s => {
-    const st = s.status.toLowerCase();
-    if (st.includes('updat')) counts.updating++;
-    else if (st.includes('test')) counts.testing++;
-    else if (st.includes('online') || st.includes('operati') || st.includes('working')) counts.online++;
-    else if (st.includes('offline') || st.includes('down')) counts.offline++;
-  });
-  document.getElementById('sumUpdating').textContent = counts.updating;
-  document.getElementById('sumTesting').textContent = counts.testing;
-  document.getElementById('sumOnline').textContent = counts.online;
-  document.getElementById('sumOffline').textContent = counts.offline;
-}
-
-function renderGrid() {
+function renderBrands() {
   const grid = document.getElementById('statusGrid');
   grid.innerHTML = '';
 
-  let filtered = allStatuses;
-  if (currentFilter === 'active') {
-    filtered = allStatuses.filter(s => {
-      const st = s.status.toLowerCase();
-      return st.includes('updat') || st.includes('test') || st.includes('offline') || st.includes('down') || st.includes('mainten');
-    });
-  } else if (currentFilter !== 'all') {
-    filtered = allStatuses.filter(s => s.status.toLowerCase().includes(currentFilter));
-  }
-
-  if (filtered.length === 0) {
-    grid.innerHTML = `<div class="status-empty">
-      <div style="font-size:48px;margin-bottom:16px;">✅</div>
-      <div style="font-size:18px;font-weight:700;">All products operational!</div>
-      <div style="font-size:13px;margin-top:8px;color:var(--text3);">No products are currently updating or in testing.</div>
-    </div>`;
-    return;
-  }
-
-  filtered.forEach((item, i) => {
-    const stLower = item.status.toLowerCase();
-    let statusClass = 'online';
-    let statusLabel = 'Online';
-    let statusIcon = '✅';
-
-    if (stLower.includes('updat')) { statusClass = 'updating'; statusLabel = 'Updating'; statusIcon = '🔄'; }
-    else if (stLower.includes('test')) { statusClass = 'testing'; statusLabel = 'Testing'; statusIcon = '🧪'; }
-    else if (stLower.includes('offline') || stLower.includes('down')) { statusClass = 'offline'; statusLabel = 'Offline'; statusIcon = '❌'; }
-    else if (stLower.includes('mainten')) { statusClass = 'offline'; statusLabel = 'Maintenance'; statusIcon = '🔧'; }
+  allBrands.forEach((brand, i) => {
+    const statusClass = getStatusClass(brand.status);
+    const statusLabel = getStatusLabel(brand.status);
+    const productCount = brand.products ? brand.products.length : 0;
 
     const card = document.createElement('div');
-    card.className = `status-card ${statusClass} fade-in`;
+    card.className = `brand-card ${statusClass} fade-in`;
     card.style.animationDelay = `${i * 0.05}s`;
+    card.onclick = () => openDrawer(brand);
     card.innerHTML = `
-      <div class="status-card-top">
-        <div class="status-product-name">${item.name}</div>
-        <div class="status-indicator ${statusClass}">
+      <div class="brand-header">
+        <span class="brand-name">${brand.brand}</span>
+        <div class="brand-status-badge ${statusClass}">
           <div class="status-dot"></div>
-          ${statusIcon} ${statusLabel}
+          ${statusLabel}
         </div>
       </div>
-      <div class="status-card-body">
-        <div class="status-updated">Last checked: ${new Date().toLocaleTimeString()}</div>
-      </div>`;
+      <div class="product-count">${productCount} product${productCount !== 1 ? 's' : ''}</div>
+    `;
     grid.appendChild(card);
   });
 }
 
-function setFilter(f, btn) {
-  currentFilter = f;
-  document.querySelectorAll('.status-filter-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  renderGrid();
+function openDrawer(brand) {
+  document.getElementById('drawerTitle').textContent = brand.brand + ' Products';
+  const list = document.getElementById('productsList');
+  list.innerHTML = '';
+
+  if (brand.products && brand.products.length > 0) {
+    brand.products.forEach(p => {
+      const statusClass = getStatusClass(p.status);
+      const statusLabel = getStatusLabel(p.status);
+      const item = document.createElement('div');
+      item.className = 'product-item';
+      item.innerHTML = `
+        <span class="product-item-name">${p.name}</span>
+        <span class="product-item-status ${statusClass}">${statusLabel}</span>
+      `;
+      list.appendChild(item);
+    });
+  } else {
+    list.innerHTML = '<div style="color:var(--text3);text-align:center;padding:40px;">No products found</div>';
+  }
+
+  document.getElementById('drawerOverlay').classList.add('show');
+  document.getElementById('productsDrawer').classList.add('open');
 }
 
-// ===== COUNTDOWN =====
+function closeDrawer() {
+  document.getElementById('drawerOverlay').classList.remove('show');
+  document.getElementById('productsDrawer').classList.remove('open');
+}
+
+function showError(msg) {
+  document.getElementById('statusGrid').innerHTML = `
+    <div class="status-empty" style="grid-column:1/-1;">
+      <div style="font-size:48px;margin-bottom:16px;">⚠️</div>
+      <div style="font-size:18px;font-weight:700;">Failed to load status</div>
+      <div style="font-size:13px;margin-top:8px;color:var(--text3);">${msg}</div>
+    </div>`;
+}
+
 function resetCountdown() {
   countdown = 30;
   clearInterval(countdownTimer);
@@ -411,7 +385,6 @@ function resetCountdown() {
   }, 1000);
 }
 
-// ===== INIT =====
 fetchStatus();
 </script>
 </body>
