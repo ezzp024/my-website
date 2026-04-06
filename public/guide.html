@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Support Guide — Cosmo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<div class="bg-anim"></div>
+<div class="grid-bg"></div>
+<div class="cursor-glow" id="cursorGlow"></div>
+
+<div style="display:flex; min-height:100vh; position:relative; z-index:1;">
+
+  <!-- Sidebar -->
+  <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button>
+  <nav class="sidebar" id="sidebar">
+    <div class="sidebar-logo">
+      <div class="logo-text">⚡ Cosmo Support</div>
+      <div class="logo-sub">Internal Staff Portal</div>
+    </div>
+    <div class="sidebar-nav">
+      <div class="nav-section-label">Navigation</div>
+      <a class="nav-item" href="index.html"><span class="nav-icon">🏠</span> Home</a>
+      <a class="nav-item active" href="guide.html"><span class="nav-icon">📖</span> Support Guide</a>
+      <a class="nav-item" href="status.html"><span class="nav-icon">📡</span> Live Status</a>
+      <a class="nav-item" href="commands.html"><span class="nav-icon">⚡</span> Bot Commands</a>
+      <div class="nav-section-label" style="margin-top:24px;">Quick Links</div>
+      <a class="nav-item" href="https://support.cosmotickets.com/" target="_blank"><span class="nav-icon">🌐</span> Support Site</a>
+      <a class="nav-item" href="https://support.cosmotickets.com/status/" target="_blank"><span class="nav-icon">🔴</span> Status Page</a>
+    </div>
+    <div class="sidebar-footer">
+      <a href="https://support.cosmotickets.com/" target="_blank"><span>🔗</span> support.cosmotickets.com</a>
+    </div>
+  </nav>
+
+  <!-- Main -->
+  <main class="main" style="display:flex; flex-direction:column;">
+    <!-- Topbar -->
+    <div class="topbar">
+      <div class="page-title">📖 Support Guide</div>
+      <div class="topbar-actions">
+        <div class="keyboard-hint">
+          <span class="kbd">←</span><span class="kbd">→</span> Navigate products
+          <span style="margin-left:8px;" class="kbd">⌘K</span> Search
+        </div>
+      </div>
+    </div>
+
+    <!-- Guide Layout -->
+    <div class="guide-layout" style="flex:1;">
+
+      <!-- Product List Sidebar -->
+      <div class="guide-sidebar">
+        <div class="guide-sidebar-header">
+          <div class="guide-search">
+            <span class="guide-search-icon">🔍</span>
+            <input type="text" id="productSearch" placeholder="Search products or errors..." autocomplete="off">
+          </div>
+          <div class="filter-row" id="filterRow">
+            <button class="filter-chip active" data-cat="all">All</button>
+            <button class="filter-chip" data-cat="Cheat">Cheats</button>
+            <button class="filter-chip" data-cat="Spoofer">Spoofers</button>
+            <button class="filter-chip" data-cat="Extra Fixes">Fixes</button>
+            <button class="filter-chip" data-cat="Policy">Policy</button>
+          </div>
+        </div>
+        <div class="product-list" id="productList"></div>
+      </div>
+
+      <!-- Product Detail -->
+      <div class="guide-content" id="guideContent">
+        <div class="guide-empty" id="guideEmpty">
+          <div class="guide-empty-icon">📖</div>
+          <div style="font-size:18px;font-weight:700;color:var(--text2)">Select a product</div>
+          <div style="font-size:13px;">Click a product from the list or use ← → arrow keys</div>
+        </div>
+        <div id="productDetail" style="display:none;"></div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script src="data/products.js"></script>
+<script>
+// ===== STATE =====
+let currentIdx = -1;
+let filteredProducts = [...PRODUCTS];
+let activeFilter = 'all';
+const CAT_COLORS = {
+  'Cheat': '#8b5cf6',
+  'Spoofer': '#06b6d4',
+  'Extra Fixes': '#f59e0b',
+  'Policy': '#10b981'
+};
+
+// ===== CURSOR GLOW =====
+const glow = document.getElementById('cursorGlow');
+document.addEventListener('mousemove', e => { glow.style.left=e.clientX+'px'; glow.style.top=e.clientY+'px'; });
+
+// ===== SIDEBAR =====
+function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
+
+// ===== RENDER PRODUCT LIST =====
+function renderList() {
+  const list = document.getElementById('productList');
+  list.innerHTML = '';
+  filteredProducts.forEach((p, i) => {
+    const item = document.createElement('div');
+    item.className = 'product-item' + (i === currentIdx ? ' active' : '');
+    item.innerHTML = `
+      <div class="product-dot" style="background:${CAT_COLORS[p.category]||'#64748b'}"></div>
+      <div class="product-name">${highlight(p.name)}</div>
+      <span class="product-cat-tag">${p.category}</span>
+    `;
+    item.addEventListener('click', () => selectProduct(i));
+    list.appendChild(item);
+  });
+  if (filteredProducts.length === 0) {
+    list.innerHTML = '<div class="no-results"><div class="no-results-icon">🔍</div><div>No products found</div></div>';
+  }
+}
+
+// ===== HIGHLIGHT =====
+let searchQuery = '';
+function highlight(text) {
+  if (!searchQuery) return text;
+  const re = new RegExp('(' + searchQuery.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi');
+  return text.replace(re, '<span class="highlight">$1</span>');
+}
+
+// ===== SELECT PRODUCT =====
+function selectProduct(idx) {
+  currentIdx = idx;
+  renderList();
+  const p = filteredProducts[idx];
+  if (!p) return;
+  const detail = document.getElementById('productDetail');
+  const empty = document.getElementById('guideEmpty');
+  empty.style.display = 'none';
+  detail.style.display = 'block';
+  detail.className = 'fade-in';
+  void detail.offsetWidth;
+  detail.innerHTML = buildProductHTML(p, idx);
+  detail.scrollTop = 0;
+  // Scroll item into view
+  const items = document.querySelectorAll('.product-item');
+  if (items[idx]) items[idx].scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+}
+
+function getReqStatus(key, val) {
+  const v = val.toUpperCase();
+  if (v.includes('ENABLED') && !v.includes('N/A')) return 'enabled';
+  if (v.includes('DISABLED')) return 'disabled';
+  if (v === 'N/A' || v.includes('N/A')) return 'na';
+  if (v.includes('DEFAULT')) return 'default';
+  return 'na';
+}
+function getReqIcon(status) {
+  return { enabled:'🔴', disabled:'✅', na:'➖', default:'🟡' }[status] || '➖';
+}
+
+function buildProductHTML(p, idx) {
+  const hasReqs = Object.keys(p.requirements).length > 0;
+  let html = `
+    <div class="product-header">
+      <div>
+        <div style="display:flex;align-items:center;gap:10px;margin-bottom:6px;">
+          <span class="badge badge-purple">${p.category}</span>
+          ${p.tags.map(t=>`<span class="badge badge-gray">${t}</span>`).join('')}
+        </div>
+        <div class="product-title"><span>${p.name}</span></div>
+      </div>
+      <div class="keyboard-hint">
+        <span class="kbd">←</span><span class="kbd">→</span> to navigate
+        &nbsp;&nbsp;
+        <span style="font-size:11px;">${idx+1} / ${filteredProducts.length}</span>
+      </div>
+    </div>`;
+
+  // Requirements table
+  if (hasReqs) {
+    html += `<div class="section-label">System Requirements</div>
+    <div class="req-table-wrap" style="margin-bottom:24px;">
+      <table class="req-table">
+        <thead><tr><th>Setting</th><th>Required State</th></tr></thead>
+        <tbody>`;
+    for (const [key, val] of Object.entries(p.requirements)) {
+      const st = getReqStatus(key, val);
+      html += `<tr>
+        <td style="font-weight:600;color:var(--text);">${key}</td>
+        <td><span class="req-status ${st}">${getReqIcon(st)} ${val}</span></td>
+      </tr>`;
+    }
+    html += `</tbody></table></div>`;
+  }
+
+  // Windows
+  if (p.supportedWindows) {
+    html += `<div class="section-label">Supported Windows Versions</div>
+    <div class="windows-card">🪟  ${p.supportedWindows}</div>`;
+  }
+
+  // Other requirements
+  if (p.otherRequirements && p.otherRequirements.length > 0) {
+    html += `<div class="section-label">Other Requirements</div>
+    <div class="other-reqs" style="margin-bottom:28px;">
+      ${p.otherRequirements.map(r=>`<span class="req-tag">${r}</span>`).join('')}
+    </div>`;
+  }
+
+  // Fixes
+  if (p.fixes && p.fixes.length > 0) {
+    html += `<div class="section-label">Fixable Errors</div>`;
+    p.fixes.forEach((fix, fi) => {
+      html += `<div class="fix-card fade-in" style="animation-delay:${fi*0.05}s;">
+        <div class="fix-header">
+          <div class="fix-title">${highlight(fix.title)}</div>
+          <button class="btn-copy" onclick="copyFix(this, ${JSON.stringify(buildFixText(fix)).replace(/"/g,'&quot;')})">Copy</button>
+        </div>
+        <div class="fix-body">${highlight(fix.content || '')}</div>`;
+
+      if (fix.commands && fix.commands.length) {
+        html += `<div class="fix-commands">${fix.commands.map(c=>`<span class="cmd-pill" onclick="copyText('${c}')" data-tip="Copy command">💬 ${c}</span>`).join('')}</div>`;
+      }
+      if (fix.codeBlocks && fix.codeBlocks.length) {
+        fix.codeBlocks.forEach((cb, ci) => {
+          html += `<div class="code-block">${escHtml(cb)}<button class="btn-copy copy-btn" onclick="copyText(${JSON.stringify(cb)})">Copy</button></div>`;
+        });
+      }
+      if (fix.links && fix.links.length) {
+        html += `<div class="fix-links">${fix.links.map(l=>`<a class="fix-link" href="${l}" target="_blank">${l}</a>`).join('')}</div>`;
+      }
+      html += `</div>`;
+    });
+  }
+
+  // Navigation
+  html += `<div class="product-nav">
+    <button class="product-nav-btn" onclick="goRelative(-1)" ${idx<=0?'disabled':''}>← Previous</button>
+    <span class="product-count">${idx+1} of ${filteredProducts.length}</span>
+    <button class="product-nav-btn" onclick="goRelative(1)" ${idx>=filteredProducts.length-1?'disabled':''}>Next →</button>
+  </div>`;
+
+  return html;
+}
+
+function buildFixText(fix) {
+  let text = fix.title + '\n';
+  if (fix.content) text += fix.content + '\n';
+  if (fix.codeBlocks) text += fix.codeBlocks.join('\n') + '\n';
+  if (fix.links) text += fix.links.join('\n') + '\n';
+  if (fix.commands) text += fix.commands.join(' ') + '\n';
+  return text.trim();
+}
+
+function escHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+// ===== NAVIGATE =====
+function goRelative(dir) {
+  const newIdx = currentIdx + dir;
+  if (newIdx >= 0 && newIdx < filteredProducts.length) selectProduct(newIdx);
+}
+
+// ===== COPY =====
+function copyText(text) {
+  navigator.clipboard.writeText(text).then(() => showToast('✅ Copied to clipboard!'));
+}
+function copyFix(btn, text) {
+  navigator.clipboard.writeText(text).then(() => {
+    btn.textContent = '✓ Copied';
+    btn.classList.add('copied');
+    showToast('✅ Fix copied!');
+    setTimeout(() => { btn.textContent = 'Copy'; btn.classList.remove('copied'); }, 2000);
+  });
+}
+function showToast(msg) {
+  const t = document.createElement('div');
+  t.className = 'toast';
+  t.textContent = msg;
+  document.body.appendChild(t);
+  setTimeout(() => t.remove(), 2500);
+}
+
+// ===== SEARCH =====
+document.getElementById('productSearch').addEventListener('input', function() {
+  searchQuery = this.value.toLowerCase().trim();
+  applyFilters();
+});
+
+// ===== FILTER =====
+document.querySelectorAll('.filter-chip').forEach(btn => {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.filter-chip').forEach(b => b.classList.remove('active'));
+    this.classList.add('active');
+    activeFilter = this.dataset.cat;
+    applyFilters();
+  });
+});
+
+function applyFilters() {
+  const q = searchQuery;
+  filteredProducts = PRODUCTS.filter(p => {
+    const matchCat = activeFilter === 'all' || p.category === activeFilter;
+    if (!matchCat) return false;
+    if (!q) return true;
+    const searchable = [
+      p.name,
+      p.supportedWindows,
+      ...(p.otherRequirements||[]),
+      ...(p.tags||[]),
+      ...(p.fixes||[]).flatMap(f => [f.title, f.content||'', ...(f.codeBlocks||[]), ...(f.commands||[])])
+    ].join(' ').toLowerCase();
+    return searchable.includes(q);
+  });
+  currentIdx = -1;
+  renderList();
+  // Auto-select first if one result
+  if (filteredProducts.length === 1) selectProduct(0);
+  else {
+    document.getElementById('guideEmpty').style.display = 'flex';
+    document.getElementById('productDetail').style.display = 'none';
+  }
+}
+
+// ===== KEYBOARD NAVIGATION =====
+document.addEventListener('keydown', e => {
+  const target = e.target;
+  const isInput = target.tagName === 'INPUT' || target.tagName === 'TEXTAREA';
+
+  if ((e.key === 'ArrowRight' || e.key === 'ArrowDown') && !isInput) {
+    e.preventDefault();
+    goRelative(1);
+  } else if ((e.key === 'ArrowLeft' || e.key === 'ArrowUp') && !isInput) {
+    e.preventDefault();
+    goRelative(-1);
+  } else if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+    e.preventDefault();
+    document.getElementById('productSearch').focus();
+  } else if (e.key === 'Escape') {
+    document.getElementById('productSearch').blur();
+  }
+});
+
+// ===== INIT =====
+renderList();
+</script>
+</body>
+</html>
