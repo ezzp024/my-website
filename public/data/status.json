@@ -803,7 +803,7 @@
         {
           "name": "Rust",
           "brand": "Hero",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Rainbow Six Siege: Full",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-07T16:52:57.043177+00:00",
+  "lastUpdated": "2026-04-07T18:06:59.531687+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
