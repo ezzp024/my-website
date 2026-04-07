@@ -366,10 +366,6 @@
     <div class="topbar">
       <div class="page-title">Live Status</div>
       <div class="topbar-actions">
-        <div class="refresh-info">
-          <div class="refresh-dot"></div>
-          <span>Auto-refresh in <span id="countdownDisplay" style="color:var(--purple2);font-weight:600;">60s</span></span>
-        </div>
         <button class="btn btn-ghost" onclick="fetchAllStatuses()" style="padding:6px 14px;font-size:12px;">Refresh</button>
       </div>
     </div>
@@ -590,7 +586,7 @@ async function fetchAllStatuses() {
     }
     const stamp = data.lastUpdated ? new Date(data.lastUpdated) : new Date();
     lastDataUpdatedAt = stamp.getTime();
-    document.getElementById('lastUpdated').textContent = stamp.toLocaleTimeString();
+    document.getElementById('lastUpdated').textContent = stamp.toISOString().replace('T', ' ').substring(0, 19) + ' UTC';
     updateFreshnessUI();
   } catch(e) {
     showLoginRequired(12);
@@ -599,9 +595,8 @@ async function fetchAllStatuses() {
     const healthEl = document.getElementById('backendHealth');
     healthEl.textContent = 'Unavailable';
     healthEl.style.color = '#fda4af';
-    document.getElementById('lastUpdated').textContent = new Date().toLocaleTimeString();
+    document.getElementById('lastUpdated').textContent = new Date().toISOString().replace('T', ' ').substring(0, 19) + ' UTC';
   }
-  resetCountdown();
 }
 
 function showLoginRequired(count) {
