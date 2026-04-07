@@ -530,8 +530,7 @@ function filterToActiveStates(results) {
     })
     .filter(brand => brand.products.length > 0);
   console.log('filterToActiveStates: Output brands:', filtered.length);
-  return filtered;
-    .sort((a, b) => {
+  return filtered.sort((a, b) => {
       const aBoth = a.updatingCount > 0 && a.testingCount > 0 ? 1 : 0;
       const bBoth = b.updatingCount > 0 && b.testingCount > 0 ? 1 : 0;
       if (bBoth !== aBoth) return bBoth - aBoth;
