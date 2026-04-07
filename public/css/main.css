@@ -1319,6 +1319,40 @@ body {
   }
 }
 
+/* Mobile-first base fixes */
+@media (max-width: 768px) {
+  html {
+    font-size: 14px;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+  
+  body {
+    min-height: 100vh;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* Prevent horizontal scroll */
+  .main {
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+  
+  /* Fix sidebar overflow */
+  .sidebar {
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  
+  /* Ensure cards don't overflow */
+  .status-grid,
+  .dashboard-grid,
+  .admin-grid {
+    overflow-x: hidden;
+  }
+}
+
 /* ===== TOOLTIP ===== */
 [data-tip] { position: relative; cursor: pointer; }
 [data-tip]:hover::after {
