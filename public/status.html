@@ -385,8 +385,8 @@
           <div id="lastUpdated" style="font-size:13px;font-weight:600;color:var(--text2);">—</div>
           <div style="font-size:12px;color:var(--text3);margin-top:6px;">Data age</div>
           <div id="dataAge" style="font-size:12px;font-weight:600;color:var(--purple2);">—</div>
-          <div style="font-size:12px;color:var(--text3);margin-top:6px;">Backend</div>
-          <div id="backendHealth" style="font-size:12px;font-weight:600;color:var(--text2);">Checking...</div>
+          <div style="font-size:12px;color:var(--text3);margin-top:6px;">Mode</div>
+          <div id="backendHealth" style="font-size:12px;font-weight:600;color:#86efac;">GitHub Snapshot</div>
         </div>
       </div>
 
@@ -426,16 +426,7 @@ let drawerPinned = false;
 let lastDataUpdatedAt = null;
 let freshnessTimer = null;
 const hoverDrawerEnabled = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
-const isHostedPages = /github\.io$/i.test(window.location.hostname);
-const API_ENDPOINTS = isHostedPages
-  ? [
-      { kind: 'static', url: 'data/status.json' },
-      { kind: 'api', url: cosmoApiUrl('/api/status') }
-    ]
-  : [
-      { kind: 'api', url: cosmoApiUrl('/api/status') },
-      { kind: 'static', url: 'data/status.json' }
-    ];
+const API_ENDPOINTS = [{ kind: 'static', url: 'data/status.json' }];
 
 function getStatusClass(status) {
   const s = status.toLowerCase();
@@ -542,9 +533,7 @@ async function fetchStatusData() {
   let lastError = null;
   for (const endpoint of API_ENDPOINTS) {
     try {
-      const resp = endpoint.kind === 'api'
-        ? await cosmoFetch(endpoint.url, { signal: AbortSignal.timeout(30000) })
-        : await fetch(endpoint.url, { cache: 'no-store', signal: AbortSignal.timeout(30000) });
+      const resp = await fetch(endpoint.url, { cache: 'no-store', signal: AbortSignal.timeout(30000) });
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       const data = await resp.json();
       if (data && Array.isArray(data.brands)) return data;
@@ -579,30 +568,6 @@ function updateFreshnessUI() {
   else ageEl.style.color = '#fda4af';
 }
 
-async function refreshHealth() {
-  const healthEl = document.getElementById('backendHealth');
-  try {
-    const r = await cosmoFetch('/api/health', { signal: AbortSignal.timeout(6000) });
-    const h = await r.json();
-    if (!r.ok || !h.success) throw new Error('health-failed');
-    const scraper = h.scraper && h.scraper.reachable;
-    const stale = h.statusCache && h.statusCache.stale;
-    if (scraper && !stale) {
-      healthEl.textContent = 'Healthy';
-      healthEl.style.color = '#86efac';
-    } else if (scraper) {
-      healthEl.textContent = 'Degraded';
-      healthEl.style.color = '#fde68a';
-    } else {
-      healthEl.textContent = 'Scraper Offline';
-      healthEl.style.color = '#fda4af';
-    }
-  } catch (_) {
-    healthEl.textContent = 'Unknown';
-    healthEl.style.color = 'var(--text2)';
-  }
-}
-
 async function fetchAllStatuses() {
   document.getElementById('statusGrid').innerHTML = `
     <div class="status-loading">
@@ -625,12 +590,13 @@ async function fetchAllStatuses() {
     lastDataUpdatedAt = stamp.getTime();
     document.getElementById('lastUpdated').textContent = stamp.toLocaleTimeString();
     updateFreshnessUI();
-    refreshHealth();
   } catch(e) {
     showLoginRequired(12);
     lastDataUpdatedAt = null;
     updateFreshnessUI();
-    refreshHealth();
+    const healthEl = document.getElementById('backendHealth');
+    healthEl.textContent = 'Snapshot Unavailable';
+    healthEl.style.color = '#fda4af';
     document.getElementById('lastUpdated').textContent = new Date().toLocaleTimeString();
   }
   resetCountdown();
@@ -642,12 +608,12 @@ function showLoginRequired(count) {
       <div style="font-size:12px;margin-bottom:20px;color:var(--purple2);letter-spacing:0.8px;text-transform:uppercase;">Status</div>
       <div style="font-size:20px;font-weight:700;margin-bottom:12px;">No Updating or Testing Products</div>
       <div style="font-size:14px;color:var(--text3);margin-bottom:16px;max-width:400px;margin-left:auto;margin-right:auto;">
-        Either the scraper is not connected or all products are currently not in Updating/Testing state.
+        Snapshot loaded, but no products are currently in Updating/Testing state.
       </div>
       <div style="font-size:14px;margin-bottom:24px;">
-        <span style="color:#a78bfa;">Status endpoints: ${escapeHtml(cosmoApiUrl('/api/status'))} | ${escapeHtml('data/status.json')}</span>
+        <span style="color:#a78bfa;">Status endpoint: ${escapeHtml('data/status.json')}</span>
       </div>
-      <div style="font-size:12px;color:var(--text3);">Expected password: <strong>support</strong></div>
+      <div style="font-size:12px;color:var(--text3);">Auto-updated by GitHub Actions schedule.</div>
     </div>`;
   
   document.getElementById('summaryBar').innerHTML = `
@@ -847,7 +813,6 @@ function resetCountdown() {
 fetchAllStatuses();
 if (freshnessTimer) clearInterval(freshnessTimer);
 freshnessTimer = setInterval(updateFreshnessUI, 1000);
-setInterval(refreshHealth, 15000);
 </script>
 </body>
 </html>
