@@ -424,43 +424,16 @@ let activeDrawerBrand = '';
 let drawerPinned = false;
 let lastDataUpdatedAt = null;
 let freshnessTimer = null;
-let currentMode = 'unknown';
 const hoverDrawerEnabled = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 
-const LIVE_API = window.COSMO_RUNTIME && window.COSMO_RUNTIME.apiBase 
-  ? window.COSMO_RUNTIME.apiBase + '/api/public-status' 
-  : null;
-const SNAPSHOT_URL = 'data/status.json';
-
 async function fetchStatusData() {
-  // Try live API first
-  if (LIVE_API) {
-    try {
-      const res = await fetch(LIVE_API, { cache: 'no-store', signal: AbortSignal.timeout(30000) });
-      if (res.ok) {
-        const data = await res.json();
-        currentMode = 'live';
-        return data;
-      }
-      console.error('Live API failed:', res.status);
-    } catch (err) {
-      console.error('Live fetch error:', err.message);
-    }
-  }
-  
-  // Fallback to snapshot
-  try {
-    const res = await fetch(SNAPSHOT_URL, { cache: 'no-store', signal: AbortSignal.timeout(30000) });
-    if (res.ok) {
-      const data = await res.json();
-      currentMode = 'snapshot';
-      return data;
-    }
-  } catch (err) {
-    console.error('Snapshot failed:', err.message);
-  }
-  
-  throw new Error('No status available');
+  // Simple: just load from GitHub snapshot
+  const res = await fetch('data/status.json', { cache: 'no-store' });
+  if (!res.ok) throw new Error('Failed to load status');
+  const data = await res.json();
+  document.getElementById('backendHealth').textContent = 'GitHub Auto';
+  document.getElementById('backendHealth').style.color = '#86efac';
+  return data;
 }
 
 function getStatusClass(status) {
