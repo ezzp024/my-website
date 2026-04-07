@@ -45,11 +45,7 @@ python scraper.py
 ### 4) Open
 
 - Login: `http://localhost:5000/`
-- Default seed users:
-  - `owner / owner123!`
-  - `msd / msd123!`
-
-Change both passwords immediately after first login.
+- Use Admin Panel to create your first user
 
 ## Health Endpoint
 

@@ -517,6 +517,4 @@ app.get('/data/status.json', (_req, res) => {
 app.listen(PORT, '0.0.0.0', () => {
   loadUsers();
   console.log(`Cosmo Support running on http://localhost:${PORT}`);
-  console.log('Default owner: owner / owner123!');
-  console.log('Default msd: msd / msd123!');
 });
