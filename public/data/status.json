@@ -7,532 +7,477 @@
       "products": [
         {
           "name": "Apex",
-          "brand": "All Brands",
-          "status": "Undetected"
+          "brand": "Pulse",
+          "status": "Testing"
         },
         {
           "name": "DayZ",
-          "brand": "All Brands",
+          "brand": "Volt",
           "status": "Undetected"
         },
         {
           "name": "Call of Duty",
-          "brand": "All Brands",
+          "brand": "Atlas",
           "status": "Updating"
         },
         {
           "name": "Arena Breakout",
-          "brand": "All Brands",
-          "status": "Undetected"
+          "brand": "Liquid",
+          "status": "Updating"
         },
         {
           "name": "Battlefield 6",
-          "brand": "All Brands",
+          "brand": "Liquid",
           "status": "Undetected"
         },
         {
           "name": "Delta Force",
-          "brand": "All Brands",
+          "brand": "Liquid",
           "status": "Updating"
         },
         {
           "name": "The Finals",
-          "brand": "All Brands",
+          "brand": "Pulse",
           "status": "Undetected"
         },
         {
           "name": "ARC Raiders",
-          "brand": "All Brands",
+          "brand": "Pulse",
           "status": "Undetected"
         },
         {
           "name": "Fortnite",
-          "brand": "All Brands",
-          "status": "Undetected"
+          "brand": "Liquid",
+          "status": "Updating"
         },
         {
           "name": "Marvel Rivals",
-          "brand": "All Brands",
-          "status": "Undetected"
+          "brand": "Viper",
+          "status": "Updating"
         },
         {
           "name": "HLL",
-          "brand": "All Brands",
+          "brand": "Vex",
           "status": "Undetected"
         },
         {
           "name": "FragPunk",
-          "brand": "All Brands",
+          "brand": "AstroZoom",
           "status": "Undetected"
         },
         {
           "name": "Squad",
-          "brand": "All Brands",
+          "brand": "Vex",
           "status": "Undetected"
         },
         {
           "name": "Rust",
-          "brand": "All Brands",
+          "brand": "Volt",
           "status": "Updating"
         },
         {
           "name": "Apex Legends",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Call of Duty",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "PUBG",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Rust",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Spoofer",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Rust Lite",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Dead By Daylight",
-          "brand": "All Brands",
-          "status": "Undetected"
+          "brand": "Hero",
+          "status": "Updating"
         },
         {
           "name": "EFT",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "BF6",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Chess",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "DeadByDaylight",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "HellLL",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Hunt",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "MarvelRivals",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Apex-Full",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Apex-Lite",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "ARKSA",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "ARKSE",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "EFT-Full",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "EFT-Lite",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Fortnite",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Unturned",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Ark SA",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Hunt: Showdown",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "EFT Lite",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "CS2",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Arma 3",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "DayZ Full",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Dune Awakening",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "EAC Spoofer",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "BattlEye Spoofer",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "DayZ Lite",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "EFT Full",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Stalcraft",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "War Thunder",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Active Matter",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "EFT Full",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Apex Legends",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Valorant",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Rainbow Six Siege: Full",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Rainbow Six Siege: Lite",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Arma Reforger",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "MW3",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Arc Raiders Steam",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Arc Raiders XBOX / MS Store",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Arc Raiders XP Bot",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Arena Breakout Infinite",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "ARK Survival Ascended",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "ARK Survival Evolved",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Battlefield™ 6",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Beasts of Bermuda",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Conan Exiles",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Dune Awakening",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Escape From Tarkov",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Farlight 84",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Gray Zone Warfare",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Hunt Showdown",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Off The Grid",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Palworld",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "SMITE 2",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "The Isle Evrima",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Marathon",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Active Matter",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Ark: Ascended",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Dark and Darker",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Deadside",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Dune: Awakening",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Gray Zone Warfare",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Hell Let Loose",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "PIONER",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "SCUM",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Sea of Thieves",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Spoofer",
-          "brand": "All Brands",
-          "status": "Testing"
-        },
-        {
-          "name": "THE FINALS",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "WarThunder FULL",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "WarThunder",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Albion Online",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Apex",
-          "brand": "All Brands",
-          "status": "Testing"
-        },
-        {
-          "name": "Arena Breakout",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "CoD Warzone",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "EFT Chams",
-          "brand": "All Brands",
-          "status": "Undetected"
-        },
-        {
-          "name": "Hunt: Showdown",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "Marvel Rivals",
-          "brand": "All Brands",
-          "status": "Updating"
-        },
-        {
-          "name": "R6 Siege X",
-          "brand": "All Brands",
+          "brand": "Volt",
           "status": "Undetected"
         },
         {
           "name": "PUBG",
-          "brand": "All Brands",
+          "brand": "Liquid",
           "status": "Updating"
         },
         {
           "name": "Farlight84",
-          "brand": "All Brands",
+          "brand": "Athena",
           "status": "Undetected"
         },
         {
           "name": "The Divison2",
-          "brand": "All Brands",
+          "brand": "Athena",
           "status": "Undetected"
         },
         {
           "name": "Overwatch2",
-          "brand": "All Brands",
+          "brand": "Athena",
+          "status": "Undetected"
+        },
+        {
+          "name": "Gray Zone Warfare",
+          "brand": "Viper",
+          "status": "Updating"
+        },
+        {
+          "name": "Arc Raiders",
+          "brand": "Athena",
           "status": "Undetected"
         },
         {
           "name": "Naraka",
-          "brand": "All Brands",
+          "brand": "Athena",
           "status": "Undetected"
         },
         {
           "name": "Battlebit",
-          "brand": "All Brands",
+          "brand": "Athena",
           "status": "Undetected"
         },
         {
           "name": "Cod Black Ops 7",
-          "brand": "All Brands",
+          "brand": "Athena",
           "status": "Undetected"
         },
         {
           "name": "Counter-Strike 2",
-          "brand": "All Brands",
+          "brand": "Athena",
+          "status": "Undetected"
+        },
+        {
+          "name": "Spoofer",
+          "brand": "Kane",
+          "status": "Testing"
+        },
+        {
+          "name": "BF6",
+          "brand": "Forge",
+          "status": "Updating"
+        },
+        {
+          "name": "Chess",
+          "brand": "Forge",
+          "status": "Undetected"
+        },
+        {
+          "name": "DeadByDaylight",
+          "brand": "Forge",
+          "status": "Undetected"
+        },
+        {
+          "name": "HellLL",
+          "brand": "Forge",
+          "status": "Undetected"
+        },
+        {
+          "name": "Hunt",
+          "brand": "Forge",
+          "status": "Undetected"
+        },
+        {
+          "name": "MarvelRivals",
+          "brand": "Forge",
+          "status": "Undetected"
+        },
+        {
+          "name": "Apex-Full",
+          "brand": "Forge",
+          "status": "Updating"
+        },
+        {
+          "name": "Apex-Lite",
+          "brand": "Forge",
+          "status": "Updating"
+        },
+        {
+          "name": "ARKSA",
+          "brand": "Forge",
+          "status": "Undetected"
+        },
+        {
+          "name": "ARKSE",
+          "brand": "Forge",
+          "status": "Undetected"
+        },
+        {
+          "name": "EFT-Full",
+          "brand": "Forge",
+          "status": "Updating"
+        },
+        {
+          "name": "EFT-Lite",
+          "brand": "Forge",
+          "status": "Updating"
+        },
+        {
+          "name": "EFT Full",
+          "brand": "Vex",
+          "status": "Updating"
+        },
+        {
+          "name": "Valorant",
+          "brand": "Hero",
+          "status": "Undetected"
+        },
+        {
+          "name": "Rainbow Six Siege: Full",
+          "brand": "Hero",
+          "status": "Updating"
+        },
+        {
+          "name": "Rainbow Six Siege: Lite",
+          "brand": "Hero",
+          "status": "Updating"
+        },
+        {
+          "name": "Active Matter",
+          "brand": "Vex",
+          "status": "Updating"
+        },
+        {
+          "name": "Ark: Ascended",
+          "brand": "Kane",
+          "status": "Undetected"
+        },
+        {
+          "name": "CS2",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "Dark and Darker",
+          "brand": "Kane",
+          "status": "Updating"
+        },
+        {
+          "name": "Dead by Daylight",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "Deadside",
+          "brand": "Kane",
+          "status": "Undetected"
+        },
+        {
+          "name": "Dune: Awakening",
+          "brand": "Kane",
+          "status": "Undetected"
+        },
+        {
+          "name": "Farlight 84",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "Hell Let Loose",
+          "brand": "Kane",
+          "status": "Undetected"
+        },
+        {
+          "name": "Hunt: Showdown",
+          "brand": "Vex",
+          "status": "Updating"
+        },
+        {
+          "name": "Off The Grid",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "PIONER",
+          "brand": "Kane",
+          "status": "Undetected"
+        },
+        {
+          "name": "SCUM",
+          "brand": "Kane",
+          "status": "Undetected"
+        },
+        {
+          "name": "SQUAD",
+          "brand": "Kane",
+          "status": "Undetected"
+        },
+        {
+          "name": "Sea of Thieves",
+          "brand": "Kane",
+          "status": "Undetected"
+        },
+        {
+          "name": "THE FINALS",
+          "brand": "Kane",
+          "status": "Updating"
+        },
+        {
+          "name": "Unturned",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "WarThunder FULL",
+          "brand": "Kane",
+          "status": "Undetected"
+        },
+        {
+          "name": "WarThunder",
+          "brand": "Kane",
+          "status": "Updating"
+        },
+        {
+          "name": "Albion Online",
+          "brand": "Liquid",
+          "status": "Undetected"
+        },
+        {
+          "name": "CoD Warzone",
+          "brand": "Liquid",
+          "status": "Undetected"
+        },
+        {
+          "name": "EFT Chams",
+          "brand": "Liquid",
+          "status": "Undetected"
+        },
+        {
+          "name": "R6 Siege X",
+          "brand": "Liquid",
+          "status": "Undetected"
+        },
+        {
+          "name": "Arma Reforger",
+          "brand": "Pulse",
+          "status": "Undetected"
+        },
+        {
+          "name": "MW3",
+          "brand": "Pulse",
+          "status": "Undetected"
+        },
+        {
+          "name": "Ark SA",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "EFT Lite",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "Arma 3",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "DayZ Full",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "Dune Awakening",
+          "brand": "Viper",
+          "status": "Updating"
+        },
+        {
+          "name": "EAC Spoofer",
+          "brand": "Vex",
+          "status": "Updating"
+        },
+        {
+          "name": "BattlEye Spoofer",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "DayZ Lite",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "Stalcraft",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "War Thunder",
+          "brand": "Vex",
+          "status": "Undetected"
+        },
+        {
+          "name": "Arc Raiders Steam",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "Arc Raiders XBOX / MS Store",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "Arc Raiders XP Bot",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "Arena Breakout Infinite",
+          "brand": "Viper",
+          "status": "Updating"
+        },
+        {
+          "name": "ARK Survival Ascended",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "ARK Survival Evolved",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "Battlefield™ 6",
+          "brand": "Viper",
+          "status": "Updating"
+        },
+        {
+          "name": "Beasts of Bermuda",
+          "brand": "Viper",
+          "status": "Updating"
+        },
+        {
+          "name": "Conan Exiles",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "Dead By Daylight",
+          "brand": "Volt",
+          "status": "Undetected"
+        },
+        {
+          "name": "Escape From Tarkov",
+          "brand": "Viper",
+          "status": "Updating"
+        },
+        {
+          "name": "Hunt Showdown",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "Palworld",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "SMITE 2",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "The Isle Evrima",
+          "brand": "Viper",
+          "status": "Undetected"
+        },
+        {
+          "name": "Marathon",
+          "brand": "Viper",
+          "status": "Updating"
+        },
+        {
+          "name": "Rust Lite",
+          "brand": "Volt",
           "status": "Undetected"
         }
       ]
@@ -1414,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-07T16:36:48.016174+00:00",
+  "lastUpdated": "2026-04-07T16:44:23.970407+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
