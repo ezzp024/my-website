@@ -80,7 +80,7 @@ const COMMANDS = [
 ];
 
 const BOT_LINKS = {
-  commandsPage: 'https://yea-votes-hiv-ultimate.trycloudflare.com/commands.html',
+  commandsPage: 'https://gorgeborger2-byte.github.io/cosmo-support/commands.html',
   statusPage: 'https://support.cosmotickets.com/status/',
   supportSite: 'https://support.cosmotickets.com/'
 };

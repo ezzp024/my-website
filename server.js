@@ -11,7 +11,7 @@ const PUBLIC_DIR = path.join(__dirname, 'public');
 const DATA_DIR = path.join(__dirname, 'data');
 const USERS_FILE = path.join(DATA_DIR, 'users.json');
 
-const STATUS_PASSWORD = 'support';
+const STATUS_PASSWORD = process.env.STATUS_PASSWORD || 'support';
 const ROLES = ['support', 'trail support', 'head support', 'Owner', 'msd'];
 const ADMIN_ROLES = new Set(['Owner', 'msd']);
 
@@ -83,8 +83,10 @@ function verifyPassword(password, user) {
 function loadUsers() {
   ensureDataDir();
   if (!fs.existsSync(USERS_FILE)) {
-    const owner = hashPassword('owner123!');
-    const msd = hashPassword('msd123!');
+    const ownerPassword = process.env.OWNER_PASSWORD || crypto.randomBytes(8).toString('hex');
+    const msdPassword = process.env.MSD_PASSWORD || crypto.randomBytes(8).toString('hex');
+    const owner = hashPassword(ownerPassword);
+    const msd = hashPassword(msdPassword);
     const seed = {
       users: [
         { username: 'owner', role: 'Owner', salt: owner.salt, hash: owner.hash },
@@ -92,6 +94,7 @@ function loadUsers() {
       ]
     };
     fs.writeFileSync(USERS_FILE, JSON.stringify(seed, null, 2), 'utf8');
+    console.log(`First run - generated credentials: owner/${ownerPassword} msd/${msdPassword}`);
   }
   try {
     const raw = fs.readFileSync(USERS_FILE, 'utf8');
