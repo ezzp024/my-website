@@ -69,7 +69,7 @@ def dedupe_products(products):
     return out
 
 
-def parse_products(html):
+def parse_products(html, brand_name):
     soup = BeautifulSoup(html, "html.parser")
     products = []
 
@@ -81,7 +81,7 @@ def parse_products(html):
         name = name_el.get_text(" ", strip=True)
         status = status_el.get_text(" ", strip=True)
         if name and 1 < len(name) < 80:
-            products.append({"name": name, "status": normalize_status(status)})
+            products.append({"name": name, "brand": brand_name, "status": normalize_status(status)})
 
     if not products:
         for tr in soup.select("tr"):
@@ -91,7 +91,7 @@ def parse_products(html):
             name = tds[0].get_text(" ", strip=True)
             status = tds[1].get_text(" ", strip=True)
             if name and 1 < len(name) < 64 and "product" not in name.lower():
-                products.append({"name": name, "status": normalize_status(status)})
+                products.append({"name": name, "brand": brand_name, "status": normalize_status(status)})
 
     return dedupe_products(products)
 
@@ -136,7 +136,7 @@ def main():
                     results.append({"brand": brand["name"], "status": "Login Required", "products": []})
                     continue
 
-                products = parse_products(html)
+                products = parse_products(html, brand["name"])
                 total_products += len(products)
                 results.append(
                     {"brand": brand["name"], "status": overall_status(products), "products": products}
