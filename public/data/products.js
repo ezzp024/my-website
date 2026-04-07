@@ -207,7 +207,7 @@ const PRODUCTS = [
         content: 'Check if customer is not on a Virtual Machine/Desktop.'
       },
       {
-        title: 'Connection errors timeout reached/couldn't resolve hostname',
+        title: 'Connection errors timeout reached/couldn\'t resolve hostname',
         content: 'Use a VPN like Warp/Tunnelbear.'
       }
     ]
@@ -1022,7 +1022,7 @@ const PRODUCTS = [
     fixes: [
       {
         title: 'InitWindows Error!',
-        content: 'Press F2 for injector only after you see discord overlay banner.\nALSO DON'T BE IN A DISCORD CALL WHEN USING DISCORD OVERLAY!\n(Have legacy overlay disabled)'
+        content: 'Press F2 for injector only after you see discord overlay banner.\nALSO DON\'T BE IN A DISCORD CALL WHEN USING DISCORD OVERLAY!\n(Have legacy overlay disabled)'
       },
       {
         title: 'LoadHyperVisor Error!',
