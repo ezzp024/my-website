@@ -483,6 +483,23 @@ app.get('/api/status', requireAuth, async (_req, res) => {
   }
 });
 
+// Public status endpoint - no auth required
+app.get('/api/public-status', async (_req, res) => {
+  const now = Date.now();
+  if (statusCache.data && (now - statusCache.timestamp) < CACHE_DURATION) {
+    return res.json({ mode: 'live', generatedAt: new Date().toISOString(), ...statusCache.data });
+  }
+  try {
+    if (!sessionCookie) await login();
+    const results = await Promise.all(BRANDS.map((brand) => fetchBrandStatus(brand)));
+    const response = { success: true, brands: results, lastUpdated: new Date().toISOString() };
+    statusCache = { data: response, timestamp: now };
+    res.json({ mode: 'live', generatedAt: new Date().toISOString(), ...response });
+  } catch (err) {
+    res.status(500).json({ mode: 'live', generatedAt: new Date().toISOString(), success: false, error: err.message });
+  }
+});
+
 // Page routes
 app.get('/', (_req, res) => res.sendFile(path.join(PUBLIC_DIR, 'index.html')));
 app.get('/dashboard', requireAuth, (_req, res) => res.sendFile(path.join(PUBLIC_DIR, 'dashboard.html')));

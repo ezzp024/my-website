@@ -386,7 +386,7 @@
           <div style="font-size:12px;color:var(--text3);margin-top:6px;">Data age</div>
           <div id="dataAge" style="font-size:12px;font-weight:600;color:var(--purple2);">—</div>
           <div style="font-size:12px;color:var(--text3);margin-top:6px;">Mode</div>
-          <div id="backendHealth" style="font-size:12px;font-weight:600;color:#86efac;">GitHub Snapshot</div>
+          <div id="backendHealth" style="font-size:12px;font-weight:600;color:#86efac;">Checking...</div>
         </div>
       </div>
 
@@ -411,6 +411,7 @@
 </div>
 
 <script src="js/cosmic-bg.js"></script>
+<script src="js/runtime-config.js"></script>
 <script>
 const glow = document.getElementById('cursorGlow');
 document.addEventListener('mousemove', e => { glow.style.left=e.clientX+'px'; glow.style.top=e.clientY+'px'; });
@@ -423,8 +424,44 @@ let activeDrawerBrand = '';
 let drawerPinned = false;
 let lastDataUpdatedAt = null;
 let freshnessTimer = null;
+let currentMode = 'unknown';
 const hoverDrawerEnabled = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
-const API_ENDPOINTS = [{ kind: 'static', url: 'data/status.json' }];
+
+const LIVE_API = window.COSMO_RUNTIME && window.COSMO_RUNTIME.apiBase 
+  ? window.COSMO_RUNTIME.apiBase + '/api/public-status' 
+  : null;
+const SNAPSHOT_URL = 'data/status.json';
+
+async function fetchStatusData() {
+  // Try live API first
+  if (LIVE_API) {
+    try {
+      const res = await fetch(LIVE_API, { cache: 'no-store', signal: AbortSignal.timeout(30000) });
+      if (res.ok) {
+        const data = await res.json();
+        currentMode = 'live';
+        return data;
+      }
+      console.error('Live API failed:', res.status);
+    } catch (err) {
+      console.error('Live fetch error:', err.message);
+    }
+  }
+  
+  // Fallback to snapshot
+  try {
+    const res = await fetch(SNAPSHOT_URL, { cache: 'no-store', signal: AbortSignal.timeout(30000) });
+    if (res.ok) {
+      const data = await res.json();
+      currentMode = 'snapshot';
+      return data;
+    }
+  } catch (err) {
+    console.error('Snapshot failed:', err.message);
+  }
+  
+  throw new Error('No status available');
+}
 
 function getStatusClass(status) {
   const s = status.toLowerCase();
@@ -578,6 +615,16 @@ async function fetchAllStatuses() {
     const results = filterToActiveStates(data.brands || []);
     const hasAnyData = results.length > 0;
 
+    // Update mode display
+    const healthEl = document.getElementById('backendHealth');
+    if (currentMode === 'live') {
+      healthEl.textContent = 'Live API';
+      healthEl.style.color = '#86efac';
+    } else {
+      healthEl.textContent = 'GitHub Snapshot';
+      healthEl.style.color = '#fde68a';
+    }
+
     if (!hasAnyData) {
       showLoginRequired(12);
     } else {
@@ -593,7 +640,7 @@ async function fetchAllStatuses() {
     lastDataUpdatedAt = null;
     updateFreshnessUI();
     const healthEl = document.getElementById('backendHealth');
-    healthEl.textContent = 'Snapshot Unavailable';
+    healthEl.textContent = 'Unavailable';
     healthEl.style.color = '#fda4af';
     document.getElementById('lastUpdated').textContent = new Date().toLocaleTimeString();
   }
