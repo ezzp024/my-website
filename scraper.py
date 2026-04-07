@@ -1,5 +1,6 @@
 import threading
 import time
+import os
 from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
@@ -8,7 +9,7 @@ from flask_cors import CORS
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 
 
-PASSWORD = "support"
+PASSWORD = os.environ.get("STATUS_PASSWORD", "support")
 BASE = "https://support.cosmotickets.com/status/"
 REFRESH_SECONDS = 60
 PORT = 5050
