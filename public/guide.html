@@ -39,16 +39,34 @@
     </div>
   </nav>
 
-  <!-- Main -->
+    <!-- Main -->
   <main class="main" style="display:flex; flex-direction:column;">
     <!-- Topbar -->
     <div class="topbar">
-      <div class="page-title">Support Guide</div>
+      <div class="page-title" id="pageTitle">Support Guide</div>
       <div class="topbar-actions">
-        <div class="keyboard-hint">
+        <!-- Mobile Product Selector Button -->
+        <button class="mobile-product-btn" id="mobileProductBtn" onclick="openProductSelector()">
+          <span>📋</span> Products
+        </button>
+        <div class="keyboard-hint desktop-only">
           <span class="kbd">←</span><span class="kbd">→</span> Navigate products
           <span style="margin-left:8px;" class="kbd">⌘K</span> Search
         </div>
+      </div>
+    </div>
+
+    <!-- Product Selector Modal (Mobile) -->
+    <div class="product-selector-overlay" id="productSelectorOverlay" onclick="closeProductSelector(event)">
+      <div class="product-selector-modal" onclick="event.stopPropagation()">
+        <div class="product-selector-header">
+          <span class="product-selector-title">Select Product</span>
+          <button class="product-selector-close" onclick="closeProductSelector()">✕</button>
+        </div>
+        <div class="product-selector-search">
+          <input type="text" id="mobileProductSearch" placeholder="Search products..." oninput="filterMobileProducts(this.value)">
+        </div>
+        <div class="product-selector-list" id="mobileProductList"></div>
       </div>
     </div>
 
@@ -407,6 +425,58 @@ document.addEventListener('keydown', e => {
 
 // ===== INIT =====
 renderList();
+
+// ===== MOBILE PRODUCT SELECTOR =====
+function openProductSelector() {
+  const overlay = document.getElementById('productSelectorOverlay');
+  overlay.classList.add('show');
+  document.getElementById('mobileProductSearch').value = '';
+  document.getElementById('mobileProductSearch').focus();
+  renderMobileProductList(PRODUCTS);
+  document.body.style.overflow = 'hidden';
+}
+
+function closeProductSelector(event) {
+  if (event && event.target !== event.currentTarget) return;
+  const overlay = document.getElementById('productSelectorOverlay');
+  overlay.classList.remove('show');
+  document.body.style.overflow = '';
+}
+
+function renderMobileProductList(products) {
+  const list = document.getElementById('mobileProductList');
+  if (products.length === 0) {
+    list.innerHTML = '<div class="no-products">No products found</div>';
+    return;
+  }
+  list.innerHTML = products.map((p, i) => {
+    const realIdx = PRODUCTS.findIndex(prod => prod.name === p.name);
+    return `
+      <div class="product-selector-item ${realIdx === currentIdx ? 'active' : ''}" onclick="selectProduct(${realIdx}); closeProductSelector();">
+        <div class="product-dot" style="background:${CAT_COLORS[p.category]||'#64748b'}"></div>
+        <span class="product-selector-name">${p.name}</span>
+        <span class="product-selector-cat">${p.category}</span>
+      </div>
+    `;
+  }).join('');
+}
+
+function filterMobileProducts(query) {
+  const q = query.toLowerCase().trim();
+  const filtered = q ? PRODUCTS.filter(p => 
+    p.name.toLowerCase().includes(q) || 
+    p.category.toLowerCase().includes(q) ||
+    Object.keys(p.requirements).some(k => k.toLowerCase().includes(q))
+  ) : PRODUCTS;
+  renderMobileProductList(filtered);
+}
+
+// Close modal on escape
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') {
+    closeProductSelector();
+  }
+});
 </script>
 </body>
 </html>
