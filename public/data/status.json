@@ -83,7 +83,7 @@
         {
           "name": "EFT",
           "brand": "Volt",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "PUBG",
@@ -113,7 +113,7 @@
         {
           "name": "Arc Raiders",
           "brand": "Athena",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Naraka",
@@ -398,12 +398,12 @@
         {
           "name": "Arc Raiders Steam",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Arc Raiders XBOX / MS Store",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Arc Raiders XP Bot",
@@ -478,7 +478,7 @@
         {
           "name": "Rust Lite",
           "brand": "Volt",
-          "status": "Undetected"
+          "status": "Updating"
         }
       ]
     },
@@ -615,7 +615,7 @@
         {
           "name": "Arc Raiders",
           "brand": "Athena",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Naraka",
@@ -788,7 +788,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Hero",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Fortnite",
@@ -1091,7 +1091,7 @@
         {
           "name": "EFT",
           "brand": "Pulse",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "MW3",
@@ -1213,12 +1213,12 @@
         {
           "name": "Arc Raiders Steam",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Arc Raiders XBOX / MS Store",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Arc Raiders XP Bot",
@@ -1283,7 +1283,7 @@
         {
           "name": "Gray Zone Warfare",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Hunt Showdown",
@@ -1329,17 +1329,17 @@
     },
     {
       "brand": "Volt",
-      "status": "Undetected",
+      "status": "Updating",
       "products": [
         {
           "name": "Rust",
           "brand": "Volt",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Rust Lite",
           "brand": "Volt",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "DayZ",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-08T09:40:26.191168+00:00",
+  "lastUpdated": "2026-04-08T10:44:29.016339+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
