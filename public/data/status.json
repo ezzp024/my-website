@@ -43,7 +43,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Pulse",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Fortnite",
@@ -610,7 +610,7 @@
         {
           "name": "Gray Zone Warfare",
           "brand": "Athena",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Arc Raiders",
@@ -641,7 +641,7 @@
     },
     {
       "brand": "Atlas",
-      "status": "Undetected",
+      "status": "Updating",
       "products": [
         {
           "name": "Apex Legends",
@@ -656,7 +656,7 @@
         {
           "name": "PUBG",
           "brand": "Atlas",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Rust",
@@ -824,7 +824,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Kane",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Active Matter",
@@ -975,7 +975,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Liquid",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Albion Online",
@@ -1035,7 +1035,7 @@
         {
           "name": "PUBG",
           "brand": "Liquid",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Rust",
@@ -1061,7 +1061,7 @@
     },
     {
       "brand": "Pulse",
-      "status": "Undetected",
+      "status": "Updating",
       "products": [
         {
           "name": "Apex",
@@ -1071,7 +1071,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Pulse",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Arma Reforger",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-08T08:18:10.964737+00:00",
+  "lastUpdated": "2026-04-08T09:40:26.191168+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
