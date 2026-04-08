@@ -83,7 +83,7 @@
         {
           "name": "EFT",
           "brand": "Volt",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "PUBG",
@@ -328,7 +328,7 @@
         {
           "name": "EFT Chams",
           "brand": "Liquid",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "R6 Siege X",
@@ -398,12 +398,12 @@
         {
           "name": "Arc Raiders Steam",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Arc Raiders XBOX / MS Store",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Arc Raiders XP Bot",
@@ -418,7 +418,7 @@
         {
           "name": "ARK Survival Ascended",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "ARK Survival Evolved",
@@ -463,7 +463,7 @@
         {
           "name": "SMITE 2",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "The Isle Evrima",
@@ -803,7 +803,7 @@
         {
           "name": "Rust",
           "brand": "Hero",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Rainbow Six Siege: Full",
@@ -824,7 +824,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Kane",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Active Matter",
@@ -1015,7 +1015,7 @@
         {
           "name": "EFT Chams",
           "brand": "Liquid",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Fortnite",
@@ -1055,7 +1055,7 @@
         {
           "name": "EFT",
           "brand": "Liquid",
-          "status": "Updating"
+          "status": "Undetected"
         }
       ]
     },
@@ -1213,12 +1213,12 @@
         {
           "name": "Arc Raiders Steam",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Arc Raiders XBOX / MS Store",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Arc Raiders XP Bot",
@@ -1233,7 +1233,7 @@
         {
           "name": "ARK Survival Ascended",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "ARK Survival Evolved",
@@ -1313,7 +1313,7 @@
         {
           "name": "SMITE 2",
           "brand": "Viper",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "The Isle Evrima",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-08T14:24:26.799450+00:00",
+  "lastUpdated": "2026-04-08T15:58:14.788889+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
