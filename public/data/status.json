@@ -641,7 +641,7 @@
     },
     {
       "brand": "Atlas",
-      "status": "Updating",
+      "status": "Undetected",
       "products": [
         {
           "name": "Apex Legends",
@@ -671,7 +671,7 @@
         {
           "name": "ARC Raiders",
           "brand": "Atlas",
-          "status": "Updating"
+          "status": "Undetected"
         }
       ]
     },
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-08T23:51:33.765298+00:00",
+  "lastUpdated": "2026-04-09T01:45:47.176007+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
