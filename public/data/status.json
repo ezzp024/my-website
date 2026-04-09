@@ -463,7 +463,7 @@
         {
           "name": "SMITE 2",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "The Isle Evrima",
@@ -504,7 +504,7 @@
         {
           "name": "Arena Breakout",
           "brand": "AstroZoom",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Battlefield 6",
@@ -798,7 +798,7 @@
         {
           "name": "Arena Breakout",
           "brand": "Hero",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Rust",
@@ -1283,7 +1283,7 @@
         {
           "name": "Gray Zone Warfare",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Hunt Showdown",
@@ -1293,7 +1293,7 @@
         {
           "name": "Marvel Rivals",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Off The Grid",
@@ -1313,7 +1313,7 @@
         {
           "name": "SMITE 2",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "The Isle Evrima",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-09T12:46:23.770025+00:00",
+  "lastUpdated": "2026-04-09T14:33:00.542581+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
