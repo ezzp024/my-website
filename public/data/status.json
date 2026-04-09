@@ -38,12 +38,12 @@
         {
           "name": "The Finals",
           "brand": "Pulse",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "ARC Raiders",
           "brand": "Pulse",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Fortnite",
@@ -524,7 +524,7 @@
         {
           "name": "ARC Raiders",
           "brand": "AstroZoom",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Fortnite",
@@ -1061,7 +1061,7 @@
     },
     {
       "brand": "Pulse",
-      "status": "Updating",
+      "status": "Undetected",
       "products": [
         {
           "name": "Apex",
@@ -1101,7 +1101,7 @@
         {
           "name": "The Finals",
           "brand": "Pulse",
-          "status": "Updating"
+          "status": "Undetected"
         }
       ]
     },
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-09T22:23:35.305570+00:00",
+  "lastUpdated": "2026-04-09T23:14:50.664401+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
