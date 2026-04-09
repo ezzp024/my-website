@@ -641,7 +641,7 @@
     },
     {
       "brand": "Atlas",
-      "status": "Undetected",
+      "status": "Updating",
       "products": [
         {
           "name": "Apex Legends",
@@ -651,7 +651,7 @@
         {
           "name": "Call of Duty",
           "brand": "Atlas",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "PUBG",
@@ -919,7 +919,7 @@
         {
           "name": "PUBG",
           "brand": "Kane",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Rust",
@@ -1359,7 +1359,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-09T04:19:41.895015+00:00",
+  "lastUpdated": "2026-04-09T06:02:10.771142+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
