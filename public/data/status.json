@@ -518,7 +518,7 @@
         {
           "name": "The Isle Evrima",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Marathon",
@@ -1368,7 +1368,7 @@
         {
           "name": "The Isle Evrima",
           "brand": "Viper",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Marathon",
@@ -1409,7 +1409,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-10T11:03:28.793632+00:00",
+  "lastUpdated": "2026-04-10T11:58:04.164135+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
