@@ -511,11 +511,6 @@
           "status": "Undetected"
         },
         {
-          "name": "Rust",
-          "brand": "Viper",
-          "status": "Testing"
-        },
-        {
           "name": "SMITE 2",
           "brand": "Viper",
           "status": "Undetected"
@@ -1368,7 +1363,7 @@
         {
           "name": "Rust",
           "brand": "Viper",
-          "status": "Testing"
+          "status": "Undetected"
         },
         {
           "name": "SMITE 2",
@@ -1424,7 +1419,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-11T21:22:27.577393+00:00",
+  "lastUpdated": "2026-04-11T21:56:48.182902+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
