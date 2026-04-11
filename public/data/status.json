@@ -148,7 +148,7 @@
         {
           "name": "BF6",
           "brand": "Forge",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Chess",
@@ -732,7 +732,7 @@
         {
           "name": "BF6",
           "brand": "Forge",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Chess",
@@ -1409,7 +1409,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-11T17:20:17.845858+00:00",
+  "lastUpdated": "2026-04-11T17:55:34.650716+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
