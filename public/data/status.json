@@ -528,7 +528,7 @@
         {
           "name": "Rust Lite",
           "brand": "Volt",
-          "status": "Undetected"
+          "status": "Updating"
         }
       ]
     },
@@ -853,7 +853,7 @@
         {
           "name": "Rust",
           "brand": "Hero",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Rainbow Six Siege: Full",
@@ -974,7 +974,7 @@
         {
           "name": "Rust",
           "brand": "Kane",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "SCUM",
@@ -1384,17 +1384,17 @@
     },
     {
       "brand": "Volt",
-      "status": "Undetected",
+      "status": "Updating",
       "products": [
         {
           "name": "Rust",
           "brand": "Volt",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Rust Lite",
           "brand": "Volt",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "DayZ",
@@ -1414,7 +1414,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-13T14:30:03.656494+00:00",
+  "lastUpdated": "2026-04-13T15:59:37.628223+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
