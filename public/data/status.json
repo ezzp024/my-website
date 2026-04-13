@@ -311,11 +311,6 @@
           "status": "Testing"
         },
         {
-          "name": "THE FINALS",
-          "brand": "Kane",
-          "status": "Updating"
-        },
-        {
           "name": "Unturned",
           "brand": "Kane",
           "status": "Undetected"
@@ -1004,7 +999,7 @@
         {
           "name": "THE FINALS",
           "brand": "Kane",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Unturned",
@@ -1419,7 +1414,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-13T12:51:43.481208+00:00",
+  "lastUpdated": "2026-04-13T14:30:03.656494+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
