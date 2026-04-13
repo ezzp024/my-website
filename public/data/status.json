@@ -33,7 +33,7 @@
         {
           "name": "Delta Force",
           "brand": "AstroZoom",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "The Finals",
@@ -216,11 +216,6 @@
           "status": "Updating"
         },
         {
-          "name": "Delta Force",
-          "brand": "Hero",
-          "status": "Undetected"
-        },
-        {
           "name": "Valorant",
           "brand": "Hero",
           "status": "Undetected"
@@ -354,6 +349,11 @@
           "name": "CoD Warzone",
           "brand": "Liquid",
           "status": "Undetected"
+        },
+        {
+          "name": "Delta Force",
+          "brand": "Liquid",
+          "status": "Updating"
         },
         {
           "name": "EFT Chams",
@@ -569,7 +569,7 @@
         {
           "name": "Delta Force",
           "brand": "AstroZoom",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "The Finals",
@@ -1419,7 +1419,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-13T06:10:47.989126+00:00",
+  "lastUpdated": "2026-04-13T08:35:48.890876+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
