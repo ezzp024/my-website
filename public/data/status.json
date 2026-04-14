@@ -246,6 +246,11 @@
           "status": "Undetected"
         },
         {
+          "name": "Battlefield 6",
+          "brand": "Kane",
+          "status": "Updating"
+        },
+        {
           "name": "CS2",
           "brand": "Kane",
           "status": "Undetected"
@@ -899,7 +904,7 @@
         {
           "name": "Battlefield 6",
           "brand": "Kane",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "CS2",
@@ -1419,7 +1424,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-14T06:55:35.591689+00:00",
+  "lastUpdated": "2026-04-14T08:25:30.713235+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
