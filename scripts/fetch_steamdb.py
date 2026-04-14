@@ -20,6 +20,13 @@ APP_IDS = {
     "Apex-Lite": 1172470,
     "Arena Breakout": 2073620,
     "Arena Breakout Infinite": 2073620,
+    "ARC Raiders": 1808500,
+    "ARK Survival Ascended": 2399830,
+    "ARK: Survival Ascended": 2399830,
+    "ARKSA": 2399830,
+    "ARK Survival Evolved": 346110,
+    "ARK: Survival Evolved": 346110,
+    "ARKSE": 346110,
     "Rainbow Six Siege: Full": 359550,
     "Rainbow Six Siege: Lite": 359550,
     "PUBG": 578080,
@@ -41,6 +48,7 @@ APP_IDS = {
     "Marathon": None,
     "Spoofer": None,
     "Active Matter": None,
+    "Albion Online": 761890,
 }
 
 
