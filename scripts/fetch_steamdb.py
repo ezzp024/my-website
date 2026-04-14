@@ -9,6 +9,7 @@ OUT_FILE = os.path.join("public", "data", "steamdb.json")
 
 APP_IDS = {
     "Call of Duty": 1938090,
+    "Counter-Strike 2": 730,
     "Delta Force": 2507950,
     "Rust": 252490,
     "BF6": 671860,
@@ -29,6 +30,7 @@ APP_IDS = {
     "ARKSE": 346110,
     "Rainbow Six Siege: Full": 359550,
     "Rainbow Six Siege: Lite": 359550,
+    "Rainbow Six Siege": 359550,
     "PUBG": 578080,
     "THE FINALS": 2073850,
     "WarThunder": 236390,
@@ -45,11 +47,77 @@ APP_IDS = {
     "Marvel Rivals": 2767030,
     "Gray Zone Warfare": 2479810,
     "Dark and Darker": 2016590,
+    "DayZ": 221100,
+    "Dead by Daylight": 381210,
+    "Conan Exiles": 440900,
+    "Hell Let Loose": 686810,
+    "Palworld": 1623730,
+    "SCUM": 513710,
+    "SMITE 2": 2437170,
+    "Sea of Thieves": 1172620,
+    "Squad": 393380,
+    "Unturned": 304930,
+    "Naraka": 1203220,
+    "Arma 3": 107410,
+    "Arma Reforger": 1874880,
+    "Battlebit": 671860,
+    "The Finals": 2073850,
+    "Farlight 84": 1928420,
+    "STALCRAFT": 1818450,
+    "The Isle Evrima": 376210,
     "Marathon": None,
     "Spoofer": None,
     "Active Matter": None,
     "Albion Online": 761890,
 }
+
+ALIASES = {
+    "apex": "Apex Legends",
+    "apex-full": "Apex Legends",
+    "apex-lite": "Apex Legends",
+    "arc raiders": "ARC Raiders",
+    "arc raiders epic games": "ARC Raiders",
+    "arc raiders steam": "ARC Raiders",
+    "arc raiders xbox / ms store": "ARC Raiders",
+    "arc raiders xp bot": "ARC Raiders",
+    "ark survival ascended": "ARK Survival Ascended",
+    "ark: survival ascended": "ARK Survival Ascended",
+    "arksa": "ARK Survival Ascended",
+    "ark sa": "ARK Survival Ascended",
+    "ark: ascended": "ARK Survival Ascended",
+    "ark survival evolved": "ARK Survival Evolved",
+    "ark: survival evolved": "ARK Survival Evolved",
+    "arkse": "ARK Survival Evolved",
+    "battlefield™ 6": "Battlefield 6",
+    "bf6": "Battlefield 6",
+    "counter-strike 2": "Counter-Strike 2",
+    "cs2": "Counter-Strike 2",
+    "dayz full": "DayZ",
+    "dayz lite": "DayZ",
+    "deadbydaylight": "Dead by Daylight",
+    "dune: awakening": "Dune Awakening",
+    "farlight84": "Farlight 84",
+    "hellll": "Hell Let Loose",
+    "hll": "Hell Let Loose",
+    "hunt": "Hunt: Showdown",
+    "hunt showdown": "Hunt: Showdown",
+    "marvelrivals": "Marvel Rivals",
+    "rainbow six siege: full": "Rainbow Six Siege",
+    "rainbow six siege: lite": "Rainbow Six Siege",
+    "r6 siege x": "Rainbow Six Siege",
+    "rust lite": "Rust",
+    "stalcraft": "STALCRAFT",
+    "the finals": "The Finals",
+    "war thunder": "WarThunder",
+    "warthunder full": "WarThunder",
+}
+
+
+def canonical_game_name(name):
+    key = (name or "").strip().lower()
+    if key in ALIASES:
+        return ALIASES[key]
+    return (name or "").strip()
 
 
 def to_iso(ts):
@@ -98,7 +166,7 @@ def read_games_from_status():
     seen = set()
     games = []
     for p in source_products:
-        name = (p.get("name") or "").strip()
+        name = canonical_game_name(p.get("name"))
         if name and name not in seen:
             seen.add(name)
             games.append(name)
