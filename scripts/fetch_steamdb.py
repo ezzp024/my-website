@@ -149,6 +149,35 @@ def fetch_latest_news(app_id):
     }
 
 
+NON_GAME_KEYWORDS = {
+    "spoofer",
+    "chams",
+    "bot",
+    "xp",
+    "eac",
+    "battleye",
+    "cheat",
+    "hwid",
+    "loader",
+}
+
+
+def is_probably_non_game(game):
+    key = (game or "").strip().lower()
+    return any(word in key for word in NON_GAME_KEYWORDS)
+
+
+def search_app_id(game):
+    params = urllib.parse.urlencode({"term": game, "l": "english", "cc": "us"})
+    url = f"https://store.steampowered.com/api/storesearch/?{params}"
+    with urllib.request.urlopen(url, timeout=30) as res:
+        data = json.loads(res.read().decode("utf-8"))
+    items = data.get("items") or []
+    if not items:
+        return None
+    return items[0].get("id")
+
+
 def read_games_from_status():
     if not os.path.exists(STATUS_FILE):
         return sorted(APP_IDS.keys())
@@ -180,6 +209,16 @@ def main():
 
     for game in games:
         app_id = APP_IDS.get(game)
+
+        if app_id is None and not is_probably_non_game(game):
+            try:
+                app_id = search_app_id(game)
+            except Exception:
+                app_id = None
+
+        if app_id is None:
+            continue
+
         row = {
             "game": game,
             "appId": app_id,
@@ -187,7 +226,7 @@ def main():
             "latestPatchTitle": None,
             "latestPatchUrl": None,
             "latestPatchPublishedAt": None,
-            "status": "unmapped" if app_id is None else "ok",
+            "status": "ok",
         }
 
         if app_id:

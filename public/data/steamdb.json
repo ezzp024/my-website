@@ -1,9 +1,9 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-14T15:35:10.051260+00:00",
-  "totalGames": 63,
-  "mappedGames": 39,
+  "generatedAt": "2026-04-14T15:40:50.273854+00:00",
+  "totalGames": 48,
+  "mappedGames": 48,
   "games": [
     {
       "game": "ARC Raiders",
@@ -34,12 +34,12 @@
     },
     {
       "game": "Active Matter",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 2887580,
+      "steamDbUrl": "https://steamdb.info/app/2887580/",
+      "latestPatchTitle": "Developer Q&A: April 13th 2026!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821315478",
+      "latestPatchPublishedAt": "2026-04-13T13:35:57+00:00",
+      "status": "ok"
     },
     {
       "game": "Albion Online",
@@ -96,15 +96,6 @@
       "status": "ok"
     },
     {
-      "game": "BattlEye Spoofer",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
       "game": "Battlebit",
       "appId": 671860,
       "steamDbUrl": "https://steamdb.info/app/671860/",
@@ -142,30 +133,12 @@
     },
     {
       "game": "Chess",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
-      "game": "CoD Warzone",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
-      "game": "Cod Black Ops 7",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 1349230,
+      "steamDbUrl": "https://steamdb.info/app/1349230/",
+      "latestPatchTitle": "Tiny Bugfix Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4186652991107671279",
+      "latestPatchPublishedAt": "2021-11-04T01:11:48+00:00",
+      "status": "ok"
     },
     {
       "game": "Conan Exiles",
@@ -214,12 +187,12 @@
     },
     {
       "game": "Deadside",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 895400,
+      "steamDbUrl": "https://steamdb.info/app/895400/",
+      "latestPatchTitle": "1.9 Mod Compatibility & Testing",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821305015",
+      "latestPatchPublishedAt": "2026-04-08T18:34:01+00:00",
+      "status": "ok"
     },
     {
       "game": "Delta Force",
@@ -240,76 +213,22 @@
       "status": "ok"
     },
     {
-      "game": "EAC Spoofer",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
       "game": "EFT",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
-      "game": "EFT Chams",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
-      "game": "EFT Full",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
-      "game": "EFT Lite",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
-      "game": "EFT-Full",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
-      "game": "EFT-Lite",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
+      "status": "ok"
     },
     {
       "game": "Escape From Tarkov",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 3932890,
+      "steamDbUrl": "https://steamdb.info/app/3932890/",
+      "latestPatchTitle": "New clothing sets are now available!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821315523",
+      "latestPatchPublishedAt": "2026-04-13T13:59:17+00:00",
+      "status": "ok"
     },
     {
       "game": "Farlight 84",
@@ -321,22 +240,13 @@
       "status": "ok"
     },
     {
-      "game": "Fortnite",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
       "game": "FragPunk",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 2943650,
+      "steamDbUrl": "https://steamdb.info/app/2943650/",
+      "latestPatchTitle": "FragPunk April 8th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821303765",
+      "latestPatchPublishedAt": "2026-04-08T10:10:38+00:00",
+      "status": "ok"
     },
     {
       "game": "Gray Zone Warfare",
@@ -366,22 +276,13 @@
       "status": "ok"
     },
     {
-      "game": "MW3",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
       "game": "Marathon",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 3065800,
+      "steamDbUrl": "https://steamdb.info/app/3065800/",
+      "latestPatchTitle": "Introducing C.A.R.R.I. - CyberAcme’s New Protocol",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821317890",
+      "latestPatchPublishedAt": "2026-04-14T14:00:48+00:00",
+      "status": "ok"
     },
     {
       "game": "Marvel Rivals",
@@ -403,30 +304,21 @@
     },
     {
       "game": "Off The Grid",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
-      "game": "Overwatch2",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 3659280,
+      "steamDbUrl": "https://steamdb.info/app/3659280/",
+      "latestPatchTitle": "The Bride Content Pack",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365763601",
+      "latestPatchPublishedAt": "2026-03-23T14:13:34+00:00",
+      "status": "ok"
     },
     {
       "game": "PIONER",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "The technical issues have been resolved",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821312433",
+      "latestPatchPublishedAt": "2026-04-11T16:03:01+00:00",
+      "status": "ok"
     },
     {
       "game": "PUBG",
@@ -501,15 +393,6 @@
       "status": "ok"
     },
     {
-      "game": "Spoofer",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
-    },
-    {
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
@@ -517,15 +400,6 @@
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815560881",
       "latestPatchPublishedAt": "2026-04-03T17:00:55+00:00",
       "status": "ok"
-    },
-    {
-      "game": "The Divison2",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
     },
     {
       "game": "The Finals",
@@ -553,15 +427,6 @@
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815557904",
       "latestPatchPublishedAt": "2026-04-02T16:01:28+00:00",
       "status": "ok"
-    },
-    {
-      "game": "Valorant",
-      "appId": null,
-      "steamDbUrl": null,
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "unmapped"
     },
     {
       "game": "WarThunder",
