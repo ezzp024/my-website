@@ -148,7 +148,7 @@
         {
           "name": "BF6",
           "brand": "Forge",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Chess",
@@ -239,11 +239,6 @@
           "name": "Ark: Ascended",
           "brand": "Kane",
           "status": "Undetected"
-        },
-        {
-          "name": "Battlefield 6",
-          "brand": "Kane",
-          "status": "Updating"
         },
         {
           "name": "CS2",
@@ -742,7 +737,7 @@
         {
           "name": "BF6",
           "brand": "Forge",
-          "status": "Undetected"
+          "status": "Updating"
         },
         {
           "name": "Chess",
@@ -863,7 +858,7 @@
         {
           "name": "Rust",
           "brand": "Hero",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "Rainbow Six Siege: Full",
@@ -904,7 +899,7 @@
         {
           "name": "Battlefield 6",
           "brand": "Kane",
-          "status": "Updating"
+          "status": "Undetected"
         },
         {
           "name": "CS2",
@@ -1424,7 +1419,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-14T15:44:40.978435+00:00",
+  "lastUpdated": "2026-04-14T16:49:57.529132+00:00",
   "loggedIn": true,
   "source": "github-actions"
 }
