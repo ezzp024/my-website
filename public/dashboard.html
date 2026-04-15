@@ -9,22 +9,12 @@
   <link rel="stylesheet" href="css/main.css">
   <style>
     .sidebar-page { display: flex; }
-    .sidebar-page .main { margin-left: var(--sidebar-peek); flex: 1; transition: margin-left 0.28s cubic-bezier(0.4,0,0.2,1); }
+    .sidebar-page .main { margin-left: var(--sidebar-peek); flex: 1; transition: margin-left 0.3s cubic-bezier(0.4,0,0.2,1); }
     .sidebar:hover ~ .main { margin-left: var(--sidebar-w); }
-    .stats-row { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 40px; animation: fadeIn 0.5s ease 0.7s both; }
-    .stat-card {
-      flex: 1; min-width: 120px;
-      background: rgba(28,28,30,0.85);
-      border: 1px solid rgba(255,255,255,0.09);
-      border-radius: 14px;
-      padding: 18px 20px;
-      text-align: center;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-    }
-    .stat-num { font-size: 30px; font-weight: 700; color: #f5f5f7; letter-spacing: -0.5px; }
-    .stat-label { font-size: 11px; color: #6e6e73; letter-spacing: 0.3px; text-transform: uppercase; margin-top: 4px; font-weight: 500; }
+    .stats-row { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 40px; animation: fadeIn 0.6s ease 1s both; }
+    .stat-card { flex: 1; min-width: 120px; background: var(--card2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px 20px; text-align: center; box-shadow: var(--glow); }
+    .stat-num { font-size: 28px; font-weight: 900; background: linear-gradient(135deg, #c4b5fd, #8b5cf6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    .stat-label { font-size: 11px; color: var(--text3); letter-spacing: 0.8px; text-transform: uppercase; margin-top: 4px; }
   </style>
 </head>
 <body>
