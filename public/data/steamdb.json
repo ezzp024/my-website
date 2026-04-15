@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-15T18:54:19.597622+00:00",
+  "generatedAt": "2026-04-15T19:59:07.136079+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821314951",
-      "latestPatchPublishedAt": "2026-04-13T09:17:12+00:00",
+      "latestPatchTitle": "Less Storage, Same Firepower: Steam Map Pack System coming to Season Echo",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255797",
+      "latestPatchPublishedAt": "2026-04-15T19:00:46+00:00",
       "status": "ok"
     },
     {
