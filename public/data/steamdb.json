@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-16T05:52:14.005193+00:00",
+  "generatedAt": "2026-04-16T07:21:52.723219+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "'Close enough. Welcome back Thanos': Marvel Rivals' power creep reaches new levels of busted with Black Cat",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1830163047255566",
-      "latestPatchPublishedAt": "2026-04-15T16:43:25+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260417 Patch Notes - Season 7.5 Arrives",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047256629",
+      "latestPatchPublishedAt": "2026-04-16T06:27:03+00:00",
       "status": "ok"
     },
     {
@@ -315,9 +315,9 @@
       "game": "PIONER",
       "appId": 3105890,
       "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Presenting the roadmap of new content updates for PIONER for this year.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255503",
-      "latestPatchPublishedAt": "2026-04-15T16:40:05+00:00",
+      "latestPatchTitle": "Server maintenance April 16th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047256683",
+      "latestPatchPublishedAt": "2026-04-16T07:07:23+00:00",
       "status": "ok"
     },
     {
