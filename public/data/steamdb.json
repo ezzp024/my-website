@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-16T11:35:57.817533+00:00",
+  "generatedAt": "2026-04-16T12:46:24.675092+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Less Storage, Same Firepower: Steam Map Pack System coming to Season Echo",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255797",
-      "latestPatchPublishedAt": "2026-04-15T19:00:46+00:00",
+      "latestPatchTitle": "End of Season Sprint Event is now live, the Sharpshooter Bundle is now available",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257230",
+      "latestPatchPublishedAt": "2026-04-16T12:00:14+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "This Month in Sea of Thieves: April 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821304355",
-      "latestPatchPublishedAt": "2026-04-08T13:45:47+00:00",
+      "latestPatchTitle": "The Bilge Rats Weekender",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257342",
+      "latestPatchPublishedAt": "2026-04-16T12:38:25+00:00",
       "status": "ok"
     },
     {
