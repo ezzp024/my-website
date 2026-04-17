@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-17T08:10:44.009396+00:00",
+  "generatedAt": "2026-04-17T09:49:32.593244+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 1349230,
-      "steamDbUrl": "https://steamdb.info/app/1349230/",
-      "latestPatchTitle": "Tiny Bugfix Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4186652991107671279",
-      "latestPatchPublishedAt": "2021-11-04T01:11:48+00:00",
+      "appId": 1530300,
+      "steamDbUrl": "https://steamdb.info/app/1530300/",
+      "latestPatchTitle": "MAINTENANCE on 26th March",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365769374",
+      "latestPatchPublishedAt": "2026-03-26T01:17:49+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Go Esports with the New WTCS 2026 Season Pack!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257397",
-      "latestPatchPublishedAt": "2026-04-16T13:03:36+00:00",
+      "latestPatchTitle": "The AMX A-1A Returns with a Discount for Brazilian Army Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259529",
+      "latestPatchPublishedAt": "2026-04-17T09:24:20+00:00",
       "status": "ok"
     }
   ]
