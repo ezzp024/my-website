@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-17T15:13:53.583674+00:00",
+  "generatedAt": "2026-04-17T16:14:34.556105+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG EMEA Championship: Spring - Playoffs Day 3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260346",
-      "latestPatchPublishedAt": "2026-04-17T14:30:33+00:00",
+      "latestPatchTitle": "PUBG Americas Series Playoffs 1: Day 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260535",
+      "latestPatchPublishedAt": "2026-04-17T15:25:33+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 10.3.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047256961",
-      "latestPatchPublishedAt": "2026-04-16T10:00:40+00:00",
+      "latestPatchTitle": "Hotfix 10.3,1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260640",
+      "latestPatchPublishedAt": "2026-04-17T15:51:27+00:00",
       "status": "ok"
     },
     {
