@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-17T20:59:36.223338+00:00",
+  "generatedAt": "2026-04-17T21:50:05.308176+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 7 Apr — 14 April 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1829528821317845",
-      "latestPatchPublishedAt": "2026-04-14T09:00:00+00:00",
+      "latestPatchTitle": "The Grimoire - Ask your questions for an upcoming Q&A here!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261413",
+      "latestPatchPublishedAt": "2026-04-17T21:17:51+00:00",
       "status": "ok"
     },
     {
