@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-17T10:44:06.885081+00:00",
+  "generatedAt": "2026-04-17T11:37:46.191987+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dev Talk: Xbox Launch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257715",
-      "latestPatchPublishedAt": "2026-04-16T15:03:59+00:00",
+      "latestPatchTitle": "Get the Swampstrider in the Season 32 Bundles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259632",
+      "latestPatchPublishedAt": "2026-04-17T10:14:49+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Rubik — to be or not to be?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255272",
-      "latestPatchPublishedAt": "2026-04-15T15:35:13+00:00",
+      "latestPatchTitle": "Melted cosmetics",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259729",
+      "latestPatchPublishedAt": "2026-04-17T10:57:06+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The AMX A-1A Returns with a Discount for Brazilian Army Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259529",
-      "latestPatchPublishedAt": "2026-04-17T09:24:20+00:00",
+      "latestPatchTitle": "The A-6E Intruder is Back with a Discount on its First Flight Anniversary!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259747",
+      "latestPatchPublishedAt": "2026-04-17T11:04:37+00:00",
       "status": "ok"
     }
   ]
