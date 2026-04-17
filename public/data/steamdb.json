@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-17T16:14:34.556105+00:00",
+  "generatedAt": "2026-04-17T17:08:40.285083+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,18 +81,18 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Creator SPOTREP: Expeditionary Forces #003 (Hotfix)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815567323",
-      "latestPatchPublishedAt": "2026-04-07T13:15:03+00:00",
+      "latestPatchTitle": "Survive and Thrive Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260870",
+      "latestPatchPublishedAt": "2026-04-17T17:00:42+00:00",
       "status": "ok"
     },
     {
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "COMRAD #25",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257760",
-      "latestPatchPublishedAt": "2026-04-16T15:14:16+00:00",
+      "latestPatchTitle": "Survive and Thrive Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260872",
+      "latestPatchPublishedAt": "2026-04-17T17:00:47+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 63) | Wishlist now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047255086",
-      "latestPatchPublishedAt": "2026-04-15T14:37:50+00:00",
+      "latestPatchTitle": "Survive & Thrive Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260916",
+      "latestPatchPublishedAt": "2026-04-17T17:05:50+00:00",
       "status": "ok"
     },
     {
