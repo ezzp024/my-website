@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-17T20:04:10.520080+00:00",
+  "generatedAt": "2026-04-17T20:59:36.223338+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 4/16/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047258708",
-      "latestPatchPublishedAt": "2026-04-16T22:36:25+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 4/17/26",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261349",
+      "latestPatchPublishedAt": "2026-04-17T20:36:37+00:00",
       "status": "ok"
     },
     {
@@ -154,8 +154,8 @@
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
       "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047252212",
-      "latestPatchPublishedAt": "2026-04-14T22:07:40+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261361",
+      "latestPatchPublishedAt": "2026-04-17T20:47:38+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Inferno Returns I Developer Gameplay Live Stream 🔥🔥🔥",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047257960",
-      "latestPatchPublishedAt": "2026-04-16T16:07:57+00:00",
+      "latestPatchTitle": "Double Event Points This Weekend",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261364",
+      "latestPatchPublishedAt": "2026-04-17T20:48:21+00:00",
       "status": "ok"
     },
     {
