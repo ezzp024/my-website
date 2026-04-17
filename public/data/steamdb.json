@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-17T22:24:34.334990+00:00",
+  "generatedAt": "2026-04-17T23:06:52.857229+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "New Marathon update takes a leaf out of Arc Raiders' book and encourages you to play nice",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1830163047255565",
-      "latestPatchPublishedAt": "2026-04-15T16:42:08+00:00",
+      "latestPatchTitle": "\"UPDATE: WTF WSTRs\" from Game Director, Joe Ziegler",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261550",
+      "latestPatchPublishedAt": "2026-04-17T23:02:01+00:00",
       "status": "ok"
     },
     {
