@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-18T22:26:51.747256+00:00",
+  "generatedAt": "2026-04-18T23:03:06.327055+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Americas Series Playoffs 1: Day 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260535",
-      "latestPatchPublishedAt": "2026-04-17T15:25:33+00:00",
+      "latestPatchTitle": "PUBG Americas Series 1 Playoffs 1: Day 3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047263309",
+      "latestPatchPublishedAt": "2026-04-18T22:33:39+00:00",
       "status": "ok"
     },
     {
