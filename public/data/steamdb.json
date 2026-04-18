@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-18T01:46:31.663087+00:00",
+  "generatedAt": "2026-04-18T04:18:08.819743+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The A-6E Intruder is Back with a Discount on its First Flight Anniversary!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047259747",
-      "latestPatchPublishedAt": "2026-04-17T11:04:37+00:00",
+      "latestPatchTitle": "Screenshot Competition – Silent Approach!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261809",
+      "latestPatchPublishedAt": "2026-04-18T04:00:53+00:00",
       "status": "ok"
     }
   ]
