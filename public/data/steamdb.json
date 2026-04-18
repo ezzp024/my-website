@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-17T23:53:43.327902+00:00",
+  "generatedAt": "2026-04-18T01:46:31.663087+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 502: Claim the High Ground",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821311604",
-      "latestPatchPublishedAt": "2026-04-11T03:00:34+00:00",
+      "latestPatchTitle": "Community Crunch 503: Burrowbuck, The Tunnel Trickster",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261658",
+      "latestPatchPublishedAt": "2026-04-18T00:02:06+00:00",
       "status": "ok"
     },
     {
