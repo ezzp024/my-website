@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-22T13:46:35.167016+00:00",
+  "generatedAt": "2026-04-22T15:02:33.592965+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -81,9 +81,9 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Survive and Thrive Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047260870",
-      "latestPatchPublishedAt": "2026-04-17T17:00:42+00:00",
+      "latestPatchTitle": "Community Radar #60",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230780",
+      "latestPatchPublishedAt": "2026-04-22T14:06:37+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Season \"ECHO\" IS NOW LIVE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267757",
-      "latestPatchPublishedAt": "2026-04-21T06:45:46+00:00",
+      "latestPatchTitle": "Zero Dam, Reshaped — A Dev Note for Operators Heading In",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230938",
+      "latestPatchPublishedAt": "2026-04-22T15:00:15+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Rubik is already in the game!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230524",
-      "latestPatchPublishedAt": "2026-04-22T12:11:20+00:00",
+      "latestPatchTitle": "Chain of Decay — the search begins",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230956",
+      "latestPatchPublishedAt": "2026-04-22T15:01:52+00:00",
       "status": "ok"
     },
     {
