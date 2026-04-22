@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-22T15:02:33.592965+00:00",
+  "generatedAt": "2026-04-22T16:18:06.622364+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Patch 0.4.1.0 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047256894",
-      "latestPatchPublishedAt": "2026-04-16T09:27:56+00:00",
+      "latestPatchTitle": "What’s Next After Spearhead? | Devlog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230965",
+      "latestPatchPublishedAt": "2026-04-22T15:04:50+00:00",
       "status": "ok"
     },
     {
