@@ -13,7 +13,7 @@ echo Starting Cosmo Server...
 start "Cosmo Server" cmd /k "set COOKIE_SECURE=1&& set CORS_ORIGINS=https://gorgeborger-rgb.github.io&& set STATUS_PASSWORD=support&& node server.js"
 
 echo Starting Tunnel (copy the URL from here)...
-start "Cosmo Tunnel" cmd /k "cloudflared tunnel --url http://127.0.0.1:5000 --no-autoupdate"
+start "Cosmo Tunnel" cmd /k "cd /d "%~dp0" && cloudflared.exe tunnel --url http://127.0.0.1:5000 --no-autoupdate"
 
 echo.
 echo Keep BOTH windows open!

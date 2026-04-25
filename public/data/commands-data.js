@@ -73,6 +73,15 @@ const COMMANDS = [
       { command: '*delay', description: 'Launcher with delay .bat file', usage: 'BSOD issues', products: ['ProAim'] },
       { command: '*kaneamdmenufix', description: 'AMD menu fix for Kane', usage: 'vc_redist error on AMD', products: ['Kane'] },
       { command: '*liquidsteelseries', description: 'SteelSeries Sonar setup', usage: 'Liquid audio issues', products: ['Liquid'] },
+      { command: '*kanesteelseries', description: 'SteelSeries Sonar setup for Kane', usage: 'Kane audio issues', products: ['KaneSteelSeries'] },
+      { command: '*mapmemory', description: 'Map Memory fix', usage: 'Memory mapping issues', products: ['MapMemory'] },
+      { command: '*anydesk', description: 'Download AnyDesk', usage: 'Remote support', products: ['AnyDesk'] },
+      { command: '*localaccount', description: 'Create local account guide', usage: 'Local account setup', products: ['LocalAccount'] },
+      { command: '*herovalsb', description: 'Disable Core Isolation for HeroValSB', usage: 'Hero Valorant users', products: ['HeroValSB'] },
+      { command: '*warp', description: 'Download Cloudflare Warp', usage: 'VPN/firewall issues', products: ['Warp'] },
+      { command: '*medal', description: 'Download Medal', usage: 'Recording software', products: ['Medal'] },
+      { command: '*scalingfix', description: 'Scaling fix for apps', usage: 'UI scaling issues', products: ['ScalingFix'] },
+      { command: '*pinreset', description: 'Reset Windows PIN', usage: 'PIN reset guide', products: ['PinReset'] },
       { command: '*removevanguard', description: 'Uninstall Riot Vanguard', usage: 'Vanguard issues', products: ['All Products'] },
       { command: '*rustdesk', description: 'RustDesk remote download', usage: 'Remote support', products: ['All Products'] }
     ]
