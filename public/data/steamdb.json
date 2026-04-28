@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-28T09:37:07.021133+00:00",
+  "generatedAt": "2026-04-28T11:24:35.756675+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Heavy steel moves in",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770242399",
-      "latestPatchPublishedAt": "2026-04-27T13:37:57+00:00",
+      "latestPatchTitle": "Subdivision Battles, Wild North and Session modes: answers to your questions",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770244930",
+      "latestPatchPublishedAt": "2026-04-28T10:59:58+00:00",
       "status": "ok"
     },
     {
