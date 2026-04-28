@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-28T21:32:08.982403+00:00",
+  "generatedAt": "2026-04-28T22:35:46.867923+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Counter-Strike 2 Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237569",
-      "latestPatchPublishedAt": "2026-04-24T22:45:08+00:00",
+      "latestPatchTitle": "The Return Of Cache",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563524",
+      "latestPatchPublishedAt": "2026-04-28T22:24:25+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.0.6.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245526",
-      "latestPatchPublishedAt": "2026-04-28T14:00:29+00:00",
+      "latestPatchTitle": "Dev Updates on Sponsored Queue and Combat feedback",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563529",
+      "latestPatchPublishedAt": "2026-04-28T22:30:28+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Dev Blog: Reclaiming the IMF with Fuzzhead",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229333",
-      "latestPatchPublishedAt": "2026-04-21T22:31:45+00:00",
+      "latestPatchTitle": "Offworld Devblog w/ Slay3k, Norby & Assi - Update 10.4 and Beyond",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770246474",
+      "latestPatchPublishedAt": "2026-04-28T21:36:12+00:00",
       "status": "ok"
     },
     {
