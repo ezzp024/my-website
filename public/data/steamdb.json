@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-28T15:39:31.001178+00:00",
+  "generatedAt": "2026-04-28T17:19:23.168252+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List April 21st",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268722",
-      "latestPatchPublishedAt": "2026-04-21T14:31:43+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update – April 29th, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245894",
+      "latestPatchPublishedAt": "2026-04-28T16:23:17+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Subdivision Battles, Wild North and Session modes: answers to your questions",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770244930",
-      "latestPatchPublishedAt": "2026-04-28T10:59:58+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245967",
+      "latestPatchPublishedAt": "2026-04-28T16:57:10+00:00",
       "status": "ok"
     },
     {
