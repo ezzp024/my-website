@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-29T11:14:51.531947+00:00",
+  "generatedAt": "2026-04-29T12:56:38.596215+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Аналитики: Пользователи Xbox Series X|S играют в Marathon активнее, чем владельцы PlayStation 5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1831432155564676",
-      "latestPatchPublishedAt": "2026-04-29T02:57:00+00:00",
+      "latestPatchTitle": "Marathon is looking to save you from grenade spam and being one-shot by the Ares",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1831432155564953",
+      "latestPatchPublishedAt": "2026-04-29T11:59:20+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "War Thunder Infantry: Testing Continues!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564623",
-      "latestPatchPublishedAt": "2026-04-29T10:13:26+00:00",
+      "latestPatchTitle": "A Decal Trophy for Golden Week in Japan!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564760",
+      "latestPatchPublishedAt": "2026-04-29T11:12:28+00:00",
       "status": "ok"
     }
   ]
