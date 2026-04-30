@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T16:07:33.139071+00:00",
+  "generatedAt": "2026-04-30T17:42:09.227024+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Overclocked Anthem Trailer",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770245734",
-      "latestPatchPublishedAt": "2026-04-28T15:19:28+00:00",
+      "latestPatchTitle": "Apex Legends: Overclocked Gameplay Trailer",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568816",
+      "latestPatchPublishedAt": "2026-04-30T16:09:27+00:00",
       "status": "ok"
     },
     {
@@ -81,9 +81,9 @@
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Community Radar #60",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770230780",
-      "latestPatchPublishedAt": "2026-04-22T14:06:37+00:00",
+      "latestPatchTitle": "Announcing Arma 3 Pass",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155568883",
+      "latestPatchPublishedAt": "2026-04-30T16:30:02+00:00",
       "status": "ok"
     },
     {
