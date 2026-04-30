@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T08:59:59.485961+00:00",
+  "generatedAt": "2026-04-30T11:00:43.272412+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Introducing the Radiant Wilds Ambassadors!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564593",
-      "latestPatchPublishedAt": "2026-04-29T10:00:19+00:00",
+      "latestPatchTitle": "The Crucible II: The Final Showdown Begins",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567500",
+      "latestPatchPublishedAt": "2026-04-30T10:00:32+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564403",
-      "latestPatchPublishedAt": "2026-04-29T08:30:09+00:00",
+      "latestPatchTitle": "Class system",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567366",
+      "latestPatchPublishedAt": "2026-04-30T08:59:59+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Hotfix 10.4.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770233335",
-      "latestPatchPublishedAt": "2026-04-23T14:33:30+00:00",
+      "latestPatchTitle": "Store Update 10.5.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567507",
+      "latestPatchPublishedAt": "2026-04-30T10:01:45+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Decal Trophy for Golden Week in Japan!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155564760",
-      "latestPatchPublishedAt": "2026-04-29T11:12:28+00:00",
+      "latestPatchTitle": "Pages of History (May): To Berlin!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567409",
+      "latestPatchPublishedAt": "2026-04-30T09:17:48+00:00",
       "status": "ok"
     }
   ]
