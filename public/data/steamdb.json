@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-04-30T06:35:08.526459+00:00",
+  "generatedAt": "2026-04-30T08:59:59.485961+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders получила новую карту, врага и поддержку PSSR 2 на PlayStation 5 Pro — вышло обновление Riven Tides",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1831432155563795",
-      "latestPatchPublishedAt": "2026-04-28T21:00:00+00:00",
+      "latestPatchTitle": "Hotfix 1.26.1 ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567224",
+      "latestPatchPublishedAt": "2026-04-30T08:08:46+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260423 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232402",
-      "latestPatchPublishedAt": "2026-04-23T07:17:44+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260430 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567064",
+      "latestPatchPublishedAt": "2026-04-30T07:00:13+00:00",
       "status": "ok"
     },
     {
