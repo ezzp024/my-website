@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-02T10:13:14.517638+00:00",
+  "generatedAt": "2026-05-02T11:08:36.150071+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Class system",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155567366",
-      "latestPatchPublishedAt": "2026-04-30T08:59:59+00:00",
+      "latestPatchTitle": "Assault on the Reichstag progression",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155573465",
+      "latestPatchPublishedAt": "2026-05-02T10:59:53+00:00",
       "status": "ok"
     },
     {
