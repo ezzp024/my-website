@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-02T04:28:54.672909+00:00",
+  "generatedAt": "2026-05-02T06:26:04.294613+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Trophy with Decals in Honor of Polish Constitution Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155571022",
-      "latestPatchPublishedAt": "2026-05-01T11:34:39+00:00",
+      "latestPatchTitle": "Screenshot Competition – Between the Buildings!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155573080",
+      "latestPatchPublishedAt": "2026-05-02T05:00:11+00:00",
       "status": "ok"
     }
   ]
