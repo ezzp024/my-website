@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-08T22:12:42.325643+00:00",
+  "generatedAt": "2026-05-08T23:12:14.494847+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PAS1 Finals 2 Day 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813088",
-      "latestPatchPublishedAt": "2026-05-07T18:32:20+00:00",
+      "latestPatchTitle": "PEC: Spring Finals 2 - Day 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502816382",
+      "latestPatchPublishedAt": "2026-05-08T22:08:09+00:00",
       "status": "ok"
     },
     {
