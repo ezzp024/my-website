@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-11T10:05:48.473937+00:00",
+  "generatedAt": "2026-05-11T12:48:54.022870+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,18 +198,18 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Update | Find Lara Event Coming, Ahsarahn Proclamation Appearances On the Way",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811785",
-      "latestPatchPublishedAt": "2026-05-07T12:00:09+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502820940",
+      "latestPatchPublishedAt": "2026-05-11T11:20:30+00:00",
       "status": "ok"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "An Update On The Polar Cap",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502812356",
-      "latestPatchPublishedAt": "2026-05-07T14:50:25+00:00",
+      "latestPatchTitle": "Prepare for Server Migrations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502821054",
+      "latestPatchPublishedAt": "2026-05-11T12:01:06+00:00",
       "status": "ok"
     },
     {
