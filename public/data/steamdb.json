@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-12T22:43:45.726499+00:00",
+  "generatedAt": "2026-05-12T23:44:34.176959+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 1349230,
-      "steamDbUrl": "https://steamdb.info/app/1349230/",
-      "latestPatchTitle": "Tiny Bugfix Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4186652991107671279",
-      "latestPatchPublishedAt": "2021-11-04T01:11:48+00:00",
+      "appId": 1530300,
+      "steamDbUrl": "https://steamdb.info/app/1530300/",
+      "latestPatchTitle": "MAINTENANCE on 26th March",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365769374",
+      "latestPatchPublishedAt": "2026-03-26T01:17:49+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon reconsiders bug abuse approach after player uses Cryo Archive exploit to butcher an entire team",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502824153",
-      "latestPatchPublishedAt": "2026-05-12T13:53:05+00:00",
+      "latestPatchTitle": "Marathon Dev Update: Self-Revive Kit and Streamer Tool Updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592784954",
+      "latestPatchPublishedAt": "2026-05-12T22:50:27+00:00",
       "status": "ok"
     },
     {
