@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-12T09:26:23.757347+00:00",
+  "generatedAt": "2026-05-12T11:30:53.783064+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "New weekend challenge — Command Orders",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502817023",
-      "latestPatchPublishedAt": "2026-05-09T08:08:23+00:00",
+      "latestPatchTitle": "Maximum value",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823573",
+      "latestPatchPublishedAt": "2026-05-12T11:19:49+00:00",
       "status": "ok"
     },
     {
