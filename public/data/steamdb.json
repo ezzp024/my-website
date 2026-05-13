@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-13T10:46:55.332028+00:00",
+  "generatedAt": "2026-05-13T13:04:19.304713+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785708",
-      "latestPatchPublishedAt": "2026-05-13T08:48:38+00:00",
+      "latestPatchTitle": "Time to choose the best",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786247",
+      "latestPatchPublishedAt": "2026-05-13T12:56:17+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Monthly Decals for May!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785920",
-      "latestPatchPublishedAt": "2026-05-13T10:35:11+00:00",
+      "latestPatchTitle": "Update 2.55.1.106",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786032",
+      "latestPatchPublishedAt": "2026-05-13T11:33:58+00:00",
       "status": "ok"
     }
   ]
