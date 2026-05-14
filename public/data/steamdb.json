@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-14T16:51:42.116252+00:00",
+  "generatedAt": "2026-05-14T18:51:28.921992+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Not by the book",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788580",
-      "latestPatchPublishedAt": "2026-05-14T09:56:42+00:00",
+      "latestPatchTitle": "Cosplay contest winners",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789878",
+      "latestPatchPublishedAt": "2026-05-14T17:06:48+00:00",
       "status": "ok"
     },
     {
