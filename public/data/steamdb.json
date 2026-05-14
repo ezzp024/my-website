@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-14T10:35:56.471445+00:00",
+  "generatedAt": "2026-05-14T12:14:42.687498+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "We’re changing how we update ARC Raiders - here’s what it means for you",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592787040",
-      "latestPatchPublishedAt": "2026-05-13T17:01:04+00:00",
+      "latestPatchTitle": "ARC Raiders moves to slower larger updates as it crosses over 16 million sales",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1832700592788853",
+      "latestPatchPublishedAt": "2026-05-14T11:37:58+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: VicZane",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785856",
-      "latestPatchPublishedAt": "2026-05-13T10:00:19+00:00",
+      "latestPatchTitle": "Watch the Mid-Season Invasion Day on AlbionTV",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788591",
+      "latestPatchPublishedAt": "2026-05-14T10:00:31+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502820940",
-      "latestPatchPublishedAt": "2026-05-11T11:20:30+00:00",
+      "latestPatchTitle": "Burst Fest After-Party Begins, Golden Age Bundle Appearance Lucky Draw Soon Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788878",
+      "latestPatchPublishedAt": "2026-05-14T12:00:37+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Join us for the Early Access Anniversary Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770242571",
-      "latestPatchPublishedAt": "2026-04-27T14:27:34+00:00",
+      "latestPatchTitle": "Patch 0.4.2.0 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788854",
+      "latestPatchPublishedAt": "2026-05-14T11:47:29+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Time to choose the best",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786247",
-      "latestPatchPublishedAt": "2026-05-13T12:56:17+00:00",
+      "latestPatchTitle": "Not by the book",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788580",
+      "latestPatchPublishedAt": "2026-05-14T09:56:42+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Midseason Update 10.6",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502811490",
-      "latestPatchPublishedAt": "2026-05-07T10:00:49+00:00",
+      "latestPatchTitle": "Store Update 10.7.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788592",
+      "latestPatchPublishedAt": "2026-05-14T10:01:08+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.106",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592786032",
-      "latestPatchPublishedAt": "2026-05-13T11:33:58+00:00",
+      "latestPatchTitle": "A Decal Trophy for US Armed Forces Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788753",
+      "latestPatchPublishedAt": "2026-05-14T11:12:31+00:00",
       "status": "ok"
     }
   ]
