@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-15T08:24:20.481209+00:00",
+  "generatedAt": "2026-05-15T10:44:20.164753+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Watch the Mid-Season Invasion Day on AlbionTV",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592788591",
-      "latestPatchPublishedAt": "2026-05-14T10:00:31+00:00",
+      "latestPatchTitle": "A Vanity Sale in Three Rounds: First Round until May 18",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791473",
+      "latestPatchPublishedAt": "2026-05-15T10:30:34+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Cosplay contest winners",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789878",
-      "latestPatchPublishedAt": "2026-05-14T17:06:48+00:00",
+      "latestPatchTitle": "+50% level progression boost",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791248",
+      "latestPatchPublishedAt": "2026-05-15T08:58:15+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.110",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789485",
-      "latestPatchPublishedAt": "2026-05-14T15:20:13+00:00",
+      "latestPatchTitle": "Community Update No.11: Nuclear Escalation, Sound Mods & More",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592791417",
+      "latestPatchPublishedAt": "2026-05-15T10:10:15+00:00",
       "status": "ok"
     }
   ]
