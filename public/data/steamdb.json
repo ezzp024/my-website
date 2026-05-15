@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-15T14:59:27.718365+00:00",
+  "generatedAt": "2026-05-15T16:54:37.630723+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -90,9 +90,9 @@
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "COMRAD #26",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592789495",
-      "latestPatchPublishedAt": "2026-05-14T15:24:58+00:00",
+      "latestPatchTitle": "Arma Reforger Collector's Edition Now Available!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792430",
+      "latestPatchPublishedAt": "2026-05-15T16:00:17+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.3.20.2 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502823612",
-      "latestPatchPublishedAt": "2026-05-12T11:38:29+00:00",
+      "latestPatchTitle": "Communinet Signal #16",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792329",
+      "latestPatchPublishedAt": "2026-05-15T15:17:27+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Официально: В Marathon добавят полноценный PvE-режим — шутер будет меняться, у Bungie уже есть план поддержки до пятого сезона",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1832700592792147",
-      "latestPatchPublishedAt": "2026-05-15T11:00:00+00:00",
+      "latestPatchTitle": "Marathon's Game Director admits it's \"overwhelming to learn\" and too sweaty",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832700592792525",
+      "latestPatchPublishedAt": "2026-05-15T16:22:00+00:00",
       "status": "ok"
     },
     {
