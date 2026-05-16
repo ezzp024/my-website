@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-16T18:36:01.738371+00:00",
+  "generatedAt": "2026-05-16T19:43:46.706502+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -223,11 +223,11 @@
     },
     {
       "game": "Escape From Tarkov",
-      "appId": 4090980,
-      "steamDbUrl": "https://steamdb.info/app/4090980/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3932890,
+      "steamDbUrl": "https://steamdb.info/app/3932890/",
+      "latestPatchTitle": "All the previews from TarkovTV podcast",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502815887",
+      "latestPatchPublishedAt": "2026-05-08T17:27:56+00:00",
       "status": "ok"
     },
     {
