@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-20T07:56:46.716585+00:00",
+  "generatedAt": "2026-05-20T10:49:44.489687+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "ABI × Cyberpunk 2077 Collab Returns Today- Red Items, Outfits & Melee Weapons",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800770",
-      "latestPatchPublishedAt": "2026-05-19T12:03:12+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - May 20th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565771",
+      "latestPatchPublishedAt": "2026-05-20T09:20:37+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "ABI × Cyberpunk 2077 Collab Returns Today- Red Items, Outfits & Melee Weapons",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800770",
-      "latestPatchPublishedAt": "2026-05-19T12:03:12+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - May 20th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565771",
+      "latestPatchPublishedAt": "2026-05-20T09:20:37+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Streamer Invitational Event Match Online Semifinals Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592792201",
-      "latestPatchPublishedAt": "2026-05-15T14:33:29+00:00",
+      "latestPatchTitle": "Streamer Invitational Grand Finals Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565676",
+      "latestPatchPublishedAt": "2026-05-20T08:23:16+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Patch 1.0.4.9",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800225",
-      "latestPatchPublishedAt": "2026-05-19T07:00:59+00:00",
+      "latestPatchTitle": "The Unheard Steam Edition is available!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565703",
+      "latestPatchPublishedAt": "2026-05-20T08:41:01+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Update 2.7.1.2 Deploying on 20th May, at 09:00 CEST",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801570",
-      "latestPatchPublishedAt": "2026-05-19T17:13:22+00:00",
+      "latestPatchTitle": "Update 2.7.1.2 Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565749",
+      "latestPatchPublishedAt": "2026-05-20T09:07:52+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Patch Notes [20.05.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565513",
-      "latestPatchPublishedAt": "2026-05-20T06:58:38+00:00",
+      "latestPatchTitle": "Game servers are back online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565718",
+      "latestPatchPublishedAt": "2026-05-20T08:54:00+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "PGZ88: Jack Of All Trades",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800948",
-      "latestPatchPublishedAt": "2026-05-19T13:10:18+00:00",
+      "latestPatchTitle": "Update 2.55.1.119",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565890",
+      "latestPatchPublishedAt": "2026-05-20T10:07:08+00:00",
       "status": "ok"
     }
   ]
