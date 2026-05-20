@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-20T10:49:44.489687+00:00",
+  "generatedAt": "2026-05-20T13:26:26.239074+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -18,9 +18,9 @@
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 507: Tunnel, Tear, and Transform!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592793484",
-      "latestPatchPublishedAt": "2026-05-16T00:27:34+00:00",
+      "latestPatchTitle": "ARK Fantastic Tames Season 1: Burrowbuck and Araneo TLC are out now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566244",
+      "latestPatchPublishedAt": "2026-05-20T13:06:11+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk May 13th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592785877",
-      "latestPatchPublishedAt": "2026-05-13T10:13:46+00:00",
+      "latestPatchTitle": "FragPunk May 21st Update Announcement: New Content for Season 5, Chapter 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565980",
+      "latestPatchPublishedAt": "2026-05-20T10:55:18+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM: A New Chapter Begins",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801066",
-      "latestPatchPublishedAt": "2026-05-19T14:00:28+00:00",
+      "latestPatchTitle": "Looking ahead",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566226",
+      "latestPatchPublishedAt": "2026-05-20T13:00:33+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.119",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318565890",
-      "latestPatchPublishedAt": "2026-05-20T10:07:08+00:00",
+      "latestPatchTitle": "Marine Gendarme: Glaive",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318566004",
+      "latestPatchPublishedAt": "2026-05-20T11:11:24+00:00",
       "status": "ok"
     }
   ]
