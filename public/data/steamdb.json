@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-21T16:30:35.251185+00:00",
+  "generatedAt": "2026-05-21T18:24:45.216582+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Upcoming Matchmaking Test: Diamond + Solo Queue Only",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567481",
-      "latestPatchPublishedAt": "2026-05-20T22:21:15+00:00",
+      "latestPatchTitle": "An Update from the Anti Cheat Team - 05/21/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318569602",
+      "latestPatchPublishedAt": "2026-05-21T17:00:10+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Global Championship 2026 Heads to İstanbul, Türkiye!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567350",
-      "latestPatchPublishedAt": "2026-05-20T20:57:23+00:00",
+      "latestPatchTitle": "PUBG Global Series 4 Survival Stage",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318569748",
+      "latestPatchPublishedAt": "2026-05-21T17:46:07+00:00",
       "status": "ok"
     },
     {
