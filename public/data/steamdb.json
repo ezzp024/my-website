@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-26T18:38:05.912590+00:00",
+  "generatedAt": "2026-05-26T20:34:43.421256+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.0.9.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579437",
-      "latestPatchPublishedAt": "2026-05-26T14:00:31+00:00",
+      "latestPatchTitle": "Season 2 Cinematic Trailer | Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318580213",
+      "latestPatchPublishedAt": "2026-05-26T19:15:47+00:00",
       "status": "ok"
     },
     {
