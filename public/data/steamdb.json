@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-28T17:53:09.768149+00:00",
+  "generatedAt": "2026-05-28T20:12:59.439597+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Nations Cup 2026 Tournament Details",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887302",
-      "latestPatchPublishedAt": "2026-05-28T07:00:46+00:00",
+      "latestPatchTitle": "PUBG Global Series 5 Survival Stage",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889038",
+      "latestPatchPublishedAt": "2026-05-28T17:54:32+00:00",
       "status": "ok"
     },
     {
