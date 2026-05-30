@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-05-30T18:02:33.813370+00:00",
+  "generatedAt": "2026-05-30T19:39:04.151448+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,7 +270,7 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Clear Skies Burn Bright - Stage 1 Completed",
+      "latestPatchTitle": "Clear Skies Burn Bright - Stage 2 Completed",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892189",
       "latestPatchPublishedAt": "2026-05-29T20:02:03+00:00",
       "status": "ok"
