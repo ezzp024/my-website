@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-01T06:55:37.267045+00:00",
+  "generatedAt": "2026-06-01T12:33:17.501573+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Mid-season Supplies now live, Iron Dame Appearance Lucky Draw now open.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887906",
-      "latestPatchPublishedAt": "2026-05-28T12:00:01+00:00",
+      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530896971",
+      "latestPatchPublishedAt": "2026-06-01T09:13:10+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Start of the final stage: Frontline quiz",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530895176",
-      "latestPatchPublishedAt": "2026-05-31T10:59:49+00:00",
+      "latestPatchTitle": "Final results for Frontline Quiz",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897425",
+      "latestPatchPublishedAt": "2026-06-01T12:26:15+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Along the Waterline!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892831",
-      "latestPatchPublishedAt": "2026-05-30T04:30:24+00:00",
+      "latestPatchTitle": "Discounts on Turkish Vehicles and a Decal Trophy for Turkish Air Force Day!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897243",
+      "latestPatchPublishedAt": "2026-06-01T11:04:25+00:00",
       "status": "ok"
     }
   ]
