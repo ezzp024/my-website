@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-01T01:56:43.799784+00:00",
+  "generatedAt": "2026-06-01T06:55:37.267045+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Ealry Access Hotfix #116",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887651",
-      "latestPatchPublishedAt": "2026-05-28T10:09:56+00:00",
+      "latestPatchTitle": "Streamer Invitational Event Match Grand Finals Result",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530896535",
+      "latestPatchPublishedAt": "2026-06-01T05:43:39+00:00",
       "status": "ok"
     },
     {
