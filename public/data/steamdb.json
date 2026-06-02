@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-02T18:51:35.452100+00:00",
+  "generatedAt": "2026-06-02T21:44:53.825419+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Server Migrations - Live today! ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579444",
-      "latestPatchPublishedAt": "2026-05-26T14:00:59+00:00",
+      "latestPatchTitle": "Console Date and Single-Player Announced ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901553",
+      "latestPatchPublishedAt": "2026-06-02T21:28:57+00:00",
       "status": "ok"
     },
     {
