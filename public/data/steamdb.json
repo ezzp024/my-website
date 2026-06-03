@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-03T02:06:21.440968+00:00",
+  "generatedAt": "2026-06-03T07:04:10.166218+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Season 2 is Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901203",
-      "latestPatchPublishedAt": "2026-06-02T17:56:25+00:00",
+      "latestPatchTitle": "В Marathon стартовал второй сезон — Bungie гасит свет на карте и открывает бесплатную неделю",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1834602721183556",
+      "latestPatchPublishedAt": "2026-06-03T02:15:00+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Nations Cup 2026 (PNC 2026) Ticket Sales",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530901280",
-      "latestPatchPublishedAt": "2026-06-02T18:30:34+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/25~05/31)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184039",
+      "latestPatchPublishedAt": "2026-06-03T07:00:22+00:00",
       "status": "ok"
     },
     {
