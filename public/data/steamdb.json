@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-04T05:13:05.913316+00:00",
+  "generatedAt": "2026-06-04T09:03:23.480761+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.4.0.3 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721184258",
-      "latestPatchPublishedAt": "2026-06-03T09:05:52+00:00",
+      "latestPatchTitle": "Dune: Awakening is getting a single-player mode and more story content",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1834602721186833",
+      "latestPatchPublishedAt": "2026-06-04T08:07:40+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Upcoming Patches, PvP Changes & Update 0.5 Teasers | Dev Stream VOD",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530897787",
-      "latestPatchPublishedAt": "2026-06-01T14:43:34+00:00",
+      "latestPatchTitle": "Patch 0.4.4.0 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186918",
+      "latestPatchPublishedAt": "2026-06-04T09:01:37+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Victims of cheaters in Marvel Rivals will be refunded all the ranked points they lost if they report them thanks to NetEase's new Anti-Cheat Rank Compensation System",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1833968530887665",
-      "latestPatchPublishedAt": "2026-05-28T10:05:55+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260604 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186662",
+      "latestPatchPublishedAt": "2026-06-04T06:25:15+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Comparison of Missile Parameters & Improved Tracking on the Minimap!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721185109",
-      "latestPatchPublishedAt": "2026-06-03T15:19:40+00:00",
+      "latestPatchTitle": "Fair Play: June 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721186838",
+      "latestPatchPublishedAt": "2026-06-04T08:14:02+00:00",
       "status": "ok"
     }
   ]
