@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-08T21:03:37.154589+00:00",
+  "generatedAt": "2026-06-08T22:44:50.683682+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 1349230,
-      "steamDbUrl": "https://steamdb.info/app/1349230/",
-      "latestPatchTitle": "Tiny Bugfix Update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4186652991107671279",
-      "latestPatchPublishedAt": "2021-11-04T01:11:48+00:00",
+      "appId": 518060,
+      "steamDbUrl": "https://steamdb.info/app/518060/",
+      "latestPatchTitle": "Chess Infinity | March Major Update Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1794830911029797",
+      "latestPatchPublishedAt": "2025-03-25T10:48:13+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell | Developer Live Stream Recap",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199603",
-      "latestPatchPublishedAt": "2026-06-08T17:04:28+00:00",
+      "latestPatchTitle": "Server Downtime - 9 Jun at 09:00 CEST",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721200211",
+      "latestPatchPublishedAt": "2026-06-08T21:23:36+00:00",
       "status": "ok"
     },
     {
