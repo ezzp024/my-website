@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-10T06:19:41.746743+00:00",
+  "generatedAt": "2026-06-10T10:36:40.666689+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Behind the Banner: Eikonic",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721198328",
-      "latestPatchPublishedAt": "2026-06-08T10:00:35+00:00",
+      "latestPatchTitle": "Ambassador Spotlight: Danilskinem",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557064",
+      "latestPatchPublishedAt": "2026-06-10T10:00:53+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening First Anniversary Livestream ",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199002",
-      "latestPatchPublishedAt": "2026-06-08T14:19:36+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.4.5.0 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557030",
+      "latestPatchPublishedAt": "2026-06-10T09:45:03+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Watch PNC 2026 and Get Drops!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201648",
-      "latestPatchPublishedAt": "2026-06-09T12:39:02+00:00",
+      "latestPatchTitle": "PNC 2026 Event Page Now Open",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783556689",
+      "latestPatchPublishedAt": "2026-06-10T07:00:45+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721202279",
-      "latestPatchPublishedAt": "2026-06-09T16:03:15+00:00",
+      "latestPatchTitle": "Game servers online",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783556929",
+      "latestPatchPublishedAt": "2026-06-10T08:59:13+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.157",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201758",
-      "latestPatchPublishedAt": "2026-06-09T13:27:06+00:00",
+      "latestPatchTitle": "Pre-order: J-22M1A — Serbian Eagle",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783556961",
+      "latestPatchPublishedAt": "2026-06-10T09:15:49+00:00",
       "status": "ok"
     }
   ]
