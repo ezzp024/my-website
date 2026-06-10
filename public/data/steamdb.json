@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-10T10:36:40.666689+00:00",
+  "generatedAt": "2026-06-10T13:58:13.939906+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.4.5.0 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557030",
-      "latestPatchPublishedAt": "2026-06-10T09:45:03+00:00",
+      "latestPatchTitle": "Public Test Client: Patch 1.4.10.0 ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557596",
+      "latestPatchPublishedAt": "2026-06-10T13:42:04+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk June 8th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721198196",
-      "latestPatchPublishedAt": "2026-06-08T09:12:58+00:00",
+      "latestPatchTitle": "FragPunk June 10th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557460",
+      "latestPatchPublishedAt": "2026-06-10T12:55:22+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Update 20 | DX12 & WinStore",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187908",
-      "latestPatchPublishedAt": "2026-06-04T15:35:43+00:00",
+      "latestPatchTitle": "Update 20 | Hotfix 1 Live Now",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557486",
+      "latestPatchPublishedAt": "2026-06-10T13:02:43+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "R6 Regional Leagues - Stage 1 Has Begun!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199502",
-      "latestPatchPublishedAt": "2026-06-08T16:46:19+00:00",
+      "latestPatchTitle": "Dead by Daylight & Rainbow Six Siege",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557512",
+      "latestPatchPublishedAt": "2026-06-10T13:09:27+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Hotfix - 1.3.0.2.119181",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199153",
-      "latestPatchPublishedAt": "2026-06-08T14:59:52+00:00",
+      "latestPatchTitle": "SCUM - Community showcase",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557308",
+      "latestPatchPublishedAt": "2026-06-10T11:54:08+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pre-order: J-22M1A — Serbian Eagle",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783556961",
-      "latestPatchPublishedAt": "2026-06-10T09:15:49+00:00",
+      "latestPatchTitle": "Yak-130 and M-346FA: A Common Beginning",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557457",
+      "latestPatchPublishedAt": "2026-06-10T12:52:35+00:00",
       "status": "ok"
     }
   ]
