@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-09T23:37:59.387922+00:00",
+  "generatedAt": "2026-06-10T01:50:53.037561+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 518060,
-      "steamDbUrl": "https://steamdb.info/app/518060/",
-      "latestPatchTitle": "Chess Infinity | March Major Update Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1794830911029797",
-      "latestPatchPublishedAt": "2025-03-25T10:48:13+00:00",
+      "appId": 4163030,
+      "steamDbUrl": "https://steamdb.info/app/4163030/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
