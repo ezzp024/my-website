@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-15T11:27:59.401774+00:00",
+  "generatedAt": "2026-06-15T16:27:33.837533+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "As Dead by Daylight turns 10, Behavior unveils game-changing overhaul that will \"make the next ten better than the first\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835236783568929",
-      "latestPatchPublishedAt": "2026-06-15T01:30:48+00:00",
+      "latestPatchTitle": "Stats | Celebrating 10 Years In The Fog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783570987",
+      "latestPatchPublishedAt": "2026-06-15T16:06:08+00:00",
       "status": "ok"
     },
     {
