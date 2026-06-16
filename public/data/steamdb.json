@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-16T05:30:35.347099+00:00",
+  "generatedAt": "2026-06-16T10:28:33.702133+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.32.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201208",
-      "latestPatchPublishedAt": "2026-06-09T09:03:40+00:00",
+      "latestPatchTitle": "Live Update 1.33.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573536",
+      "latestPatchPublishedAt": "2026-06-16T09:02:10+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "EAS9 Warlord Tournament Announcement",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783562607",
-      "latestPatchPublishedAt": "2026-06-12T07:44:53+00:00",
+      "latestPatchTitle": "Early Access Hotfix #117-1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573063",
+      "latestPatchPublishedAt": "2026-06-16T05:30:43+00:00",
       "status": "ok"
     },
     {
@@ -313,20 +313,20 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
+      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
       "status": "ok"
     },
     {
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PNC 2026 Event Page Now Open",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783556689",
-      "latestPatchPublishedAt": "2026-06-10T07:00:45+00:00",
+      "latestPatchTitle": "[Dev Letter] Blue Zone Revamp",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573107",
+      "latestPatchPublishedAt": "2026-06-16T06:00:52+00:00",
       "status": "ok"
     },
     {
