@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-16T15:27:48.751086+00:00",
+  "generatedAt": "2026-06-16T19:02:24.685221+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.0.0 | Jason Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574550",
-      "latestPatchPublishedAt": "2026-06-16T14:31:26+00:00",
+      "latestPatchTitle": "The Jason Chapter is now available on Steam!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783575227",
+      "latestPatchPublishedAt": "2026-06-16T18:15:59+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Bungie решилась на сделку с Sony не от хорошей жизни, у студии давно были большие проблемы — бывшая сотрудница",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1835236783572112",
-      "latestPatchPublishedAt": "2026-06-15T19:50:00+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.0.2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574842",
+      "latestPatchPublishedAt": "2026-06-16T16:00:24+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "The memories of runs with your comrades never fade.",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574015",
-      "latestPatchPublishedAt": "2026-06-16T11:59:38+00:00",
+      "latestPatchTitle": "Important message during maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574901",
+      "latestPatchPublishedAt": "2026-06-16T16:15:05+00:00",
       "status": "ok"
     },
     {
