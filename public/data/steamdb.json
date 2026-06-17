@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-17T17:37:55.379309+00:00",
+  "generatedAt": "2026-06-17T19:47:33.292967+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Vandal Shell Cinematic | Marathon",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199301049",
-      "latestPatchPublishedAt": "2026-06-17T15:15:03+00:00",
+      "latestPatchTitle": "BFM TV: Sony уволит 50% сотрудников Bungie до конца лета",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1835871199301544",
+      "latestPatchPublishedAt": "2026-06-17T16:57:12+00:00",
       "status": "ok"
     },
     {
