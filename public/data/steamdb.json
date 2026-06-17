@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-17T14:40:24.565128+00:00",
+  "generatedAt": "2026-06-17T17:37:55.379309+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 6/9/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721202756",
-      "latestPatchPublishedAt": "2026-06-09T18:37:43+00:00",
+      "latestPatchTitle": "An Update from the Anti Cheat Team - 06/17/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199301465",
+      "latestPatchPublishedAt": "2026-06-17T17:14:31+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.0.2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574842",
-      "latestPatchPublishedAt": "2026-06-16T16:00:24+00:00",
+      "latestPatchTitle": "Vandal Shell Cinematic | Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199301049",
+      "latestPatchPublishedAt": "2026-06-17T15:15:03+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.55.1.165",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300699",
-      "latestPatchPublishedAt": "2026-06-17T13:33:19+00:00",
+      "latestPatchTitle": "F-101C Voodoo: The Charm of Speed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300996",
+      "latestPatchPublishedAt": "2026-06-17T15:03:11+00:00",
       "status": "ok"
     }
   ]
