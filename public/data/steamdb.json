@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-18T17:25:04.219564+00:00",
+  "generatedAt": "2026-06-18T19:38:32.161698+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 06/17/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302092",
-      "latestPatchPublishedAt": "2026-06-17T22:06:33+00:00",
+      "latestPatchTitle": "Overclocked Midseason Designer’s Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199305130",
+      "latestPatchPublishedAt": "2026-06-18T18:07:45+00:00",
       "status": "ok"
     },
     {
