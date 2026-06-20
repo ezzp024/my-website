@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-20T12:17:31.743022+00:00",
+  "generatedAt": "2026-06-20T14:34:45.090983+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/08~06/14)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199299848",
-      "latestPatchPublishedAt": "2026-06-17T08:00:13+00:00",
+      "latestPatchTitle": "PUBG now has genAI team mates capable of \"intelligent decision-making\", and I must remind you that Krafton are working on bots for the military",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1835871199307693",
+      "latestPatchPublishedAt": "2026-06-19T15:15:00+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Incorrect status effect behavior",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199307260",
-      "latestPatchPublishedAt": "2026-06-19T14:02:10+00:00",
+      "latestPatchTitle": "Your avatar for streams and videos",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309324",
+      "latestPatchPublishedAt": "2026-06-20T12:56:01+00:00",
       "status": "ok"
     },
     {
