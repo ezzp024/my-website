@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-21T09:03:16.032090+00:00",
+  "generatedAt": "2026-06-21T11:50:59.796032+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Your avatar for streams and videos",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309324",
-      "latestPatchPublishedAt": "2026-06-20T12:56:01+00:00",
+      "latestPatchTitle": "Check the Guides before your next raid",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310753",
+      "latestPatchPublishedAt": "2026-06-21T11:02:34+00:00",
       "status": "ok"
     },
     {
