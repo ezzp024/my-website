@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-22T07:39:06.981548+00:00",
+  "generatedAt": "2026-06-22T13:17:14.010279+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Season 33 Starts July 4",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199306633",
-      "latestPatchPublishedAt": "2026-06-19T10:00:12+00:00",
+      "latestPatchTitle": "Season 32 Wrapup",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312548",
+      "latestPatchPublishedAt": "2026-06-22T10:00:49+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - June 17th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300271",
-      "latestPatchPublishedAt": "2026-06-17T10:34:01+00:00",
+      "latestPatchTitle": "Mentor Program: Find Your Mentor. Break Out Together!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312798",
+      "latestPatchPublishedAt": "2026-06-22T12:08:41+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - June 17th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300271",
-      "latestPatchPublishedAt": "2026-06-17T10:34:01+00:00",
+      "latestPatchTitle": "Mentor Program: Find Your Mentor. Break Out Together!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312798",
+      "latestPatchPublishedAt": "2026-06-22T12:08:41+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #117-1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573063",
-      "latestPatchPublishedAt": "2026-06-16T05:30:43+00:00",
+      "latestPatchTitle": "EAS9 Warlord Tournament Application Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312379",
+      "latestPatchPublishedAt": "2026-06-22T08:42:14+00:00",
       "status": "ok"
     },
     {
@@ -189,9 +189,9 @@
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Update 1.10: New Prison POI, Improvised Crossbow & Launcher, Mission Bosses",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199305012",
-      "latestPatchPublishedAt": "2026-06-18T17:15:00+00:00",
+      "latestPatchTitle": "Hotfix 1.10.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312673",
+      "latestPatchPublishedAt": "2026-06-22T11:03:22+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Dev Team Update: A Note on the Season 2 Economy",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302138",
-      "latestPatchPublishedAt": "2026-06-17T22:25:13+00:00",
+      "latestPatchTitle": "Marathon dev Bungie thinks you're getting too much loot, and it wants to change that",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199312734",
+      "latestPatchPublishedAt": "2026-06-22T10:12:52+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Check the Guides before your next raid",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310753",
-      "latestPatchPublishedAt": "2026-06-21T11:02:34+00:00",
+      "latestPatchTitle": "Triumphs rewards",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312790",
+      "latestPatchPublishedAt": "2026-06-22T12:03:35+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Strength in Numbers!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199308766",
-      "latestPatchPublishedAt": "2026-06-20T05:00:12+00:00",
+      "latestPatchTitle": "Leopard 2RI: In the Indonesian Jungle",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312436",
+      "latestPatchPublishedAt": "2026-06-22T09:06:01+00:00",
       "status": "ok"
     }
   ]
