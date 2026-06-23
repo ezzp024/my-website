@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-23T15:38:26.156327+00:00",
+  "generatedAt": "2026-06-23T17:28:49.869533+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon dev Bungie thinks you're getting too much loot, and it wants to change that",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199312734",
-      "latestPatchPublishedAt": "2026-06-22T10:12:52+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.0.3",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315985",
+      "latestPatchPublishedAt": "2026-06-23T16:00:19+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
-      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "An unidentified signal has been detected",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315215",
-      "latestPatchPublishedAt": "2026-06-23T10:56:42+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316025",
+      "latestPatchPublishedAt": "2026-06-23T16:09:09+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Flight Model and Missile Autopilot Improvements",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315452",
-      "latestPatchPublishedAt": "2026-06-23T12:52:59+00:00",
+      "latestPatchTitle": "Planned Technical Works on 24.06.2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316227",
+      "latestPatchPublishedAt": "2026-06-23T17:06:24+00:00",
       "status": "ok"
     }
   ]
