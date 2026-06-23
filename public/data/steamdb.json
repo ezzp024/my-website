@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-23T12:40:16.620877+00:00",
+  "generatedAt": "2026-06-23T15:38:26.156327+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "June Hotfix 1.2.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783560483",
-      "latestPatchPublishedAt": "2026-06-11T14:01:51+00:00",
+      "latestPatchTitle": "Vendhyan building, armor and weapon cosmetics arrive in Conan Exiles Enhanced",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315664",
+      "latestPatchPublishedAt": "2026-06-23T14:06:39+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight | Jason launch stream, Featuring PaulieEsther (replay)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304397",
-      "latestPatchPublishedAt": "2026-06-18T14:16:27+00:00",
+      "latestPatchTitle": "10.0.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315739",
+      "latestPatchPublishedAt": "2026-06-23T14:36:41+00:00",
       "status": "ok"
     },
     {
@@ -313,20 +313,20 @@
     },
     {
       "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
+      "appId": 3105890,
+      "steamDbUrl": "https://steamdb.info/app/3105890/",
+      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
+      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
       "status": "ok"
     },
     {
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PNC 2026: Pride & Glory",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199313439",
-      "latestPatchPublishedAt": "2026-06-22T16:22:11+00:00",
+      "latestPatchTitle": "The PUBG Nations Cup 2026 continues with Survival Stage Day 2!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315809",
+      "latestPatchPublishedAt": "2026-06-23T15:00:16+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Dead by Daylight & Rainbow Six Siege",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557512",
-      "latestPatchPublishedAt": "2026-06-10T13:09:27+00:00",
+      "latestPatchTitle": "M.U.T.E. Protocol Live Now in Rainbow Six Siege",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315730",
+      "latestPatchPublishedAt": "2026-06-23T14:30:14+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Leopard 2RI: In the Indonesian Jungle",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312436",
-      "latestPatchPublishedAt": "2026-06-22T09:06:01+00:00",
+      "latestPatchTitle": "Flight Model and Missile Autopilot Improvements",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315452",
+      "latestPatchPublishedAt": "2026-06-23T12:52:59+00:00",
       "status": "ok"
     }
   ]
