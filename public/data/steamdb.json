@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-24T11:32:13.056726+00:00",
+  "generatedAt": "2026-06-24T13:49:14.931785+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Dev Team Update: Key Dates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199316610",
-      "latestPatchPublishedAt": "2026-06-23T20:00:31+00:00",
+      "latestPatchTitle": "Marathon's new experimental Vault Breaker mode has loot you can't take with you",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165546001",
+      "latestPatchPublishedAt": "2026-06-24T13:41:08+00:00",
       "status": "ok"
     },
     {
@@ -297,7 +297,7 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List June 17th",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List June 24th",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199300311",
       "latestPatchPublishedAt": "2026-06-17T10:48:49+00:00",
       "status": "ok"
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "SSPP Contracts: Briefing",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545297",
-      "latestPatchPublishedAt": "2026-06-24T09:02:16+00:00",
+      "latestPatchTitle": "Spartak raises the stakes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545816",
+      "latestPatchPublishedAt": "2026-06-24T12:34:44+00:00",
       "status": "ok"
     },
     {
