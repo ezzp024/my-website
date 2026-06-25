@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-24T22:54:03.946368+00:00",
+  "generatedAt": "2026-06-25T00:05:20.288927+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Solo-Queue Test Scheduled for June 30th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546655",
-      "latestPatchPublishedAt": "2026-06-24T17:00:37+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 6/24/26",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165547342",
+      "latestPatchPublishedAt": "2026-06-24T23:42:21+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld × LumenTale Steam Bundle Available Now !",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309182",
-      "latestPatchPublishedAt": "2026-06-20T11:44:38+00:00",
+      "latestPatchTitle": "Palworld × Windrose Steam Bundle is Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165547286",
+      "latestPatchPublishedAt": "2026-06-24T23:00:46+00:00",
       "status": "ok"
     },
     {
