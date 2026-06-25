@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-25T07:57:11.130243+00:00",
+  "generatedAt": "2026-06-25T10:42:18.205316+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260618 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199303083",
-      "latestPatchPublishedAt": "2026-06-18T06:46:21+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260625 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548406",
+      "latestPatchPublishedAt": "2026-06-25T08:32:13+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "After an Intense Survival Stage, the PUBG Nations Cup 2026 Grand Finals Are Here",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165546231",
-      "latestPatchPublishedAt": "2026-06-24T15:00:22+00:00",
+      "latestPatchTitle": "[Dev Letter] Anti-Cheat Improvements and Future Direction",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548303",
+      "latestPatchPublishedAt": "2026-06-25T08:00:13+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "M.U.T.E. Protocol Live Now in Rainbow Six Siege",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315730",
-      "latestPatchPublishedAt": "2026-06-23T14:30:14+00:00",
+      "latestPatchTitle": "Y11S2.1 PATCH NOTES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548781",
+      "latestPatchPublishedAt": "2026-06-25T10:26:57+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Update 10.12.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199303657",
-      "latestPatchPublishedAt": "2026-06-18T09:59:58+00:00",
+      "latestPatchTitle": "Store Update 10.13.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548705",
+      "latestPatchPublishedAt": "2026-06-25T10:06:44+00:00",
       "status": "ok"
     },
     {
