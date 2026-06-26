@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-26T04:36:36.947409+00:00",
+  "generatedAt": "2026-06-26T08:17:24.485529+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk June 24th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165545423",
-      "latestPatchPublishedAt": "2026-06-24T09:55:39+00:00",
+      "latestPatchTitle": "FragPunk June 26th Patch Note",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552906",
+      "latestPatchPublishedAt": "2026-06-26T07:15:38+00:00",
       "status": "ok"
     },
     {
