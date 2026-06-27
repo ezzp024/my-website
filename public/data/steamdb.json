@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-27T01:31:06.776648+00:00",
+  "generatedAt": "2026-06-27T05:34:57.272783+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.57.0.17",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165554419",
-      "latestPatchPublishedAt": "2026-06-26T15:55:30+00:00",
+      "latestPatchTitle": "Screenshot Competition – Heavy Cavalry!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165555770",
+      "latestPatchPublishedAt": "2026-06-27T03:45:17+00:00",
       "status": "ok"
     }
   ]
