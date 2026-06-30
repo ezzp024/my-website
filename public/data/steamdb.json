@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-30T14:44:40.921263+00:00",
+  "generatedAt": "2026-06-30T16:55:32.325098+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Twice a Renegade DLC | Wishlist Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165554819",
-      "latestPatchPublishedAt": "2026-06-26T17:48:26+00:00",
+      "latestPatchTitle": "New Player Profile Avatars",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165563159",
+      "latestPatchPublishedAt": "2026-06-30T16:52:39+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "Take a look at a weapon from one of the upcoming updates",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893397",
-      "latestPatchPublishedAt": "2026-05-30T12:06:13+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "COMMUNITY CHECKPOINT #3 RECAP: RANKED 3.0, DOKKAEBI UPDATES & MORE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562804",
-      "latestPatchPublishedAt": "2026-06-30T14:42:08+00:00",
+      "latestPatchTitle": "MARKETPLACE & ECONOMY: A NEW DIRECTION",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562862",
+      "latestPatchPublishedAt": "2026-06-30T15:00:52+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Faction Race: may the strongest win",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165558169",
-      "latestPatchPublishedAt": "2026-06-28T13:00:11+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165563014",
+      "latestPatchPublishedAt": "2026-06-30T16:01:03+00:00",
       "status": "ok"
     },
     {
