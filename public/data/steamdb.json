@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-06-30T12:11:17.972928+00:00",
+  "generatedAt": "2026-06-30T14:44:40.921263+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced Community Update - June",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165549955",
-      "latestPatchPublishedAt": "2026-06-25T16:04:38+00:00",
+      "latestPatchTitle": "New Four-Part Story Arc, Legacy of the Giant-Kings Begins July 21st ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562644",
+      "latestPatchPublishedAt": "2026-06-30T14:01:15+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Ice Nine Kills X Dead by Daylight Merch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165555270",
-      "latestPatchPublishedAt": "2026-06-26T21:34:01+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 23 Jun — 30 June 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1836506165562533",
+      "latestPatchPublishedAt": "2026-06-30T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S2.1 PATCH NOTES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165548781",
-      "latestPatchPublishedAt": "2026-06-25T10:26:57+00:00",
+      "latestPatchTitle": "COMMUNITY CHECKPOINT #3 RECAP: RANKED 3.0, DOKKAEBI UPDATES & MORE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562804",
+      "latestPatchPublishedAt": "2026-06-30T14:42:08+00:00",
       "status": "ok"
     },
     {
@@ -360,18 +360,18 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM | Public Alpha Update: New Free-Roaming Wildlife Build Now Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304330",
-      "latestPatchPublishedAt": "2026-06-18T14:00:09+00:00",
+      "latestPatchTitle": "SCUM: INTO THE WILD - June Update | 1.3.1.0.125621",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562633",
+      "latestPatchPublishedAt": "2026-06-30T14:00:22+00:00",
       "status": "ok"
     },
     {
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "IT'S TIME... FOR CHRONOS!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165561014",
-      "latestPatchPublishedAt": "2026-06-29T21:17:31+00:00",
+      "latestPatchTitle": "Beat the Clock: Chronos Race to Radiant is On!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562417",
+      "latestPatchPublishedAt": "2026-06-30T13:00:35+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pages of History (July): New Zealand Ace",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165561983",
-      "latestPatchPublishedAt": "2026-06-30T09:41:06+00:00",
+      "latestPatchTitle": "Update 2.57.0.27",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562545",
+      "latestPatchPublishedAt": "2026-06-30T13:44:09+00:00",
       "status": "ok"
     }
   ]
