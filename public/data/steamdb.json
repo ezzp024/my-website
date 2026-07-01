@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-01T10:28:14.180992+00:00",
+  "generatedAt": "2026-07-01T13:17:19.531685+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands | Dev Blog (Week 73) | Wishlist now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165553586",
-      "latestPatchPublishedAt": "2026-06-26T11:28:39+00:00",
+      "latestPatchTitle": "1.29 Road to Badlands Experimental Release",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565031",
+      "latestPatchPublishedAt": "2026-07-01T10:51:34+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "New Player Profile Avatars",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165563159",
-      "latestPatchPublishedAt": "2026-06-30T16:52:39+00:00",
+      "latestPatchTitle": "Update 2.8.1 Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565275",
+      "latestPatchPublishedAt": "2026-07-01T12:37:51+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game servers online",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564799",
-      "latestPatchPublishedAt": "2026-07-01T09:09:10+00:00",
+      "latestPatchTitle": "Rewards for participating in the clip marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565364",
+      "latestPatchPublishedAt": "2026-07-01T13:08:08+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "A Decal Trophy and Discounts for Japan Self-Defense Forces Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564885",
-      "latestPatchPublishedAt": "2026-07-01T09:51:12+00:00",
+      "latestPatchTitle": "A Decal Trophy and Discount on the J35A for 100 Years of the Swedish Air Force!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165565093",
+      "latestPatchPublishedAt": "2026-07-01T11:19:57+00:00",
       "status": "ok"
     }
   ]
