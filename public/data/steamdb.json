@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-02T14:37:27.427342+00:00",
+  "generatedAt": "2026-07-02T16:23:46.458988+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/22~06/28)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564473",
-      "latestPatchPublishedAt": "2026-07-01T07:00:30+00:00",
+      "latestPatchTitle": "PUBG Saturday Custom Games return this weekend!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165568246",
+      "latestPatchPublishedAt": "2026-07-02T14:49:47+00:00",
       "status": "ok"
     },
     {
