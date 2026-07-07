@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-07T16:08:07.957196+00:00",
+  "generatedAt": "2026-07-07T18:16:44.190578+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update 7/2/2026 3:15PM PT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165569149",
-      "latestPatchPublishedAt": "2026-07-02T22:14:49+00:00",
+      "latestPatchTitle": "Apex Legends x Cyberpunk",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578582",
+      "latestPatchPublishedAt": "2026-07-07T17:04:15+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578406",
-      "latestPatchPublishedAt": "2026-07-07T16:02:49+00:00",
+      "latestPatchTitle": "Where are they going?",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578562",
+      "latestPatchPublishedAt": "2026-07-07T16:57:11+00:00",
       "status": "ok"
     },
     {
