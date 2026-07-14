@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-14T08:25:19.905515+00:00",
+  "generatedAt": "2026-07-14T10:15:06.375595+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Hotfix 1.36.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583167",
-      "latestPatchPublishedAt": "2026-07-09T12:01:12+00:00",
+      "latestPatchTitle": "Store Update 1.37.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365541",
+      "latestPatchPublishedAt": "2026-07-14T09:01:45+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Living Legacy Begins July 15",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356328",
-      "latestPatchPublishedAt": "2026-07-10T10:00:56+00:00",
+      "latestPatchTitle": "The Living Legacy Returns!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365669",
+      "latestPatchPublishedAt": "2026-07-14T10:00:45+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List July 7th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578106",
-      "latestPatchPublishedAt": "2026-07-07T13:58:59+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List July 14th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365686",
+      "latestPatchPublishedAt": "2026-07-14T10:07:34+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "MARKETPLACE & ECONOMY: A NEW DIRECTION",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562862",
-      "latestPatchPublishedAt": "2026-06-30T15:00:52+00:00",
+      "latestPatchTitle": "Y11S2.2 MID-SEASON PATCH NOTES",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365693",
+      "latestPatchPublishedAt": "2026-07-14T10:08:48+00:00",
       "status": "ok"
     },
     {
