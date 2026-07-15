@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-15T07:58:53.886556+00:00",
+  "generatedAt": "2026-07-15T10:07:26.981639+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055366529",
-      "latestPatchPublishedAt": "2026-07-14T15:56:27+00:00",
+      "latestPatchTitle": "To the Zone — departure and return",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253621",
+      "latestPatchPublishedAt": "2026-07-15T08:59:10+00:00",
       "status": "ok"
     },
     {
