@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-15T21:55:05.927903+00:00",
+  "generatedAt": "2026-07-15T22:54:43.458248+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -252,11 +252,10 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": null,
-      "latestPatchUrl": null,
-      "latestPatchPublishedAt": null,
-      "status": "error",
-      "error": "The read operation timed out"
+      "latestPatchTitle": "Patch 0.4.6.0 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165577870",
+      "latestPatchPublishedAt": "2026-07-07T12:19:31+00:00",
+      "status": "ok"
     },
     {
       "game": "Hell Let Loose",
