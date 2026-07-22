@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-22T07:12:53.877928+00:00",
+  "generatedAt": "2026-07-22T09:40:07.849067+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269335",
-      "latestPatchPublishedAt": "2026-07-21T15:55:38+00:00",
+      "latestPatchTitle": "Patch Notes [22.07.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023429",
+      "latestPatchPublishedAt": "2026-07-22T08:58:00+00:00",
       "status": "ok"
     },
     {
