@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-22T04:28:37.322810+00:00",
+  "generatedAt": "2026-07-22T07:12:53.877928+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Season #10",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258402",
-      "latestPatchPublishedAt": "2026-07-17T03:36:02+00:00",
+      "latestPatchTitle": "EAS10 Legendary Status Sale | 30% Off — Limited Time!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023032",
+      "latestPatchPublishedAt": "2026-07-22T04:33:08+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Improved Unban Policy for Account Theft",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329268090",
-      "latestPatchPublishedAt": "2026-07-21T05:00:09+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/13~07/19)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357023224",
+      "latestPatchPublishedAt": "2026-07-22T07:00:05+00:00",
       "status": "ok"
     },
     {
