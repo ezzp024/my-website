@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-07-30T04:15:12.591374+00:00",
+  "generatedAt": "2026-07-30T06:43:27.076945+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #120",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357025772",
-      "latestPatchPublishedAt": "2026-07-23T05:31:37+00:00",
+      "latestPatchTitle": "Early Access Hotfix #121",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884296",
+      "latestPatchPublishedAt": "2026-07-30T05:31:56+00:00",
       "status": "ok"
     },
     {
@@ -288,18 +288,18 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260723 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357025863",
-      "latestPatchPublishedAt": "2026-07-23T06:33:39+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260730 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884349",
+      "latestPatchPublishedAt": "2026-07-30T06:12:36+00:00",
       "status": "ok"
     },
     {
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update – July 30th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055882951",
-      "latestPatchPublishedAt": "2026-07-29T16:03:28+00:00",
+      "latestPatchTitle": "New Hero Ye Xiu and First Transforming Weapon Available NOW",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884356",
+      "latestPatchPublishedAt": "2026-07-30T06:20:29+00:00",
       "status": "ok"
     },
     {
