@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-04T13:58:42.390114+00:00",
+  "generatedAt": "2026-08-04T16:13:32.798566+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight's Chorus of Sin Chapter to get first-ever early access period, if you're dedicated enough",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055887482",
-      "latestPatchPublishedAt": "2026-07-31T08:21:49+00:00",
+      "latestPatchTitle": "10.1.0 | PTB Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897511",
+      "latestPatchPublishedAt": "2026-08-04T14:30:45+00:00",
       "status": "ok"
     },
     {
