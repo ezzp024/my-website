@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-08T13:13:48.800430+00:00",
+  "generatedAt": "2026-08-08T13:58:50.155619+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight's first-ever community-created chapter has finally hit the PTB",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055897881",
-      "latestPatchPublishedAt": "2026-08-04T15:00:14+00:00",
+      "latestPatchTitle": "Dead by Daylight is getting a Survivor chat wheel soon, as Behaviour reveals plans to debloat a decade of systems",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840310314347473",
+      "latestPatchPublishedAt": "2026-08-08T12:20:28+00:00",
       "status": "ok"
     },
     {
