@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-12T09:20:32.373880+00:00",
+  "generatedAt": "2026-08-12T10:33:35.040606+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "KAMONA SUMMER FESTIVAL",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314344811",
-      "latestPatchPublishedAt": "2026-08-07T12:06:00+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - August 12th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773509",
+      "latestPatchPublishedAt": "2026-08-12T09:45:05+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "KAMONA SUMMER FESTIVAL",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314344811",
-      "latestPatchPublishedAt": "2026-08-07T12:06:00+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - August 12th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773509",
+      "latestPatchPublishedAt": "2026-08-12T09:45:05+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Fair Play: August 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773393",
-      "latestPatchPublishedAt": "2026-08-12T08:55:58+00:00",
+      "latestPatchTitle": "It’s fixed! №117",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773577",
+      "latestPatchPublishedAt": "2026-08-12T10:14:01+00:00",
       "status": "ok"
     }
   ]
