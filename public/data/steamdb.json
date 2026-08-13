@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-13T21:07:43.929733+00:00",
+  "generatedAt": "2026-08-13T21:59:07.143800+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 7: Tournament Recap",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776223",
-      "latestPatchPublishedAt": "2026-08-13T09:23:05+00:00",
+      "latestPatchTitle": "PUBG GLOBAL SERIES 8 SURVIVAL STAGE IS LIVE",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777959",
+      "latestPatchPublishedAt": "2026-08-13T21:35:55+00:00",
       "status": "ok"
     },
     {
