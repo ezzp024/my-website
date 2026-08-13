@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-13T21:59:07.143800+00:00",
+  "generatedAt": "2026-08-13T22:49:10.168834+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Coliseum highlights",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777015",
-      "latestPatchPublishedAt": "2026-08-13T14:57:57+00:00",
+      "latestPatchTitle": "Hotfix [14.08.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183778017",
+      "latestPatchPublishedAt": "2026-08-13T22:11:00+00:00",
       "status": "ok"
     },
     {
