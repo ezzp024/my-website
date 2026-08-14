@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-14T16:28:20.633111+00:00",
+  "generatedAt": "2026-08-14T17:29:17.461360+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,18 +180,18 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight is getting a Survivor chat wheel soon, as Behaviour reveals plans to debloat a decade of systems",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840310314347473",
-      "latestPatchPublishedAt": "2026-08-08T12:20:28+00:00",
+      "latestPatchTitle": "Developer Update | Player Intent System",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780289",
+      "latestPatchPublishedAt": "2026-08-14T17:00:22+00:00",
       "status": "ok"
     },
     {
       "game": "Deadside",
       "appId": 895400,
       "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "Hotfix 1.10.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199312673",
-      "latestPatchPublishedAt": "2026-06-22T11:03:22+00:00",
+      "latestPatchTitle": "WIP: New Vehicles and Tires, New POI, Boars, More Missions",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780338",
+      "latestPatchPublishedAt": "2026-08-14T17:10:02+00:00",
       "status": "ok"
     },
     {
