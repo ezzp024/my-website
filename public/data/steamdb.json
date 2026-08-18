@@ -1,153 +1,149 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-18T21:53:16.812241+00:00",
-  "totalGames": 48,
-  "mappedGames": 48,
+  "generatedAt": "2026-08-18T22:17:04.510707+00:00",
+  "totalGames": 39,
+  "mappedGames": 39,
   "games": [
     {
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.41.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314353541",
-      "latestPatchPublishedAt": "2026-08-11T09:01:41+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "ARK Survival Ascended",
       "appId": 2399830,
       "steamDbUrl": "https://steamdb.info/app/2399830/",
-      "latestPatchTitle": "Community Crunch 519: Tusk, Tusk, Boom!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183781046",
-      "latestPatchPublishedAt": "2026-08-15T00:01:23+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "ARK Survival Evolved",
       "appId": 346110,
       "steamDbUrl": "https://steamdb.info/app/346110/",
-      "latestPatchTitle": "ARK Franchise Sale!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055357193",
-      "latestPatchPublishedAt": "2026-07-10T15:24:47+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "Active Matter",
-      "appId": 2887580,
-      "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Developer Q&A: August 17th 2026!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785754",
-      "latestPatchPublishedAt": "2026-08-17T11:04:28+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Keeper Uprising: Phase Four",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785573",
-      "latestPatchPublishedAt": "2026-08-17T10:00:11+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends™: Ascended Hunt Event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789665",
-      "latestPatchPublishedAt": "2026-08-18T18:45:56+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - August 12th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773509",
-      "latestPatchPublishedAt": "2026-08-12T09:45:05+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Arena Breakout: Infinite Bans Notice - August 12th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773509",
-      "latestPatchPublishedAt": "2026-08-12T09:45:05+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Arma 3",
       "appId": 107410,
       "steamDbUrl": "https://steamdb.info/app/107410/",
-      "latestPatchTitle": "Arma 3 Mac Port Update 2.22",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354128",
-      "latestPatchPublishedAt": "2026-08-11T13:35:53+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Arma Reforger",
       "appId": 1874880,
       "steamDbUrl": "https://steamdb.info/app/1874880/",
-      "latestPatchTitle": "Update 1.8",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776502",
-      "latestPatchPublishedAt": "2026-08-13T11:42:01+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Battlebit",
       "appId": 671860,
       "steamDbUrl": "https://steamdb.info/app/671860/",
-      "latestPatchTitle": "Operation Overhaul Dev Blog #4: Large scale maps",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357036179",
-      "latestPatchPublishedAt": "2026-07-27T17:00:38+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Battlefield 6",
       "appId": 671860,
       "steamDbUrl": "https://steamdb.info/app/671860/",
-      "latestPatchTitle": "Operation Overhaul Dev Blog #4: Large scale maps",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357036179",
-      "latestPatchPublishedAt": "2026-07-27T17:00:38+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Beasts of Bermuda",
       "appId": 719890,
       "steamDbUrl": "https://steamdb.info/app/719890/",
-      "latestPatchTitle": "DevBlog #01 - Customization & Chittering Chills",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055889128",
-      "latestPatchPublishedAt": "2026-07-31T19:00:11+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Modern Warfare 4: Call of Duty: NEXT, Early Access Beta and Open Beta",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780610",
-      "latestPatchPublishedAt": "2026-08-14T19:16:59+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "Chess",
-      "appId": 4163030,
-      "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "Cat Chess is part of the Cat Awareness Feline Event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314345640",
-      "latestPatchPublishedAt": "2026-08-07T17:00:26+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Revamped Head Hunter Event Returns!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788911",
-      "latestPatchPublishedAt": "2026-08-18T14:10:07+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Counter-Strike 2",
@@ -162,280 +158,241 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #123",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775811",
-      "latestPatchPublishedAt": "2026-08-13T05:32:07+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "The new DayZ update will bring home renovation to the zombie apocalypse",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183789162",
-      "latestPatchPublishedAt": "2026-08-18T14:47:25+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead by Daylight's new chat wheel for Survivors is already better thanks to feedback",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1840944183781962",
-      "latestPatchPublishedAt": "2026-08-15T10:54:11+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "Deadside",
-      "appId": 895400,
-      "steamDbUrl": "https://steamdb.info/app/895400/",
-      "latestPatchTitle": "WIP: New Vehicles and Tires, New POI, Boars, More Missions",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183780338",
-      "latestPatchPublishedAt": "2026-08-14T17:10:02+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Notice of penalties for violations",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785504",
-      "latestPatchPublishedAt": "2026-08-17T09:22:47+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Communinet Signal #19",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777331",
-      "latestPatchPublishedAt": "2026-08-13T16:35:35+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
-      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
-      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "Escape From Tarkov",
-      "appId": 3932890,
-      "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "TarkovTV on August 10!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314347740",
-      "latestPatchPublishedAt": "2026-08-08T15:33:52+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Farlight 84",
       "appId": 1928420,
       "steamDbUrl": "https://steamdb.info/app/1928420/",
-      "latestPatchTitle": "Farlight 84 New Season Update: \"Shadow Academy\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770232064",
-      "latestPatchPublishedAt": "2026-04-23T02:37:13+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "FragPunk",
-      "appId": 2943650,
-      "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk August 12th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773835",
-      "latestPatchPublishedAt": "2026-08-12T12:12:02+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.4.7.2 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788224",
-      "latestPatchPublishedAt": "2026-08-18T09:01:15+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "Hell Let Loose: Vietnam is Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777213",
-      "latestPatchPublishedAt": "2026-08-13T16:00:34+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Road to Hell - Cosmetic Survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183777369",
-      "latestPatchPublishedAt": "2026-08-13T16:53:49+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "Marathon",
-      "appId": 3065800,
-      "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.5.4",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789202",
-      "latestPatchPublishedAt": "2026-08-18T16:00:45+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals players are messing with their config files 'to cancel games with no consequence' before they get a loss",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183785803",
-      "latestPatchPublishedAt": "2026-08-17T11:26:47+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List August 18th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788968",
-      "latestPatchPublishedAt": "2026-08-18T14:32:58+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "Off The Grid",
-      "appId": 3659280,
-      "steamDbUrl": "https://steamdb.info/app/3659280/",
-      "latestPatchTitle": "July Update: Massive Performance Overhaul",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581037",
-      "latestPatchPublishedAt": "2026-07-08T15:44:14+00:00",
-      "status": "ok"
-    },
-    {
-      "game": "PIONER",
-      "appId": 4241040,
-      "steamDbUrl": "https://steamdb.info/app/4241040/",
       "latestPatchTitle": null,
       "latestPatchUrl": null,
       "latestPatchPublishedAt": null,
-      "status": "ok"
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 9: Watch live and earn Drops!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788225",
-      "latestPatchPublishedAt": "2026-08-18T09:01:24+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "How to get Chromite in Palworld",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183789606",
-      "latestPatchPublishedAt": "2026-08-18T18:14:43+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S3 DESIGNER'S NOTES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183786302",
-      "latestPatchPublishedAt": "2026-08-17T15:01:38+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 4 Aug — 11 August 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1840310314354123",
-      "latestPatchPublishedAt": "2026-08-11T09:00:00+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "Hotfix - 1.3.2.2.137892",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885336",
-      "latestPatchPublishedAt": "2026-07-30T14:00:40+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "SMITE 2",
       "appId": 2437170,
       "steamDbUrl": "https://steamdb.info/app/2437170/",
-      "latestPatchTitle": "Weave Rainbows with IX CHEL!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354042",
-      "latestPatchPublishedAt": "2026-08-11T13:00:06+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789219",
-      "latestPatchPublishedAt": "2026-08-18T16:07:21+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "This Month in Sea of Thieves: August 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314342461",
-      "latestPatchPublishedAt": "2026-08-06T16:30:10+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad 10.5.2 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183774689",
-      "latestPatchPublishedAt": "2026-08-12T18:00:26+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 11.5.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183776297",
-      "latestPatchPublishedAt": "2026-08-13T10:00:29+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "The Isle Evrima",
       "appId": 376210,
       "steamDbUrl": "https://steamdb.info/app/376210/",
-      "latestPatchTitle": "Patch 0.21.772 is now available!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055896244",
-      "latestPatchPublishedAt": "2026-08-04T01:18:54+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "Unturned",
       "appId": 304930,
       "steamDbUrl": "https://steamdb.info/app/304930/",
-      "latestPatchTitle": "Blocky zombie survival sim Unturned releases its source code so players can build a 'lasting legacy' for the game 'regardless of the changes we make'",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840310314347429",
-      "latestPatchPublishedAt": "2026-08-08T13:00:00+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Community Update No.12: Keeping You Updated On What We’re Working on!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788978",
-      "latestPatchPublishedAt": "2026-08-18T14:37:42+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "HTTP Error 502: Bad Gateway"
     }
   ]
 }
