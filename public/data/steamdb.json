@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-18T14:48:04.006677+00:00",
+  "generatedAt": "2026-08-18T15:15:33.455792+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Ordnance Heist",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183786662",
-      "latestPatchPublishedAt": "2026-08-17T17:00:35+00:00",
+      "latestPatchTitle": "Ordnance Heist Overview | Marathon",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789032",
+      "latestPatchPublishedAt": "2026-08-18T15:00:42+00:00",
       "status": "ok"
     },
     {
