@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-20T13:29:59.767213+00:00",
+  "generatedAt": "2026-08-20T14:09:37.199194+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The Hungarian PzH 2000 Returns for St. Stephen’s Day!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228665169",
-      "latestPatchPublishedAt": "2026-08-20T11:01:49+00:00",
+      "latestPatchTitle": "Update 2.57.1.103",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228665716",
+      "latestPatchPublishedAt": "2026-08-20T14:06:37+00:00",
       "status": "ok"
     }
   ]
