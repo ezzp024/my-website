@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-21T15:59:07.725193+00:00",
+  "generatedAt": "2026-08-21T16:39:29.962191+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Expanding the Creator Crew for 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228668241",
-      "latestPatchPublishedAt": "2026-08-21T10:20:18+00:00",
+      "latestPatchTitle": "Season 20's Style of Thieves Theme Reveal!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669301",
+      "latestPatchPublishedAt": "2026-08-21T16:00:45+00:00",
       "status": "ok"
     },
     {
