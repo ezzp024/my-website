@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-21T19:21:36.774836+00:00",
+  "generatedAt": "2026-08-21T19:46:20.515185+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Modern Warfare 4 Multiplayer: Movement, Gunplay, Modes, & Maps",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669863",
-      "latestPatchPublishedAt": "2026-08-21T19:19:40+00:00",
+      "latestPatchTitle": "Modern Warfare 4 Open Beta: Everything You Need to Know",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669874",
+      "latestPatchPublishedAt": "2026-08-21T19:25:46+00:00",
       "status": "ok"
     },
     {
