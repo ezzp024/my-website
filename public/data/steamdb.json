@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-26T11:47:25.416604+00:00",
+  "generatedAt": "2026-08-26T12:18:12.568438+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk August 19th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662354",
-      "latestPatchPublishedAt": "2026-08-19T11:48:27+00:00",
+      "latestPatchTitle": "FragPunk August 27th Update Announcement: New Content for Season 6, Chapter 1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296673",
+      "latestPatchPublishedAt": "2026-08-26T11:55:14+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game changes are now live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296278",
-      "latestPatchPublishedAt": "2026-08-26T09:08:00+00:00",
+      "latestPatchTitle": "Airdrops are already on Forge-11",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296674",
+      "latestPatchPublishedAt": "2026-08-26T11:55:54+00:00",
       "status": "ok"
     },
     {
