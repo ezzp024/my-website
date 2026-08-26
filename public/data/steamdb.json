@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-26T12:18:12.568438+00:00",
+  "generatedAt": "2026-08-26T13:27:19.143531+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Crytek Gear Store Now Open",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678257",
-      "latestPatchPublishedAt": "2026-08-25T12:59:08+00:00",
+      "latestPatchTitle": "Blood Testament | Event Official Cinematic Trailer | Hunt: Showdown 1896",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296841",
+      "latestPatchPublishedAt": "2026-08-26T13:02:05+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Y11S3 DESIGNER'S NOTES",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183786302",
-      "latestPatchPublishedAt": "2026-08-17T15:01:38+00:00",
+      "latestPatchTitle": "Don't miss Rainbow Six Siege Live at Gamescom!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296828",
+      "latestPatchPublishedAt": "2026-08-26T13:00:26+00:00",
       "status": "ok"
     },
     {
