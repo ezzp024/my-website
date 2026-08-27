@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-08-27T00:03:10.940205+00:00",
+  "generatedAt": "2026-08-27T09:34:16.354697+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Active Matter Launches September 15th on Steam",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678215",
-      "latestPatchPublishedAt": "2026-08-25T12:44:55+00:00",
+      "latestPatchTitle": "PvPvE extraction-style raid shooter Active Matter arrives September 15",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1842212951299354",
+      "latestPatchPublishedAt": "2026-08-27T08:47:54+00:00",
       "status": "ok"
     },
     {
@@ -214,11 +214,11 @@
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
-      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
-      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
+      "appId": 3975470,
+      "steamDbUrl": "https://steamdb.info/app/3975470/",
+      "latestPatchTitle": "Play “A Night at Moka Efti” at Gamescom...",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228662101",
+      "latestPatchPublishedAt": "2026-08-19T10:05:25+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260820 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228664552",
-      "latestPatchPublishedAt": "2026-08-20T06:43:51+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260827 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299116",
+      "latestPatchPublishedAt": "2026-08-27T07:07:07+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Don't miss Rainbow Six Siege Live at Gamescom!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296828",
-      "latestPatchPublishedAt": "2026-08-26T13:00:26+00:00",
+      "latestPatchTitle": "Tom Clancy's Rainbow Six Tactics Is Revealed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299253",
+      "latestPatchPublishedAt": "2026-08-27T08:04:58+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Airdrops are already on Forge-11",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296674",
-      "latestPatchPublishedAt": "2026-08-26T11:55:54+00:00",
+      "latestPatchTitle": "Don’t forget to spend your season currency!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299389",
+      "latestPatchPublishedAt": "2026-08-27T09:02:24+00:00",
       "status": "ok"
     },
     {
