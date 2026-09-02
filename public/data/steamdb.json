@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-02T14:05:48.948586+00:00",
+  "generatedAt": "2026-09-02T17:51:43.504378+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends™ EA Play* Weapon Charm",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951314034",
-      "latestPatchPublishedAt": "2026-09-01T16:32:10+00:00",
+      "latestPatchTitle": "Controller Anti-Cheat Enforcement & Ban Wave Update — 09/02/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814441123",
+      "latestPatchPublishedAt": "2026-09-02T17:24:54+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.1.1 | Bugfix Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313573",
-      "latestPatchPublishedAt": "2026-09-01T14:30:25+00:00",
+      "latestPatchTitle": "Anti-Cheat Trials are now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440602",
+      "latestPatchPublishedAt": "2026-09-02T15:00:09+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "End-of-Season Armament Voucher Giveaway, Fine China Appearance Draw Coming Soon!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299798",
-      "latestPatchPublishedAt": "2026-08-27T12:00:35+00:00",
+      "latestPatchTitle": "G.T.I. Security Brief | Taking Down a Cheat Ring",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814441153",
+      "latestPatchPublishedAt": "2026-09-02T17:44:13+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Blood Testament | Event Official Cinematic Trailer | Hunt: Showdown 1896",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296841",
-      "latestPatchPublishedAt": "2026-08-26T13:02:05+00:00",
+      "latestPatchTitle": "Blood Testament - Partner Preview",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440950",
+      "latestPatchPublishedAt": "2026-09-02T16:31:41+00:00",
       "status": "ok"
     },
     {
