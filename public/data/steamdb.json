@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-03T13:54:42.582434+00:00",
+  "generatedAt": "2026-09-03T17:27:42.433894+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Controller Anti-Cheat Enforcement & Ban Wave Update — 09/02/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814441123",
-      "latestPatchPublishedAt": "2026-09-02T17:24:54+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 9/3/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443925",
+      "latestPatchPublishedAt": "2026-09-03T16:28:20+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Blood Testament - Partner Preview",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440950",
-      "latestPatchPublishedAt": "2026-09-02T16:31:41+00:00",
+      "latestPatchTitle": "Blood Testament | Developer Live Stream",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443859",
+      "latestPatchPublishedAt": "2026-09-03T16:04:14+00:00",
       "status": "ok"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "game": "PIONER",
-      "appId": 3105890,
-      "steamDbUrl": "https://steamdb.info/app/3105890/",
-      "latestPatchTitle": "A first look at the new hardcore version of the Crab Island",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357037669",
-      "latestPatchPublishedAt": "2026-07-28T08:11:35+00:00",
+      "appId": 4241040,
+      "steamDbUrl": "https://steamdb.info/app/4241040/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 4 Aug — 11 August 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1840310314354123",
-      "latestPatchPublishedAt": "2026-08-11T09:00:00+00:00",
+      "latestPatchTitle": "BREACH AND CLEAR",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444168",
+      "latestPatchPublishedAt": "2026-09-03T17:26:33+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Fall season is live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443205",
-      "latestPatchPublishedAt": "2026-09-03T12:58:28+00:00",
+      "latestPatchTitle": "⚙️ Hotfix [03.09.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443410",
+      "latestPatchPublishedAt": "2026-09-03T13:59:22+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Pre-order: Ar 234 B-2 (WB 151) — From Hunted to Hunter!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443354",
-      "latestPatchPublishedAt": "2026-09-03T13:45:59+00:00",
+      "latestPatchTitle": "\"Sky Odyssey\" Update Trailer!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444143",
+      "latestPatchPublishedAt": "2026-09-03T17:17:26+00:00",
       "status": "ok"
     }
   ]
