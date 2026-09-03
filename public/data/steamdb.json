@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-03T05:09:48.247545+00:00",
+  "generatedAt": "2026-09-03T09:46:03.094236+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Team IRONMACE is heading to Tokyo Game Show 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814438929",
-      "latestPatchPublishedAt": "2026-09-02T00:49:32+00:00",
+      "latestPatchTitle": "Early Access Hotfix #125",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442284",
+      "latestPatchPublishedAt": "2026-09-03T05:31:23+00:00",
       "status": "ok"
     },
     {
@@ -288,18 +288,18 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260827 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951299116",
-      "latestPatchPublishedAt": "2026-08-27T07:07:07+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20260903 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442388",
+      "latestPatchPublishedAt": "2026-09-03T06:26:19+00:00",
       "status": "ok"
     },
     {
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List September 1st",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313370",
-      "latestPatchPublishedAt": "2026-09-01T13:10:44+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Update –September 3rd, 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814442378",
+      "latestPatchPublishedAt": "2026-09-03T06:23:13+00:00",
       "status": "ok"
     },
     {
