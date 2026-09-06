@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-06T05:51:34.636183+00:00",
+  "generatedAt": "2026-09-06T10:08:39.638788+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.9",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313913",
-      "latestPatchPublishedAt": "2026-09-01T16:00:49+00:00",
+      "latestPatchTitle": "У Marathon от Bungie и Sony возникли проблемы с подбором игроков из-за низкого онлайна",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1842846814450406",
+      "latestPatchPublishedAt": "2026-09-06T01:17:00+00:00",
       "status": "ok"
     },
     {
