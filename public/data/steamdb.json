@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-10T17:17:04.877514+00:00",
+  "generatedAt": "2026-09-10T19:47:20.752679+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "v1.0.4: Balance Adjustments & Bug Fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452062",
-      "latestPatchPublishedAt": "2026-09-07T03:04:45+00:00",
+      "latestPatchTitle": "Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1843481262693002",
+      "latestPatchPublishedAt": "2026-09-10T17:22:59+00:00",
       "status": "ok"
     },
     {
