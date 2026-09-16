@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-16T02:59:32.351518+00:00",
+  "generatedAt": "2026-09-16T08:27:18.208378+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Store Update 1.46.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703998",
-      "latestPatchPublishedAt": "2026-09-15T09:01:48+00:00",
+      "latestPatchTitle": "Hotfix 1.46.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488417",
+      "latestPatchPublishedAt": "2026-09-16T08:11:06+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List September 8th",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814456139",
-      "latestPatchPublishedAt": "2026-09-08T16:06:16+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List September 15rd",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488275",
+      "latestPatchPublishedAt": "2026-09-16T06:51:53+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Now Available: Team Edition Skins 2nd Drop!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703376",
-      "latestPatchPublishedAt": "2026-09-15T02:00:01+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/07~09/13)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488289",
+      "latestPatchPublishedAt": "2026-09-16T07:00:07+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705009",
-      "latestPatchPublishedAt": "2026-09-15T15:59:45+00:00",
+      "latestPatchTitle": "Patch Notes [16.09.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488384",
+      "latestPatchPublishedAt": "2026-09-16T07:59:15+00:00",
       "status": "ok"
     },
     {
