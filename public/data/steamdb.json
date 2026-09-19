@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-19T04:50:25.932764+00:00",
+  "generatedAt": "2026-09-19T09:08:55.742657+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.13",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495099",
-      "latestPatchPublishedAt": "2026-09-18T15:00:26+00:00",
+      "latestPatchTitle": "Screenshot Competition – Sky Odyssey!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010496623",
+      "latestPatchPublishedAt": "2026-09-19T05:00:02+00:00",
       "status": "ok"
     }
   ]
