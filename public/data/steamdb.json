@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-21T14:00:44.403110+00:00",
+  "generatedAt": "2026-09-21T19:20:29.986558+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "The Agency Is Recruiting Content Creators!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501308",
-      "latestPatchPublishedAt": "2026-09-21T13:01:16+00:00",
+      "latestPatchTitle": "Плановые технические работы на серверах Active Matter",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502308",
+      "latestPatchPublishedAt": "2026-09-21T19:09:57+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "An Update from the Anti Cheat Team - 09/18/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495631",
-      "latestPatchPublishedAt": "2026-09-18T17:37:54+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 09/21/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502111",
+      "latestPatchPublishedAt": "2026-09-21T17:41:03+00:00",
       "status": "ok"
     },
     {
@@ -117,9 +117,9 @@
       "game": "Beasts of Bermuda",
       "appId": 719890,
       "steamDbUrl": "https://steamdb.info/app/719890/",
-      "latestPatchTitle": "DevBlog #02 - Public Test Announcement!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495302",
-      "latestPatchPublishedAt": "2026-09-18T16:01:00+00:00",
+      "latestPatchTitle": "PTB EVENT- 21.SEPT.26 - 72hr",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501761",
+      "latestPatchPublishedAt": "2026-09-21T15:56:39+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.5.3.2 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010500924",
-      "latestPatchPublishedAt": "2026-09-21T10:00:56+00:00",
+      "latestPatchTitle": "Get free cosmetics and help streamers raise money for charity ",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501591",
+      "latestPatchPublishedAt": "2026-09-21T14:43:50+00:00",
       "status": "ok"
     },
     {
@@ -279,18 +279,18 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Sony сделает Marathon условно-бесплатной PvE-игрой и объединит с Destiny?",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1844115010494480",
-      "latestPatchPublishedAt": "2026-09-18T03:41:06+00:00",
+      "latestPatchTitle": "\"Мы надеялись на большее\": Bungie признала, что Marathon не собрала нужную аудиторию",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010501919",
+      "latestPatchPublishedAt": "2026-09-21T16:33:04+00:00",
       "status": "ok"
     },
     {
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20260917 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491291",
-      "latestPatchPublishedAt": "2026-09-17T08:45:27+00:00",
+      "latestPatchTitle": "В Marvel Rivals убрали отдельную категорию жалоб на оскорбительные и враждебные высказывания",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010502042",
+      "latestPatchPublishedAt": "2026-09-21T17:01:40+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad 10.5.6 Hotfix Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010489819",
-      "latestPatchPublishedAt": "2026-09-16T18:01:04+00:00",
+      "latestPatchTitle": "Scheduled EOS Outage",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501831",
+      "latestPatchPublishedAt": "2026-09-21T16:15:00+00:00",
       "status": "ok"
     },
     {
