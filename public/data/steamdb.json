@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-22T15:45:42.849112+00:00",
+  "generatedAt": "2026-09-22T19:15:08.876428+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Scheduled Maintenance on Active Matter Servers",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502308",
-      "latestPatchPublishedAt": "2026-09-21T19:09:57+00:00",
+      "latestPatchTitle": "Update 0.4.0.135",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504721",
+      "latestPatchPublishedAt": "2026-09-22T16:10:39+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 09/21/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010502111",
-      "latestPatchPublishedAt": "2026-09-21T17:41:03+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update - 09/22/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010505080",
+      "latestPatchPublishedAt": "2026-09-22T17:58:25+00:00",
       "status": "ok"
     },
     {
@@ -261,9 +261,9 @@
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "U21 Experimental Branch is LIVE",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446475",
-      "latestPatchPublishedAt": "2026-09-04T13:16:20+00:00",
+      "latestPatchTitle": "Update 21 | Full Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504686",
+      "latestPatchPublishedAt": "2026-09-22T16:01:18+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Молодое поколение геймеров ломает тактическую механику Rainbow Six Siege беготней в стиле Рэмбо",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010504556",
-      "latestPatchPublishedAt": "2026-09-22T15:24:26+00:00",
+      "latestPatchTitle": "Создатели Rainbow Six Siege признали неизбежный отток игроков из-за GTA 6 и готовят \"сюрпризы\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010504944",
+      "latestPatchPublishedAt": "2026-09-22T17:00:22+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "STALZONE Art Contest",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501437",
-      "latestPatchPublishedAt": "2026-09-21T13:47:13+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504658",
+      "latestPatchPublishedAt": "2026-09-22T15:54:44+00:00",
       "status": "ok"
     },
     {
