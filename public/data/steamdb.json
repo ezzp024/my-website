@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-22T06:18:12.379022+00:00",
+  "generatedAt": "2026-09-22T11:49:28.181733+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Авторы ARC Raiders покажут крупное обновление Frozen Trail 23 сентября - игроков ждёт новая карта и опасный противник",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499338",
-      "latestPatchPublishedAt": "2026-09-19T07:52:28+00:00",
+      "latestPatchTitle": "Store Update 1.47.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010503597",
+      "latestPatchPublishedAt": "2026-09-22T09:01:52+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: Regaro",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010491524",
-      "latestPatchPublishedAt": "2026-09-17T10:00:29+00:00",
+      "latestPatchTitle": "The Royal Hunt: Midpoint Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010503719",
+      "latestPatchPublishedAt": "2026-09-22T10:00:31+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "\"Мы надеялись на большее\": Bungie признала, что Marathon не собрала нужную аудиторию",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010501919",
-      "latestPatchPublishedAt": "2026-09-21T16:33:04+00:00",
+      "latestPatchTitle": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1844115010503885",
+      "latestPatchPublishedAt": "2026-09-22T10:58:45+00:00",
       "status": "ok"
     },
     {
