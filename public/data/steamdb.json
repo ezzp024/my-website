@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-09-25T14:56:17.125330+00:00",
+  "generatedAt": "2026-09-25T19:06:45.632107+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Hotfix 2.9.0.3 | Blood Testament",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495159",
-      "latestPatchPublishedAt": "2026-09-18T15:15:21+00:00",
+      "latestPatchTitle": "📜 Double XP Weekend Contract 📜",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224868",
+      "latestPatchPublishedAt": "2026-09-25T15:03:12+00:00",
       "status": "ok"
     },
     {
