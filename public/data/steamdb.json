@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-02T05:32:27.680758+00:00",
+  "generatedAt": "2026-10-02T11:18:58.993376+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "An Update on Anti-Cheat",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378189",
-      "latestPatchPublishedAt": "2026-09-30T16:04:46+00:00",
+      "latestPatchTitle": "ARC Raiders ужесточит борьбу с читерами - пожизненные баны станут стандартом, а аппаратные блокировки расширят",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656385277",
+      "latestPatchPublishedAt": "2026-10-02T07:31:58+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "A 10-Day Fame Rush Starts Soon!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656380618",
-      "latestPatchPublishedAt": "2026-10-01T10:00:26+00:00",
+      "latestPatchTitle": "33% Off Vanity Until October 5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385726",
+      "latestPatchPublishedAt": "2026-10-02T10:10:23+00:00",
       "status": "ok"
     },
     {
@@ -162,18 +162,18 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Steam Autumn Sale | 30% Off Legendary Status, 50% Off EAS10 Seasonal Pack",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382451",
-      "latestPatchPublishedAt": "2026-10-01T17:01:01+00:00",
+      "latestPatchTitle": "EAS10 Warlord Tournament Main Finals",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385685",
+      "latestPatchPublishedAt": "2026-10-02T10:01:30+00:00",
       "status": "ok"
     },
     {
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Autumn Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382895",
-      "latestPatchPublishedAt": "2026-10-01T17:05:01+00:00",
+      "latestPatchTitle": "DayZ Badlands Price Announcement | Creator Program",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385600",
+      "latestPatchPublishedAt": "2026-10-02T09:29:31+00:00",
       "status": "ok"
     },
     {
@@ -387,9 +387,9 @@
       "game": "Sea of Thieves",
       "appId": 1172620,
       "steamDbUrl": "https://steamdb.info/app/1172620/",
-      "latestPatchTitle": "Официально: Activision Blizzard теперь отвечает за Halo, Microsoft готовит к закрытию Ninja Theory",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/1844115010505418",
-      "latestPatchPublishedAt": "2026-09-22T20:25:27+00:00",
+      "latestPatchTitle": "Sea of Thieves Sail Design Competition",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385295",
+      "latestPatchPublishedAt": "2026-10-02T07:45:16+00:00",
       "status": "ok"
     },
     {
