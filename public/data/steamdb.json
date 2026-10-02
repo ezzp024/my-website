@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-02T16:42:08.567218+00:00",
+  "generatedAt": "2026-10-02T21:02:14.007665+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Play ARC Raiders for FREE from Oct 8 to Oct 12",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386907",
-      "latestPatchPublishedAt": "2026-10-02T16:00:12+00:00",
+      "latestPatchTitle": "ARC Raiders впервые станет бесплатной на четыре дня - 8 октября выйдет Frozen Trail, а затем начнётся PvE-тест",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656387221",
+      "latestPatchPublishedAt": "2026-10-02T17:36:37+00:00",
       "status": "ok"
     },
     {
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends: Latest Update - 10/01/2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656384678",
-      "latestPatchPublishedAt": "2026-10-02T02:09:18+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 10/02/2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387628",
+      "latestPatchPublishedAt": "2026-10-02T20:24:23+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Gray Zone Warfare перешла в альфу: готовность контента - 30%, обновление 0.5 Rogue Ops выйдет 22 октября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656383688",
-      "latestPatchPublishedAt": "2026-10-01T19:00:10+00:00",
+      "latestPatchTitle": "MADFINGER Games пообещала жёстче бороться с читерами в Gray Zone Warfare",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656387624",
+      "latestPatchPublishedAt": "2026-10-02T20:17:47+00:00",
       "status": "ok"
     },
     {
@@ -351,9 +351,9 @@
       "game": "Rust",
       "appId": 252490,
       "steamDbUrl": "https://steamdb.info/app/252490/",
-      "latestPatchTitle": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1845383656383732",
-      "latestPatchPublishedAt": "2026-10-01T19:09:12+00:00",
+      "latestPatchTitle": "New Rust update adds livestock, slows the race to vehicles, and finally gives spoiled meat a use",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1845383656387132",
+      "latestPatchPublishedAt": "2026-10-02T16:21:23+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Let's talk about something important!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386472",
-      "latestPatchPublishedAt": "2026-10-02T14:08:52+00:00",
+      "latestPatchTitle": "Hotfix [02.10.2026]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387616",
+      "latestPatchPublishedAt": "2026-10-02T20:15:54+00:00",
       "status": "ok"
     },
     {
