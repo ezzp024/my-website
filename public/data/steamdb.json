@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-02T11:18:58.993376+00:00",
+  "generatedAt": "2026-10-02T16:42:08.567218+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders ужесточит борьбу с читерами - пожизненные баны станут стандартом, а аппаратные блокировки расширят",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656385277",
-      "latestPatchPublishedAt": "2026-10-02T07:31:58+00:00",
+      "latestPatchTitle": "Play ARC Raiders for FREE from Oct 8 to Oct 12",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386907",
+      "latestPatchPublishedAt": "2026-10-02T16:00:12+00:00",
       "status": "ok"
     },
     {
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.165",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379082",
-      "latestPatchPublishedAt": "2026-09-30T22:20:48+00:00",
+      "latestPatchTitle": "Week 3 Rewards For Watching Active Matter Streams!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386321",
+      "latestPatchPublishedAt": "2026-10-02T13:24:12+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Blood Testament Chapter 2 | Developer Live Stream",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382009",
-      "latestPatchPublishedAt": "2026-10-01T16:01:33+00:00",
+      "latestPatchTitle": "Crytek Autumn Sale | Hunt and DLCs up to 65% Off",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387017",
+      "latestPatchPublishedAt": "2026-10-02T16:37:54+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PAS2 Finals 2 Day 1 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656384293",
-      "latestPatchPublishedAt": "2026-10-01T22:57:45+00:00",
+      "latestPatchTitle": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1845383656385644",
+      "latestPatchPublishedAt": "2026-10-02T09:26:02+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Compensation [01.10.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656382026",
-      "latestPatchPublishedAt": "2026-10-01T16:03:56+00:00",
+      "latestPatchTitle": "Let's talk about something important!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386472",
+      "latestPatchPublishedAt": "2026-10-02T14:08:52+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "War Thunder Starter Packs in the Steam Autumn Sale!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656383191",
-      "latestPatchPublishedAt": "2026-10-01T17:28:51+00:00",
+      "latestPatchTitle": "Don’t Miss the WTCS Challenger League Major III Playoffs!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386462",
+      "latestPatchPublishedAt": "2026-10-02T14:06:11+00:00",
       "status": "ok"
     }
   ]
