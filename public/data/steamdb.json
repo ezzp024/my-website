@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-03T05:33:15.020837+00:00",
+  "generatedAt": "2026-10-03T10:34:58.364527+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Hotfix [02.10.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387616",
-      "latestPatchPublishedAt": "2026-10-02T20:15:54+00:00",
+      "latestPatchTitle": "Extra Tickets?!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656388674",
+      "latestPatchPublishedAt": "2026-10-03T09:02:07+00:00",
       "status": "ok"
     },
     {
