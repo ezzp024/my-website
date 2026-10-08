@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-08T02:56:30.442084+00:00",
+  "generatedAt": "2026-10-08T09:53:50.627723+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Разработчики шутера Arc Raiders прокомментировали падение онлайна в Steam",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067927962",
-      "latestPatchPublishedAt": "2026-10-07T23:09:37+00:00",
+      "latestPatchTitle": "FROZEN TRAIL - 2.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067928877",
+      "latestPatchPublishedAt": "2026-10-08T09:02:39+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Gray Zone Warfare готовится к самому масштабному обновлению: Update 0.5 принесёт новых персонажей и первый \"мягкий вайп\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1845383656395429",
-      "latestPatchPublishedAt": "2026-10-06T06:51:46+00:00",
+      "latestPatchTitle": "Hotfix 0.4.7.5 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067928922",
+      "latestPatchPublishedAt": "2026-10-08T09:17:09+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Раскрыт план обновлений Marvel Rivals на середину сезона 10.5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067927116",
-      "latestPatchPublishedAt": "2026-10-07T17:47:44+00:00",
+      "latestPatchTitle": "Season 10.5: New Modes and Halloween // Dev Vision Vol. 22 | Marvel Rivals",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067929021",
+      "latestPatchPublishedAt": "2026-10-08T09:51:17+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "Virtus.pro and Team Falcons crowned PEC & PAS Finals 2 Champions!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067927076",
-      "latestPatchPublishedAt": "2026-10-07T18:18:28+00:00",
+      "latestPatchTitle": "The Final Road to PGC begins: PGS Circuit 4!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067928978",
+      "latestPatchPublishedAt": "2026-10-08T09:37:55+00:00",
       "status": "ok"
     },
     {
