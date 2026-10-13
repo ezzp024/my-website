@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-13T08:00:24.088366+00:00",
+  "generatedAt": "2026-10-13T15:53:34.442483+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Решение сменить внешний вид Селесты в Arc Raiders вызвало неоднозначную реакцию игроков",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067934408",
-      "latestPatchPublishedAt": "2026-10-09T18:41:14+00:00",
+      "latestPatchTitle": "PvE Toggle Beta Test: October 13-20",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943915",
+      "latestPatchPublishedAt": "2026-10-13T12:50:50+00:00",
       "status": "ok"
     },
     {
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Server update",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941187",
-      "latestPatchPublishedAt": "2026-10-12T14:45:40+00:00",
+      "latestPatchTitle": "Signal Lost",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944333",
+      "latestPatchPublishedAt": "2026-10-13T15:00:19+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Фанаты возмущены внешним видом 2B в кроссовере с Dead by Daylight - разработчики пообещали всё исправить",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067936138",
-      "latestPatchPublishedAt": "2026-10-10T12:13:25+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 6 Oct — 13 October 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1846018067944049",
+      "latestPatchPublishedAt": "2026-10-13T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update –October 8th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067929989",
-      "latestPatchPublishedAt": "2026-10-08T14:48:57+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List October 13th",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943855",
+      "latestPatchPublishedAt": "2026-10-13T12:18:34+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.62",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941259",
-      "latestPatchPublishedAt": "2026-10-12T15:04:44+00:00",
+      "latestPatchTitle": "Update 2.59.0.65",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944269",
+      "latestPatchPublishedAt": "2026-10-13T14:41:39+00:00",
       "status": "ok"
     }
   ]
