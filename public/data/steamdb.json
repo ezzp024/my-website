@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-13T01:24:45.553535+00:00",
+  "generatedAt": "2026-10-13T08:00:24.088366+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "G.T.I. Security | Penalties for RMT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067940847",
-      "latestPatchPublishedAt": "2026-10-12T12:50:16+00:00",
+      "latestPatchTitle": "Delta Force получила дуэли 1 на 1 и спасение раненых - обновление расширяет тактические возможности",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067943257",
+      "latestPatchPublishedAt": "2026-10-13T07:47:50+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "New Content in 0.5 | Devlog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067938682",
-      "latestPatchPublishedAt": "2026-10-11T15:01:53+00:00",
+      "latestPatchTitle": "Gray Zone Warfare получит 370 модулей оружия и три опасные локации в обновлении Rogue Ops",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067943225",
+      "latestPatchPublishedAt": "2026-10-13T07:25:49+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "The Final Road to PGC begins: PGS Circuit 4!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067928978",
-      "latestPatchPublishedAt": "2026-10-08T09:37:55+00:00",
+      "latestPatchTitle": "October Store Update 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943015",
+      "latestPatchPublishedAt": "2026-10-13T06:00:52+00:00",
       "status": "ok"
     },
     {
