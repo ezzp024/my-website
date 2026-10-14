@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-14T04:48:46.718670+00:00",
+  "generatedAt": "2026-10-14T09:46:39.025489+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -324,18 +324,18 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 10 Group Stage is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067945161",
-      "latestPatchPublishedAt": "2026-10-13T19:31:26+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/05~10/11)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673370",
+      "latestPatchPublishedAt": "2026-10-14T07:00:11+00:00",
       "status": "ok"
     },
     {
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230596",
-      "latestPatchPublishedAt": "2026-09-28T05:38:15+00:00",
+      "latestPatchTitle": "Авторы Palworld рассказали, почему не превратили успешный мир с \"покемонами\" в новый Fortnite",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706673296",
+      "latestPatchPublishedAt": "2026-10-14T06:10:13+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944562",
-      "latestPatchPublishedAt": "2026-10-13T15:56:04+00:00",
+      "latestPatchTitle": "Game changes are now live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673713",
+      "latestPatchPublishedAt": "2026-10-14T09:33:14+00:00",
       "status": "ok"
     },
     {
