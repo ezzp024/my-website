@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-14T14:41:19.867217+00:00",
+  "generatedAt": "2026-10-14T18:57:29.975417+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Steam Global Top Sellers for week of 6 Oct — 13 October 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1846018067944049",
-      "latestPatchPublishedAt": "2026-10-13T09:00:00+00:00",
+      "latestPatchTitle": "10.2.1 | Bugfix Patch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674577",
+      "latestPatchPublishedAt": "2026-10-14T15:01:01+00:00",
       "status": "ok"
     },
     {
@@ -270,9 +270,9 @@
       "game": "Hunt: Showdown",
       "appId": 594650,
       "steamDbUrl": "https://steamdb.info/app/594650/",
-      "latestPatchTitle": "Among Crimson Shadows | Starter Pack",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933995",
-      "latestPatchPublishedAt": "2026-10-09T16:42:16+00:00",
+      "latestPatchTitle": "Cursed Kin | Premium Story Challenge",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674991",
+      "latestPatchPublishedAt": "2026-10-14T16:58:38+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/05~10/11)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673370",
-      "latestPatchPublishedAt": "2026-10-14T07:00:11+00:00",
+      "latestPatchTitle": "PGS 10 Winners Stage is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675203",
+      "latestPatchPublishedAt": "2026-10-14T17:57:08+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "A New Kind of Competition Arrives in Siege",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218701",
-      "latestPatchPublishedAt": "2026-09-23T15:00:40+00:00",
+      "latestPatchTitle": "Doktor's Curse Is Back: Hide, Hunt, and Survive",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674567",
+      "latestPatchPublishedAt": "2026-10-14T15:00:36+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "The Сoliseum is open for ranked battles!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674238",
-      "latestPatchPublishedAt": "2026-10-14T13:02:08+00:00",
+      "latestPatchTitle": "Nerves acting up? Keep your hands busy",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674749",
+      "latestPatchPublishedAt": "2026-10-14T15:59:37+00:00",
       "status": "ok"
     },
     {
