@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-14T09:46:39.025489+00:00",
+  "generatedAt": "2026-10-14T14:41:19.867217+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Dragonfire Patch 3 is Live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067940495",
-      "latestPatchPublishedAt": "2026-10-12T10:04:52+00:00",
+      "latestPatchTitle": "Ambassador Spotlight: izValen",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673768",
+      "latestPatchPublishedAt": "2026-10-14T10:00:20+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Log In This October and Claim 4,800 Free Bonds!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498234354",
-      "latestPatchPublishedAt": "2026-09-29T14:00:37+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite X Girls' Frontline 2: Exilium",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674264",
+      "latestPatchPublishedAt": "2026-10-14T13:18:08+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Log In This October and Claim 4,800 Free Bonds!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498234354",
-      "latestPatchPublishedAt": "2026-09-29T14:00:37+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite X Girls' Frontline 2: Exilium",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674264",
+      "latestPatchPublishedAt": "2026-10-14T13:18:08+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Game changes are now live",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673713",
-      "latestPatchPublishedAt": "2026-10-14T09:33:14+00:00",
+      "latestPatchTitle": "The Сoliseum is open for ranked battles!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674238",
+      "latestPatchPublishedAt": "2026-10-14T13:02:08+00:00",
       "status": "ok"
     },
     {
