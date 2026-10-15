@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-15T05:01:26.575882+00:00",
+  "generatedAt": "2026-10-15T09:48:28.327661+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -214,11 +214,11 @@
     },
     {
       "game": "EFT",
-      "appId": 3975470,
-      "steamDbUrl": "https://steamdb.info/app/3975470/",
-      "latestPatchTitle": "Update 1.0.5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395918",
-      "latestPatchPublishedAt": "2026-10-06T10:20:10+00:00",
+      "appId": 1144300,
+      "steamDbUrl": "https://steamdb.info/app/1144300/",
+      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
+      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Разработчики Marvel Rivals пытаются предотвратить утечки сюжета \"Мстителей: Судный день\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067934453",
-      "latestPatchPublishedAt": "2026-10-09T19:05:57+00:00",
+      "latestPatchTitle": "Marvel Rivals Version 20261015 Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706676631",
+      "latestPatchPublishedAt": "2026-10-15T07:19:34+00:00",
       "status": "ok"
     },
     {
