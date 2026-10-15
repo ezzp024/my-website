@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-15T14:27:24.047232+00:00",
+  "generatedAt": "2026-10-15T18:30:05.077469+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.195",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677093",
-      "latestPatchPublishedAt": "2026-10-15T10:24:39+00:00",
+      "latestPatchTitle": "Update 0.4.0.196",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678912",
+      "latestPatchPublishedAt": "2026-10-15T18:24:31+00:00",
       "status": "ok"
     },
     {
@@ -117,9 +117,9 @@
       "game": "Beasts of Bermuda",
       "appId": 719890,
       "steamDbUrl": "https://steamdb.info/app/719890/",
-      "latestPatchTitle": "PTB EVENT- 21.SEPT.26 - 72hr",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010501761",
-      "latestPatchPublishedAt": "2026-09-21T15:56:39+00:00",
+      "latestPatchTitle": "Splendor from the Deep",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678555",
+      "latestPatchPublishedAt": "2026-10-15T16:51:27+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands Expansion is Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677474",
-      "latestPatchPublishedAt": "2026-10-15T12:22:40+00:00",
+      "latestPatchTitle": "Состоялся релиз DayZ Badlands с крупнейшей пустынной картой и мотоциклами",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706678085",
+      "latestPatchPublishedAt": "2026-10-15T14:56:24+00:00",
       "status": "ok"
     },
     {
@@ -207,18 +207,18 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening - 1.5.3.7 Hotfix Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932500",
-      "latestPatchPublishedAt": "2026-10-09T08:04:00+00:00",
+      "latestPatchTitle": "Funcom сокращает команду Dune: Awakening после завершения основной разработки",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706678026",
+      "latestPatchPublishedAt": "2026-10-15T14:49:10+00:00",
       "status": "ok"
     },
     {
       "game": "EFT",
-      "appId": 1144300,
-      "steamDbUrl": "https://steamdb.info/app/1144300/",
-      "latestPatchTitle": "Bokuten – Why I Became an Angel is 60% OFF for One Week!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198612039",
-      "latestPatchPublishedAt": "2026-02-02T18:11:22+00:00",
+      "appId": 3975470,
+      "steamDbUrl": "https://steamdb.info/app/3975470/",
+      "latestPatchTitle": "Update 1.0.5",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395918",
+      "latestPatchPublishedAt": "2026-10-06T10:20:10+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Gray Zone Warfare получит 370 модулей оружия и три опасные локации в обновлении Rogue Ops",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067943225",
-      "latestPatchPublishedAt": "2026-10-13T07:25:49+00:00",
+      "latestPatchTitle": "Supporter Preview for 0.5: Everything You Need to Know",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678263",
+      "latestPatchPublishedAt": "2026-10-15T15:47:50+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals Version 20261015 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706676631",
-      "latestPatchPublishedAt": "2026-10-15T07:19:34+00:00",
+      "latestPatchTitle": "Art Vision Vol. 06 // Behind The Scenes (Part 1): Dedication and Passion",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678168",
+      "latestPatchPublishedAt": "2026-10-15T15:23:40+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 10 Winners Stage is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675203",
-      "latestPatchPublishedAt": "2026-10-14T17:57:08+00:00",
+      "latestPatchTitle": "PGS 10 Survival Stage is LIVE!!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678818",
+      "latestPatchPublishedAt": "2026-10-15T17:59:58+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "The art contest's submission deadline is approaching",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677392",
-      "latestPatchPublishedAt": "2026-10-15T12:00:12+00:00",
+      "latestPatchTitle": "Test Server launch [16.10.26]",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678036",
+      "latestPatchPublishedAt": "2026-10-15T14:59:44+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Squad Hotfix 10.6.1 Release Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067927017",
-      "latestPatchPublishedAt": "2026-10-07T17:59:15+00:00",
+      "latestPatchTitle": "Squad Hotfix 10.6.2 Release Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678820",
+      "latestPatchPublishedAt": "2026-10-15T18:00:19+00:00",
       "status": "ok"
     },
     {
