@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-15T09:48:28.327661+00:00",
+  "generatedAt": "2026-10-15T14:27:24.047232+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Signal Lost",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944333",
-      "latestPatchPublishedAt": "2026-10-13T15:00:19+00:00",
+      "latestPatchTitle": "Update 0.4.0.195",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677093",
+      "latestPatchPublishedAt": "2026-10-15T10:24:39+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Badlands Official Collector’s Vinyl Box Set | Pre-Order Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933489",
-      "latestPatchPublishedAt": "2026-10-09T14:26:28+00:00",
+      "latestPatchTitle": "DayZ Badlands Expansion is Out Now!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677474",
+      "latestPatchPublishedAt": "2026-10-15T12:22:40+00:00",
       "status": "ok"
     },
     {
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Delta Force получила дуэли 1 на 1 и спасение раненых - обновление расширяет тактические возможности",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067943257",
-      "latestPatchPublishedAt": "2026-10-13T07:47:50+00:00",
+      "latestPatchTitle": "Polaris Patrol: New Mini-Mode Arrives, Operator & Firearm Balance Adjustments",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677613",
+      "latestPatchPublishedAt": "2026-10-15T13:00:40+00:00",
       "status": "ok"
     },
     {
@@ -342,9 +342,9 @@
       "game": "Rainbow Six Siege",
       "appId": 359550,
       "steamDbUrl": "https://steamdb.info/app/359550/",
-      "latestPatchTitle": "Doktor's Curse Is Back: Hide, Hunt, and Survive",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674567",
-      "latestPatchPublishedAt": "2026-10-14T15:00:36+00:00",
+      "latestPatchTitle": "Osaka Major Starts November 6: Rewards & Esports Action",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677930",
+      "latestPatchPublishedAt": "2026-10-15T14:26:44+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Nerves acting up? Keep your hands busy",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674749",
-      "latestPatchPublishedAt": "2026-10-14T15:59:37+00:00",
+      "latestPatchTitle": "The art contest's submission deadline is approaching",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677392",
+      "latestPatchPublishedAt": "2026-10-15T12:00:12+00:00",
       "status": "ok"
     },
     {
@@ -405,9 +405,9 @@
       "game": "The Finals",
       "appId": 2073850,
       "steamDbUrl": "https://steamdb.info/app/2073850/",
-      "latestPatchTitle": "Store Update 11.13.0",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067929071",
-      "latestPatchPublishedAt": "2026-10-08T10:02:47+00:00",
+      "latestPatchTitle": "Store Update 11.14.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677023",
+      "latestPatchPublishedAt": "2026-10-15T10:01:16+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Update 2.59.0.65",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944269",
-      "latestPatchPublishedAt": "2026-10-13T14:41:39+00:00",
+      "latestPatchTitle": "Community Update No.13: What’s Coming Up!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677897",
+      "latestPatchPublishedAt": "2026-10-15T14:15:11+00:00",
       "status": "ok"
     }
   ]
