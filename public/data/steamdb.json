@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-16T16:59:52.306893+00:00",
+  "generatedAt": "2026-10-16T19:51:38.259752+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "DMZ Deep Dive, Part 2: DMZ Early Access Confirmed",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067934021",
-      "latestPatchPublishedAt": "2026-10-09T16:50:38+00:00",
+      "latestPatchTitle": "Modern Warfare 4: Campaign Early Access Now Live",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682357",
+      "latestPatchPublishedAt": "2026-10-16T17:00:04+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "OTS Launch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682072",
-      "latestPatchPublishedAt": "2026-10-16T15:57:22+00:00",
+      "latestPatchTitle": "OTS adjustments",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682934",
+      "latestPatchPublishedAt": "2026-10-16T19:49:43+00:00",
       "status": "ok"
     },
     {
@@ -396,9 +396,9 @@
       "game": "Squad",
       "appId": 393380,
       "steamDbUrl": "https://steamdb.info/app/393380/",
-      "latestPatchTitle": "Тактический шутер Squad доберётся до PS5 и Xbox Series - альфа-тест на PlayStation стартует уже 16 октября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706679322",
-      "latestPatchPublishedAt": "2026-10-15T21:09:16+00:00",
+      "latestPatchTitle": "Don't Forget to Claim your Free DLC Pack!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682639",
+      "latestPatchPublishedAt": "2026-10-16T18:00:07+00:00",
       "status": "ok"
     },
     {
