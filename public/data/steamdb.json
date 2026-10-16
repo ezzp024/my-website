@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-16T12:42:15.441872+00:00",
+  "generatedAt": "2026-10-16T16:59:52.306893+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.196",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678912",
-      "latestPatchPublishedAt": "2026-10-15T18:24:31+00:00",
+      "latestPatchTitle": "Update 0.4.0.199",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681880",
+      "latestPatchPublishedAt": "2026-10-16T15:12:00+00:00",
       "status": "ok"
     },
     {
@@ -252,18 +252,18 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Supporter Preview for 0.5: Everything You Need to Know",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678263",
-      "latestPatchPublishedAt": "2026-10-15T15:47:50+00:00",
+      "latestPatchTitle": "Security Report: Update 0.4 Cycle & Anti-cheat Improvements",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681932",
+      "latestPatchPublishedAt": "2026-10-16T15:26:33+00:00",
       "status": "ok"
     },
     {
       "game": "Hell Let Loose",
       "appId": 686810,
       "steamDbUrl": "https://steamdb.info/app/686810/",
-      "latestPatchTitle": "U21 Community Feedback | Dev Brief #221",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932989",
-      "latestPatchPublishedAt": "2026-10-09T11:24:33+00:00",
+      "latestPatchTitle": "HLL Community Feedback | Dev Brief #222",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681831",
+      "latestPatchPublishedAt": "2026-10-16T15:01:05+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Hotfix [15.10.2026]",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706679122",
-      "latestPatchPublishedAt": "2026-10-15T19:45:53+00:00",
+      "latestPatchTitle": "OTS Launch",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682072",
+      "latestPatchPublishedAt": "2026-10-16T15:57:22+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "SEAD: Asymmetrical Battle Returns!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681059",
-      "latestPatchPublishedAt": "2026-10-16T11:21:33+00:00",
+      "latestPatchTitle": "Official Snail Plushie Collaboration with Makeship!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682154",
+      "latestPatchPublishedAt": "2026-10-16T16:06:33+00:00",
       "status": "ok"
     }
   ]
