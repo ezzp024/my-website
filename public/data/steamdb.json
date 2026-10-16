@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-16T07:33:09.694690+00:00",
+  "generatedAt": "2026-10-16T12:42:15.441872+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "PvE Toggle Beta Test: October 13-20",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943915",
-      "latestPatchPublishedAt": "2026-10-13T12:50:50+00:00",
+      "latestPatchTitle": "Hotfix 2.1.1",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706680764",
+      "latestPatchPublishedAt": "2026-10-16T09:35:36+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Ambassador Spotlight: izValen",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673768",
-      "latestPatchPublishedAt": "2026-10-14T10:00:20+00:00",
+      "latestPatchTitle": "33% Off Vanity Until October 19",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706680857",
+      "latestPatchPublishedAt": "2026-10-16T10:11:53+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "Новую GPS-навигацию в Escape from Tarkov встретили неоднозначно: одни рады помощи новичкам, другие недовольны",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067940925",
-      "latestPatchPublishedAt": "2026-10-12T13:20:05+00:00",
+      "latestPatchTitle": "New in-game survey",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681057",
+      "latestPatchPublishedAt": "2026-10-16T11:21:08+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Community Update No.13: What’s Coming Up!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677897",
-      "latestPatchPublishedAt": "2026-10-15T14:15:11+00:00",
+      "latestPatchTitle": "SEAD: Asymmetrical Battle Returns!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681059",
+      "latestPatchPublishedAt": "2026-10-16T11:21:33+00:00",
       "status": "ok"
     }
   ]
