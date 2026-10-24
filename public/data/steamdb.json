@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-24T17:46:29.185263+00:00",
+  "generatedAt": "2026-10-24T19:51:03.407978+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -279,10 +279,11 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.9.5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706696043",
-      "latestPatchPublishedAt": "2026-10-20T17:00:53+00:00",
-      "status": "ok"
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
+      "status": "error",
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "game": "Marvel Rivals",
