@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-25T09:45:13.620567+00:00",
+  "generatedAt": "2026-10-25T13:57:01.951740+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -379,8 +379,8 @@
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
       "latestPatchTitle": "OTS fixes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114039839",
-      "latestPatchPublishedAt": "2026-10-24T15:09:27+00:00",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114041761",
+      "latestPatchPublishedAt": "2026-10-25T11:45:59+00:00",
       "status": "ok"
     },
     {
