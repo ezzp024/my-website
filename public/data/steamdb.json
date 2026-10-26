@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-26T17:01:16.571813+00:00",
+  "generatedAt": "2026-10-26T21:36:44.487294+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Active Matter on Steam Deck!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045537",
-      "latestPatchPublishedAt": "2026-10-26T16:21:51+00:00",
+      "latestPatchTitle": "Frightfully Good Deal: Active Matter at the \"Steam Scream V\" Festival!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045839",
+      "latestPatchPublishedAt": "2026-10-26T17:04:59+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Halloween Event 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045121",
-      "latestPatchPublishedAt": "2026-10-26T14:37:23+00:00",
+      "latestPatchTitle": "Scream V Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114046162",
+      "latestPatchPublishedAt": "2026-10-26T18:05:39+00:00",
       "status": "ok"
     },
     {
