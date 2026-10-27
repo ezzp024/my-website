@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-27T05:41:36.348522+00:00",
+  "generatedAt": "2026-10-27T11:02:53.565266+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Стример Arc Raiders получил аппаратный бан за аимбот - до этого он сам спросил, почему его до сих пор не заблокировали",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114039112",
-      "latestPatchPublishedAt": "2026-10-24T08:10:01+00:00",
+      "latestPatchTitle": "Embark завершила тестирование PvE-режима в Arc Raiders - решение отложено до ноября",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114048432",
+      "latestPatchPublishedAt": "2026-10-27T10:44:24+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Dead By Daylight x Diablo Collection OUT NOW",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114037461",
-      "latestPatchPublishedAt": "2026-10-23T18:00:50+00:00",
+      "latestPatchTitle": "Behaviour Interactive объяснила уход Чаки из Dead by Daylight и допустила его возвращение",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114047962",
+      "latestPatchPublishedAt": "2026-10-27T07:28:50+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk October 22nd Update Announcement: New Content for Season 6, Chapter 2",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028457",
-      "latestPatchPublishedAt": "2026-10-21T11:06:58+00:00",
+      "latestPatchTitle": "FragPunk готовит PvPvE-режим в духе Death Stranding - игроки смогут доставлять грузы и грабить друг друга",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114048091",
+      "latestPatchPublishedAt": "2026-10-27T08:34:18+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Arena progression",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114044319",
-      "latestPatchPublishedAt": "2026-10-26T10:02:17+00:00",
+      "latestPatchTitle": "Go higher in Festivity leagues",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114048468",
+      "latestPatchPublishedAt": "2026-10-27T10:59:06+00:00",
       "status": "ok"
     },
     {
