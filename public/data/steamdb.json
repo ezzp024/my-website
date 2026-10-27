@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-27T16:29:56.257140+00:00",
+  "generatedAt": "2026-10-27T20:53:36.151059+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Modern Warfare 4 is Live Worldwide — Play Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114037488",
-      "latestPatchPublishedAt": "2026-10-23T18:09:02+00:00",
+      "latestPatchTitle": "Call of Duty: Modern Warfare 4 - The Best COD in Years",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114050082",
+      "latestPatchPublishedAt": "2026-10-27T18:40:15+00:00",
       "status": "ok"
     },
     {
@@ -144,9 +144,9 @@
       "game": "Conan Exiles",
       "appId": 440900,
       "steamDbUrl": "https://steamdb.info/app/440900/",
-      "latestPatchTitle": "Conan Exiles Enhanced выйдет на PS5 в начале 2027 года - с бесплатным апгрейдом",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114049589",
-      "latestPatchPublishedAt": "2026-10-27T16:22:32+00:00",
+      "latestPatchTitle": "Conan Exiles Enhanced Is Coming to PS5 and Xbox Series X|S with PC Cross-Play!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049723",
+      "latestPatchPublishedAt": "2026-10-27T17:07:12+00:00",
       "status": "ok"
     },
     {
@@ -279,9 +279,9 @@
       "game": "Marathon",
       "appId": 3065800,
       "steamDbUrl": "https://steamdb.info/app/3065800/",
-      "latestPatchTitle": "Marathon Update 1.1.9.5",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706696043",
-      "latestPatchPublishedAt": "2026-10-20T17:00:53+00:00",
+      "latestPatchTitle": "Marathon Update 1.1.9.6",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049692",
+      "latestPatchPublishedAt": "2026-10-27T17:00:49+00:00",
       "status": "ok"
     },
     {
