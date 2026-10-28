@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-28T05:49:18.629216+00:00",
+  "generatedAt": "2026-10-28T11:41:18.001408+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Embark завершила тестирование PvE-режима в Arc Raiders - решение отложено до ноября",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114048432",
-      "latestPatchPublishedAt": "2026-10-27T10:44:24+00:00",
+      "latestPatchTitle": "ARC Raiders может получить постоянный PvE-режим, но разработчики боятся навредить игре",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302229988",
+      "latestPatchPublishedAt": "2026-10-28T07:35:40+00:00",
       "status": "ok"
     },
     {
@@ -63,18 +63,18 @@
       "game": "Arena Breakout",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Outstanding Inspectors Announcement Episode 3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706694849",
-      "latestPatchPublishedAt": "2026-10-20T11:22:20+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Halloween Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230290",
+      "latestPatchPublishedAt": "2026-10-28T09:34:50+00:00",
       "status": "ok"
     },
     {
       "game": "Arena Breakout Infinite",
       "appId": 2073620,
       "steamDbUrl": "https://steamdb.info/app/2073620/",
-      "latestPatchTitle": "Outstanding Inspectors Announcement Episode 3",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706694849",
-      "latestPatchPublishedAt": "2026-10-20T11:22:20+00:00",
+      "latestPatchTitle": "Arena Breakout: Infinite Halloween Event",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230290",
+      "latestPatchPublishedAt": "2026-10-28T09:34:50+00:00",
       "status": "ok"
     },
     {
@@ -162,9 +162,9 @@
       "game": "Dark and Darker",
       "appId": 2016590,
       "steamDbUrl": "https://steamdb.info/app/2016590/",
-      "latestPatchTitle": "Early Access Hotfix #129",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035074",
-      "latestPatchPublishedAt": "2026-10-23T05:35:36+00:00",
+      "latestPatchTitle": "Early Access Hotfix #130",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229744",
+      "latestPatchPublishedAt": "2026-10-28T06:00:09+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening x Dying Light: The Beast - Bundle",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045406",
-      "latestPatchPublishedAt": "2026-10-26T15:51:34+00:00",
+      "latestPatchTitle": "Dune: Awakening - 1.5.15.3 Hotfix Patch Notes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230185",
+      "latestPatchPublishedAt": "2026-10-28T09:07:03+00:00",
       "status": "ok"
     },
     {
@@ -324,18 +324,18 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 11 Final Stage Day 2 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114041425",
-      "latestPatchPublishedAt": "2026-10-25T08:27:08+00:00",
+      "latestPatchTitle": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/19~10/25)",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229875",
+      "latestPatchPublishedAt": "2026-10-28T07:03:52+00:00",
       "status": "ok"
     },
     {
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld × Graveyard Keeper 2 Steam Bundle is Out Now!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229254",
-      "latestPatchPublishedAt": "2026-10-28T01:21:53+00:00",
+      "latestPatchTitle": "Глава Pocketpair допустил порт Palworld на Switch 2 - при условии переговоров с Nintendo",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302230216",
+      "latestPatchPublishedAt": "2026-10-28T09:13:24+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049430",
-      "latestPatchPublishedAt": "2026-10-27T15:57:18+00:00",
+      "latestPatchTitle": "Server maintenance is completed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230307",
+      "latestPatchPublishedAt": "2026-10-28T09:43:04+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Testing Nuclear Escalation in Simulator Battles!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049009",
-      "latestPatchPublishedAt": "2026-10-27T13:57:50+00:00",
+      "latestPatchTitle": "Discounts in the Gaijin Store for War Thunder’s 14th Anniversary!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230561",
+      "latestPatchPublishedAt": "2026-10-28T11:07:02+00:00",
       "status": "ok"
     }
   ]
