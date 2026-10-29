@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-28T21:49:01.273661+00:00",
+  "generatedAt": "2026-10-29T01:17:43.531764+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Armament Voucher Giveaway Is Live, Vlindflower Returns for a Limited Time!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230707",
-      "latestPatchPublishedAt": "2026-10-28T12:00:07+00:00",
+      "latestPatchTitle": "Delta Force готовит кроссовер с Phantom Blade Zero - скоро в бой ворвётся экшен-RPG",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302232784",
+      "latestPatchPublishedAt": "2026-10-28T19:52:15+00:00",
       "status": "ok"
     },
     {
