@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-30T02:55:52.804353+00:00",
+  "generatedAt": "2026-10-30T09:33:22.853392+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,9 +36,9 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Update 0.4.0.208",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114048527",
-      "latestPatchPublishedAt": "2026-10-27T11:19:53+00:00",
+      "latestPatchTitle": "The Agency’s Readings Have Breached Critical Thresholds!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237742",
+      "latestPatchPublishedAt": "2026-10-30T09:04:51+00:00",
       "status": "ok"
     },
     {
@@ -333,9 +333,9 @@
       "game": "Palworld",
       "appId": 1623730,
       "steamDbUrl": "https://steamdb.info/app/1623730/",
-      "latestPatchTitle": "Palworld dev says the studio still calls itself indie because of its \"genuine creative freedom\"",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1847920302235869",
-      "latestPatchPublishedAt": "2026-10-29T16:23:08+00:00",
+      "latestPatchTitle": "Pocketpair объяснила, почему считает себя инди-студией даже после успеха Palworld",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302237476",
+      "latestPatchPublishedAt": "2026-10-30T06:55:06+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "\"Eagle's Shadow\" Update Trailer!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236438",
-      "latestPatchPublishedAt": "2026-10-29T21:26:39+00:00",
+      "latestPatchTitle": "Improving Tank Mobility Mechanics: New Steering Mechanisms & Engine Refinements",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237808",
+      "latestPatchPublishedAt": "2026-10-30T09:30:14+00:00",
       "status": "ok"
     }
   ]
