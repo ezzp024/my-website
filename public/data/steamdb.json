@@ -1,9 +1,9 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-10-30T16:11:38.033495+00:00",
-  "totalGames": 47,
-  "mappedGames": 47,
+  "generatedAt": "2026-10-30T20:50:46.700814+00:00",
+  "totalGames": 48,
+  "mappedGames": 48,
   "games": [
     {
       "game": "ARC Raiders",
@@ -117,9 +117,9 @@
       "game": "Beasts of Bermuda",
       "appId": 719890,
       "steamDbUrl": "https://steamdb.info/app/719890/",
-      "latestPatchTitle": "Hotfixes!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114037778",
-      "latestPatchPublishedAt": "2026-10-23T19:34:52+00:00",
+      "latestPatchTitle": "Ghostly Apparitions",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240376",
+      "latestPatchPublishedAt": "2026-10-30T20:34:46+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "10.2.2a Backend Bugfix Patch",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235142",
-      "latestPatchPublishedAt": "2026-10-29T15:06:00+00:00",
+      "latestPatchTitle": "Custom Alienware Laptop Sweepstakes",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
+      "latestPatchPublishedAt": "2026-10-30T19:52:18+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening's free Blood and Ice expansion launches December 1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1847920302237943",
-      "latestPatchPublishedAt": "2026-10-30T10:08:41+00:00",
+      "latestPatchTitle": "Креативный директор Dune Awakening раскритиковал игры с бесконечным гриндом ради удержания аудитории",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302239663",
+      "latestPatchPublishedAt": "2026-10-30T17:21:57+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Hotfix 0.5.0.2 Now Live - Changelog",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234442",
-      "latestPatchPublishedAt": "2026-10-29T11:46:32+00:00",
+      "latestPatchTitle": "Upcoming Patch 0.5.1.0 & Halloween Event | Dev Stream VOD",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302239603",
+      "latestPatchPublishedAt": "2026-10-30T17:17:51+00:00",
       "status": "ok"
     },
     {
@@ -300,6 +300,15 @@
       "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List Oct 27th",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114049406",
       "latestPatchPublishedAt": "2026-10-27T15:47:53+00:00",
+      "status": "ok"
+    },
+    {
+      "game": "Off The Grid",
+      "appId": 3659280,
+      "steamDbUrl": "https://steamdb.info/app/3659280/",
+      "latestPatchTitle": "Developer Update: Kestrel Executes First Official Ban Wave",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029350",
+      "latestPatchPublishedAt": "2026-10-21T15:50:02+00:00",
       "status": "ok"
     },
     {
