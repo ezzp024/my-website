@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-02T03:59:37.411163+00:00",
+  "generatedAt": "2026-11-02T12:11:21.769593+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "Armored Support: BTR-80A",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302239086",
-      "latestPatchPublishedAt": "2026-10-30T15:37:44+00:00",
+      "latestPatchTitle": "To hell: \"Factory: Bloodbath\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247469",
+      "latestPatchPublishedAt": "2026-11-02T09:10:08+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Embrace Winter with the Frost Moose",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302243702",
-      "latestPatchPublishedAt": "2026-11-01T00:01:23+00:00",
+      "latestPatchTitle": "Dragonfire Patch 4",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247585",
+      "latestPatchPublishedAt": "2026-11-02T10:05:14+00:00",
       "status": "ok"
     },
     {
@@ -180,9 +180,9 @@
       "game": "Dead by Daylight",
       "appId": 381210,
       "steamDbUrl": "https://steamdb.info/app/381210/",
-      "latestPatchTitle": "Custom Alienware Laptop Sweepstakes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240241",
-      "latestPatchPublishedAt": "2026-10-30T19:52:18+00:00",
+      "latestPatchTitle": "Разработчики Dead by Daylight подарили все DLC популярному стримеру и извинились перед игроками после негативной реакции",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302247226",
+      "latestPatchPublishedAt": "2026-11-02T07:05:47+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Screenshot Competition – Beyond Repair!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302241300",
-      "latestPatchPublishedAt": "2026-10-31T05:00:16+00:00",
+      "latestPatchTitle": "Cluster Bombs in Air Battles!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247915",
+      "latestPatchPublishedAt": "2026-11-02T12:02:57+00:00",
       "status": "ok"
     }
   ]
