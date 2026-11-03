@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-03T03:05:54.037506+00:00",
+  "generatedAt": "2026-11-03T10:44:16.658800+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "ARC Raiders исполнился год - разработчики выпустили юбилейный трейлер и приготовили подарок игрокам",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302240652",
-      "latestPatchPublishedAt": "2026-10-30T19:52:47+00:00",
+      "latestPatchTitle": "Store Update 2.4.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302251347",
+      "latestPatchPublishedAt": "2026-11-03T10:01:19+00:00",
       "status": "ok"
     },
     {
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "В файлах Counter-Strike 2 нашли новое оружие - Valve тестирует винтовку LAR",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235279",
-      "latestPatchPublishedAt": "2026-10-29T15:29:24+00:00",
+      "latestPatchTitle": "Российская 1w выиграла \"Московские киберигры 2026\" по Counter-Strike 2 и обеспечила себе место на мейджоре",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302251353",
+      "latestPatchPublishedAt": "2026-11-03T09:52:36+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PGS 12 Grand Finals Day 3 is LIVE!!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302244423",
-      "latestPatchPublishedAt": "2026-11-01T08:54:06+00:00",
+      "latestPatchTitle": "November Store Update 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302250732",
+      "latestPatchPublishedAt": "2026-11-03T06:00:03+00:00",
       "status": "ok"
     },
     {
