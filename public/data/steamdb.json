@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-04T18:15:04.149070+00:00",
+  "generatedAt": "2026-11-04T23:44:16.934468+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,7 +54,7 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "An Update from the Anti-Cheat Team - 11/4/2026",
+      "latestPatchTitle": "An Update from the Anti-Cheat Team – Nov 4, 2026",
       "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880480055",
       "latestPatchPublishedAt": "2026-11-04T17:02:23+00:00",
       "status": "ok"
@@ -414,9 +414,9 @@
       "game": "The Isle Evrima",
       "appId": 376210,
       "steamDbUrl": "https://steamdb.info/app/376210/",
-      "latestPatchTitle": "DevBlog #74",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302240956",
-      "latestPatchPublishedAt": "2026-10-31T01:02:56+00:00",
+      "latestPatchTitle": "Director's Commentary - A Note on Mods",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880480740",
+      "latestPatchPublishedAt": "2026-11-04T20:20:57+00:00",
       "status": "ok"
     },
     {
