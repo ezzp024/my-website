@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-05T18:56:53.491992+00:00",
+  "generatedAt": "2026-11-05T23:56:35.674240+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "Apex Legends | Godzilla Event",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342057",
-      "latestPatchPublishedAt": "2026-11-05T16:13:52+00:00",
+      "latestPatchTitle": "В Apex Legends представили событие с Годзиллой и битвой за выживание",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643342817",
+      "latestPatchPublishedAt": "2026-11-05T16:51:12+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "Call of Duty: Warzone Season 1: Everything You Need to Know",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249180",
-      "latestPatchPublishedAt": "2026-11-02T18:04:54+00:00",
+      "latestPatchTitle": "Modern Warfare 4 Season 1 Battle Pass System, BlackCell, and New Store Bundles",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342757",
+      "latestPatchPublishedAt": "2026-11-05T19:01:23+00:00",
       "status": "ok"
     },
     {
