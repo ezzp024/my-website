@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-04T23:44:16.934468+00:00",
+  "generatedAt": "2026-11-05T03:45:41.710335+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -54,9 +54,9 @@
       "game": "Apex Legends",
       "appId": 1172470,
       "steamDbUrl": "https://steamdb.info/app/1172470/",
-      "latestPatchTitle": "An Update from the Anti-Cheat Team – Nov 4, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880480055",
-      "latestPatchPublishedAt": "2026-11-04T17:02:23+00:00",
+      "latestPatchTitle": "Apex Legends: Latest Update 11/4/26",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481641",
+      "latestPatchPublishedAt": "2026-11-05T02:43:46+00:00",
       "status": "ok"
     },
     {
@@ -153,9 +153,9 @@
       "game": "Counter-Strike 2",
       "appId": 730,
       "steamDbUrl": "https://steamdb.info/app/730/",
-      "latestPatchTitle": "Российская 1w выиграла \"Московские киберигры 2026\" по Counter-Strike 2 и обеспечила себе место на мейджоре",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302251353",
-      "latestPatchPublishedAt": "2026-11-03T09:52:36+00:00",
+      "latestPatchTitle": "Counter-Strike 2 Update",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353",
+      "latestPatchPublishedAt": "2026-11-05T00:54:07+00:00",
       "status": "ok"
     },
     {
