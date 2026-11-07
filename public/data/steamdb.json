@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-07T04:17:41.858718+00:00",
+  "generatedAt": "2026-11-07T11:09:33.462732+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The He 219 A-7 Returns with a Discount for the Anniversary of its First Flight!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345122",
-      "latestPatchPublishedAt": "2026-11-06T11:07:46+00:00",
+      "latestPatchTitle": "Screenshot Competition – A World of Blue!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643348446",
+      "latestPatchPublishedAt": "2026-11-07T05:00:04+00:00",
       "status": "ok"
     }
   ]
