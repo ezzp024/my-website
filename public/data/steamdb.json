@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-07T11:09:33.462732+00:00",
+  "generatedAt": "2026-11-07T16:49:30.596505+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -198,9 +198,9 @@
       "game": "Delta Force",
       "appId": 2507950,
       "steamDbUrl": "https://steamdb.info/app/2507950/",
-      "latestPatchTitle": "Make your season reservation and claim rewards!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643341010",
-      "latestPatchPublishedAt": "2026-11-05T12:00:52+00:00",
+      "latestPatchTitle": "Major Update: Season Aurora Is Coming!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643349128",
+      "latestPatchPublishedAt": "2026-11-07T12:00:03+00:00",
       "status": "ok"
     },
     {
