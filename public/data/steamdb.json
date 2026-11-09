@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-09T00:47:17.152476+00:00",
+  "generatedAt": "2026-11-09T07:15:30.419673+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Hotfix 2.4.1",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643341170",
-      "latestPatchPublishedAt": "2026-11-05T12:43:03+00:00",
+      "latestPatchTitle": "Embark объяснила, почему не спешит добавлять PvE в ARC Raiders: PvP остаётся частью главной идеи игры",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643354353",
+      "latestPatchPublishedAt": "2026-11-09T05:48:20+00:00",
       "status": "ok"
     },
     {
