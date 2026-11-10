@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-10T00:50:24.563181+00:00",
+  "generatedAt": "2026-11-10T07:57:29.200811+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -133,11 +133,11 @@
     },
     {
       "game": "Chess",
-      "appId": 4163030,
-      "steamDbUrl": "https://steamdb.info/app/4163030/",
-      "latestPatchTitle": "meow meoow NEW DLC - SAMURAI CATS!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695379",
-      "latestPatchPublishedAt": "2026-10-20T13:54:29+00:00",
+      "appId": 5482350,
+      "steamDbUrl": "https://steamdb.info/app/5482350/",
+      "latestPatchTitle": null,
+      "latestPatchUrl": null,
+      "latestPatchPublishedAt": null,
       "status": "ok"
     },
     {
