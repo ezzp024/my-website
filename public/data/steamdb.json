@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-10T07:57:29.200811+00:00",
+  "generatedAt": "2026-11-10T16:09:26.949562+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -9,9 +9,9 @@
       "game": "ARC Raiders",
       "appId": 1808500,
       "steamDbUrl": "https://steamdb.info/app/1808500/",
-      "latestPatchTitle": "Embark объяснила, почему не спешит добавлять PvE в ARC Raiders: PvP остаётся частью главной идеи игры",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643354353",
-      "latestPatchPublishedAt": "2026-11-09T05:48:20+00:00",
+      "latestPatchTitle": "Store Update 2.5.0",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358748",
+      "latestPatchPublishedAt": "2026-11-10T10:01:22+00:00",
       "status": "ok"
     },
     {
@@ -45,9 +45,9 @@
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "The Dragon Hunter Returns – With a Discount!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344953",
-      "latestPatchPublishedAt": "2026-11-06T10:11:37+00:00",
+      "latestPatchTitle": "Get the Sunspire Emissary in the Season 35 Bundle",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358792",
+      "latestPatchPublishedAt": "2026-11-10T10:13:29+00:00",
       "status": "ok"
     },
     {
@@ -126,9 +126,9 @@
       "game": "Call of Duty",
       "appId": 1938090,
       "steamDbUrl": "https://steamdb.info/app/1938090/",
-      "latestPatchTitle": "The DMZ Free Trial begins Now! PLAY DMZ FOR FREE UNTIL NOV 11 AT 10AM PT",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643347230",
-      "latestPatchPublishedAt": "2026-11-06T19:53:04+00:00",
+      "latestPatchTitle": "Steam Global Top Sellers for week of 3 Nov — 10 November 2026",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1848664643359669",
+      "latestPatchPublishedAt": "2026-11-10T09:00:00+00:00",
       "status": "ok"
     },
     {
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "Thank you, Survivors!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231340",
-      "latestPatchPublishedAt": "2026-10-28T15:00:16+00:00",
+      "latestPatchTitle": "DayZ Merch | Black Friday Sale",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359798",
+      "latestPatchPublishedAt": "2026-11-10T15:00:49+00:00",
       "status": "ok"
     },
     {
@@ -207,9 +207,9 @@
       "game": "Dune Awakening",
       "appId": 1172710,
       "steamDbUrl": "https://steamdb.info/app/1172710/",
-      "latestPatchTitle": "Dune: Awakening – 1.5.20.0 Patch Notes",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355285",
-      "latestPatchPublishedAt": "2026-11-09T12:35:51+00:00",
+      "latestPatchTitle": "Dune: Awakening получила полноценный оффлайн-режим для одиночной игры",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643359996",
+      "latestPatchPublishedAt": "2026-11-10T15:35:02+00:00",
       "status": "ok"
     },
     {
@@ -252,9 +252,9 @@
       "game": "Gray Zone Warfare",
       "appId": 2479810,
       "steamDbUrl": "https://steamdb.info/app/2479810/",
-      "latestPatchTitle": "Security Report: Ban Statistics (October 15 - November 4, 2026)",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344769",
-      "latestPatchPublishedAt": "2026-11-06T09:21:36+00:00",
+      "latestPatchTitle": "Hotfix 0.5.1.1 Now Live - Changelog",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359351",
+      "latestPatchPublishedAt": "2026-11-10T13:18:23+00:00",
       "status": "ok"
     },
     {
@@ -297,9 +297,9 @@
       "game": "Naraka",
       "appId": 1203220,
       "steamDbUrl": "https://steamdb.info/app/1203220/",
-      "latestPatchTitle": "NARAKA: BLADEPOINT Update – November 5th, 2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479637",
-      "latestPatchPublishedAt": "2026-11-04T15:40:35+00:00",
+      "latestPatchTitle": "NARAKA: BLADEPOINT Banned Players List November 10rd",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359279",
+      "latestPatchPublishedAt": "2026-11-10T12:53:44+00:00",
       "status": "ok"
     },
     {
@@ -324,9 +324,9 @@
       "game": "PUBG",
       "appId": 578080,
       "steamDbUrl": "https://steamdb.info/app/578080/",
-      "latestPatchTitle": "PUBG Saturday Custom Games return this weekend!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345061",
-      "latestPatchPublishedAt": "2026-11-06T10:49:59+00:00",
+      "latestPatchTitle": "Twisted Minds crowned as PGS 12 Champions",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359849",
+      "latestPatchPublishedAt": "2026-11-10T15:09:23+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Art Contest Results",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355998",
-      "latestPatchPublishedAt": "2026-11-09T15:56:23+00:00",
+      "latestPatchTitle": "Server Maintenance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360047",
+      "latestPatchPublishedAt": "2026-11-10T15:55:34+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "The Great War Returns With New Obtainable Aircraft to Mark November 11th!",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355086",
-      "latestPatchPublishedAt": "2026-11-09T11:25:50+00:00",
+      "latestPatchTitle": "Enhancements to Munition Guidance",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359695",
+      "latestPatchPublishedAt": "2026-11-10T14:43:08+00:00",
       "status": "ok"
     }
   ]
