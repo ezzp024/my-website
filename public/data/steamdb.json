@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-11T08:13:51.150556+00:00",
+  "generatedAt": "2026-11-11T16:14:04.525304+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -36,18 +36,18 @@
       "game": "Active Matter",
       "appId": 2887580,
       "steamDbUrl": "https://steamdb.info/app/2887580/",
-      "latestPatchTitle": "New Calibers and Weapons: Expanding the Arsenal",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356914",
-      "latestPatchPublishedAt": "2026-11-09T20:20:28+00:00",
+      "latestPatchTitle": "Major Update \"To the sky\"",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178594",
+      "latestPatchPublishedAt": "2026-11-11T13:06:09+00:00",
       "status": "ok"
     },
     {
       "game": "Albion Online",
       "appId": 761890,
       "steamDbUrl": "https://steamdb.info/app/761890/",
-      "latestPatchTitle": "Get the Sunspire Emissary in the Season 35 Bundle",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358792",
-      "latestPatchPublishedAt": "2026-11-10T10:13:29+00:00",
+      "latestPatchTitle": "Get 33% off Vanity Bundles this Singles’ Day",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178072",
+      "latestPatchPublishedAt": "2026-11-11T10:19:37+00:00",
       "status": "ok"
     },
     {
@@ -243,9 +243,9 @@
       "game": "FragPunk",
       "appId": 2943650,
       "steamDbUrl": "https://steamdb.info/app/2943650/",
-      "latestPatchTitle": "FragPunk November 9th Patch Note",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355196",
-      "latestPatchPublishedAt": "2026-11-09T12:08:39+00:00",
+      "latestPatchTitle": "FragPunk November 12th Update Announcement",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178739",
+      "latestPatchPublishedAt": "2026-11-11T13:51:50+00:00",
       "status": "ok"
     },
     {
@@ -360,9 +360,9 @@
       "game": "SCUM",
       "appId": 513710,
       "steamDbUrl": "https://steamdb.info/app/513710/",
-      "latestPatchTitle": "SCUM | November Update Preview",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345878",
-      "latestPatchPublishedAt": "2026-11-06T14:59:22+00:00",
+      "latestPatchTitle": "SCUM - November Update | 1.3.6.0.177121",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144179278",
+      "latestPatchPublishedAt": "2026-11-11T16:02:47+00:00",
       "status": "ok"
     },
     {
@@ -378,9 +378,9 @@
       "game": "STALCRAFT",
       "appId": 1818450,
       "steamDbUrl": "https://steamdb.info/app/1818450/",
-      "latestPatchTitle": "Server Maintenance",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360047",
-      "latestPatchPublishedAt": "2026-11-10T15:55:34+00:00",
+      "latestPatchTitle": "Server maintenance is completed",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177774",
+      "latestPatchPublishedAt": "2026-11-11T08:52:18+00:00",
       "status": "ok"
     },
     {
@@ -432,9 +432,9 @@
       "game": "WarThunder",
       "appId": 236390,
       "steamDbUrl": "https://steamdb.info/app/236390/",
-      "latestPatchTitle": "Planned Technical Works on 11.11.2026",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360468",
-      "latestPatchPublishedAt": "2026-11-10T17:15:37+00:00",
+      "latestPatchTitle": "Eagle’s Shadow: New Rendering! Part 2",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144179292",
+      "latestPatchPublishedAt": "2026-11-11T16:07:03+00:00",
       "status": "ok"
     }
   ]
