@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "steam-news-api+steamdb-links",
-  "generatedAt": "2026-11-13T15:03:01.311643+00:00",
+  "generatedAt": "2026-11-13T21:24:01.266984+00:00",
   "totalGames": 48,
   "mappedGames": 48,
   "games": [
@@ -171,9 +171,9 @@
       "game": "DayZ",
       "appId": 221100,
       "steamDbUrl": "https://steamdb.info/app/221100/",
-      "latestPatchTitle": "DayZ Merch | Black Friday Sale",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359798",
-      "latestPatchPublishedAt": "2026-11-10T15:00:49+00:00",
+      "latestPatchTitle": "DayZ Badlands | Post-Release Dev Blog (Week 04) | Dog Behaviour",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144187858",
+      "latestPatchPublishedAt": "2026-11-13T15:53:40+00:00",
       "status": "ok"
     },
     {
@@ -225,9 +225,9 @@
       "game": "Escape From Tarkov",
       "appId": 3932890,
       "steamDbUrl": "https://steamdb.info/app/3932890/",
-      "latestPatchTitle": "New in-game survey",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144186795",
-      "latestPatchPublishedAt": "2026-11-13T11:07:03+00:00",
+      "latestPatchTitle": "Standard Edition & PvE Zone bundle!",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144188322",
+      "latestPatchPublishedAt": "2026-11-13T17:26:13+00:00",
       "status": "ok"
     },
     {
@@ -288,9 +288,9 @@
       "game": "Marvel Rivals",
       "appId": 2767030,
       "steamDbUrl": "https://steamdb.info/app/2767030/",
-      "latestPatchTitle": "Marvel Rivals draws a line in the sand when it comes to using mods and configs 'to get an unfair combat advantage' but that doesn't help players looking for a stutter fix",
-      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1849192144183152",
-      "latestPatchPublishedAt": "2026-11-12T14:26:32+00:00",
+      "latestPatchTitle": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints",
+      "latestPatchUrl": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1849192144188085",
+      "latestPatchPublishedAt": "2026-11-13T16:28:30+00:00",
       "status": "ok"
     },
     {
